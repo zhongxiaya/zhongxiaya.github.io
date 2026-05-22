@@ -1,0 +1,737 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <head>
+	<meta name="generator" content="Hugo 0.161.1">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <title>7772027.xyz</title><meta name="Description" content="Hugo theme - LoveIt"><meta property="og:url" content="https://7772027.xyz/">
+  <meta property="og:site_name" content="7772027.xyz">
+  <meta property="og:title" content="7772027.xyz">
+  <meta property="og:description" content="Hugo theme - LoveIt">
+  <meta property="og:locale" content="zh_CN">
+  <meta property="og:type" content="website">
+    <meta property="og:image" content="https://7772027.xyz/logo.png">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://7772027.xyz/logo.png">
+  <meta name="twitter:title" content="7772027.xyz">
+  <meta name="twitter:description" content="Hugo theme - LoveIt">
+<meta name="application-name" content="LoveIt">
+<meta name="apple-mobile-web-app-title" content="LoveIt">
+<meta name="referrer" content="no-referrer" /><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://7772027.xyz/" /><link rel="alternate" href="/index.xml" type="application/rss+xml" title="7772027.xyz">
+    <link rel="feed" href="/index.xml" type="application/rss+xml" title="7772027.xyz"><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/css/all.min.css"></noscript><link rel="preload" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css"></noscript><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "url": "https:\/\/7772027.xyz\/","inLanguage": "zh-CN","author": {
+                "@type": "Person",
+                "name": "7772027.xyz"
+            },"description": "Hugo theme - LoveIt","image": "https:\/\/7772027.xyz\/images\/Apple-Devices-Preview.png","thumbnailUrl": "https:\/\/7772027.xyz\/images\/screenshot.png","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","name": "7772027.xyz"
+    }
+    </script></head>
+    <body data-header-desktop="fixed" data-header-mobile="auto"><script>
+          const query = window.matchMedia('(prefers-color-scheme: dark)');
+          function applyTheme() {
+            let theme = window.localStorage?.getItem('theme') || 'light';
+            let isDark = theme === 'dark' || (theme === 'auto' && query.matches);
+            document.body.setAttribute('theme', isDark? 'dark' : 'light');
+            document.body.setAttribute('cfg-theme', theme);
+          }
+
+          applyTheme();
+          query.addEventListener('change', applyTheme);
+        </script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="7772027.xyz">7772027.xyz</a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/posts/"> 所有文章 </a><a class="menu-item" href="/categories/"> 分类 </a><span class="menu-item delimiter"></span><span class="menu-item search" id="search-desktop">
+                        <input type="text" placeholder="搜索文章标题或内容..." id="search-input-desktop">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="搜索">
+                            <i class="fas fa-search" aria-hidden="true"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="清空">
+                            <i class="fas fa-times-circle" aria-hidden="true"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-desktop">
+                            <i class="fas fa-spinner fa-spin" aria-hidden="true"></i>
+                        </span>
+                    </span></div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="7772027.xyz">7772027.xyz</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><div class="search-wrapper">
+                    <div class="search mobile" id="search-mobile">
+                        <input type="text" placeholder="搜索文章标题或内容..." id="search-input-mobile">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="搜索">
+                            <i class="fas fa-search" aria-hidden="true"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="清空">
+                            <i class="fas fa-times-circle" aria-hidden="true"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-mobile">
+                            <i class="fas fa-spinner fa-spin" aria-hidden="true"></i>
+                        </span>
+                    </div>
+                    <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+                        取消
+                    </a>
+                </div><a class="menu-item" href="/posts/" title="">所有文章</a><a class="menu-item" href="/categories/" title="">分类</a></div>
+    </div>
+</header><div class="search-dropdown desktop">
+        <div id="search-dropdown-desktop"></div>
+    </div>
+    <div class="search-dropdown mobile">
+        <div id="search-dropdown-mobile"></div>
+    </div><main class="main">
+                <div class="container"><div class="page home game-resources-home"><div class="update-log-section">
+            <div class="update-log-card">
+                <h2 class="update-log-title">
+                    <span class="update-icon">📢</span>
+                    更新日志
+                </h2><div class="date-navigator">
+                    <button class="date-nav-btn prev-btn" id="prevBtn">
+                        <i class="fas fa-chevron-left"></i>
+                    </button>
+                    <input type="text" class="search-input" id="searchInput" placeholder="搜索文章标题...">
+                    <button class="date-nav-btn next-btn" id="nextBtn">
+                        <i class="fas fa-chevron-right"></i>
+                    </button>
+                </div><ul class="update-list" id="updateList">
+                </ul>
+            </div>
+        </div><div class="game-resources-section">
+            <div class="game-cards-container">
+
+                <a href="https://pan.xunlei.com/s/VOpfzPQMs2u0hAx_Fw9cuckUA1?pwd=n5ry#" class="game-card">
+                    <div class="game-card-content">
+                        <span class="game-card-title">和平精英<br>美化包</span>
+                    </div>
+                </a>
+
+                <a href="https://pan.quark.cn/s/0d5bff839e6b" class="game-card">
+                    <div class="game-card-content">
+                        <span class="game-card-title">外挂合集<br>(无需root)</span>
+                    </div>
+                </a>
+
+                <a href="https://drive.uc.cn/s/c84b8d742d174?public=1" class="game-card">
+                    <div class="game-card-content">
+                        <span class="game-card-title">内核合集<br>(需要root)</span>
+                    </div>
+                </a>
+
+                <a href="https://pan.quark.cn/s/2af40e343ce1" class="game-card">
+                    <div class="game-card-content">
+                        <span class="game-card-title">驱动合集<br>(内核必备)</span>
+                    </div>
+                </a>
+            </div>
+        </div><div class="featured-content-section">
+            <div class="featured-cards-container"><div class="featured-card">
+                    <div class="featured-card-image">
+                        <img src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=和平精英王者荣耀PUBG游戏界面%2C游戏角色%2C美化皮肤&image_size=square" alt="和平 王者 PUBG 三角洲直装辅助">
+                    </div>
+                    <div class="featured-card-content">
+                        <h3 class="featured-card-title">游戏直装辅助合集</h3>
+                        <p class="featured-card-desc">OVO直装、小螃蟹直装、龙王套餐直装、袅娜公测直装、由崎司直装等免费公益直装合集</p>
+                        <a href="/直装合集/" class="download-btn">
+                            <i class="fas fa-cloud-download-alt"></i> 前往下载
+                        </a>
+                    </div>
+                </div><div class="featured-card yellow-card">
+                    <div class="featured-card-image">
+                        <img src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=电脑游戏辅助界面%2C黄色主题%2C游戏修改器&image_size=square" alt="电脑游戏辅助合集">
+                    </div>
+                    <div class="featured-card-content">
+                        <h3 class="featured-card-title">电脑游戏辅助合集</h3>
+                        <a href="/电脑游戏合集/" class="download-btn">
+                            <i class="fas fa-cloud-download-alt"></i> 前往下载
+                        </a>
+                    </div>
+                </div><div class="featured-card">
+                    <div class="featured-card-image">
+                        <img src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=和平精英游戏美化界面截图%2C游戏画面%2C武器美化%2C高清画质&image_size=square" alt="游戏美化合集">
+                    </div>
+                    <div class="featured-card-content">
+                        <h3 class="featured-card-title">游戏美化合集</h3>
+                        <p class="featured-card-desc">全部枪械地铁美化(星梦奇源 超新星等)、局内大厅实体美化、高质量皮美化(图鉴卡蜜乃乃伊、椰奶、eva初号机)、奥特曼皮肤统统免费使用</p>
+                        <a href="/美化包合集/" class="download-btn">
+                            <i class="fas fa-cloud-download-alt"></i> 前往下载
+                        </a>
+                    </div>
+                </div><div class="featured-card">
+                    <div class="featured-card-image">
+                        <img src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=和平精英王者荣耀PUBG游戏内核界面%2C技术风格%2C代码界面&image_size=square" alt="和平 洛克 三角洲 PUBG 王者内核【需要ROOT】">
+                    </div>
+                    <div class="featured-card-content">
+                        <h3 class="featured-card-title">游戏内核+注入合集</h3>
+                        <p class="featured-card-desc">落叶内核、橘子内核、A内核、葫芦娃内核等免费公益内核合集</p>
+                        <a href="/内核合集/" class="download-btn">
+                            <i class="fas fa-cloud-download-alt"></i> 前往下载
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        (function() {
+            
+            const allPosts = [];allPosts.push({
+                        title: '高能英雄内核 江寒雪工艺内核',
+                        url: '\/%E9%AB%98%E8%83%BD%E8%8B%B1%E9%9B%84\/',
+                        date: '2026-05-22',
+                        tags: ['高能英雄','高能英雄内核','需要root','内核']
+                    });allPosts.push({
+                        title: '和平精英内核 Aurora追锁内核',
+                        url: '\/%E5%92%8C%E5%B9%B3%E5%86%85%E6%A0%B8_aurora\/',
+                        date: '2026-05-22',
+                        tags: ['和平精英','和平精英内核','需要root','内核']
+                    });allPosts.push({
+                        title: '和平精英直装 沙漠风暴公益直装',
+                        url: '\/%E5%92%8C%E5%B9%B3%E7%9B%B4%E8%A3%85_%E6%B2%99%E6%BC%A0\/',
+                        date: '2026-05-22',
+                        tags: ['和平精英','和平精英直装','直装']
+                    });allPosts.push({
+                        title: '和平精英直装 沙漠风暴公益直装',
+                        url: '\/%E9%A6%99%E8%82%A0%E6%B4%BE%E5%AF%B9_%E5%8F%AF%E4%B9%90\/',
+                        date: '2026-05-22',
+                        tags: ['和平精英','和平精英直装','直装']
+                    });allPosts.push({
+                        title: '和平美化 小林巅峰小林至尊版单木乃伊＋单枪皮',
+                        url: '\/%E5%B0%8F%E6%9E%97%E7%BE%8E%E5%8C%96%E5%8C%85522\/',
+                        date: '2026-05-22',
+                        tags: ['和平精英美化包','和平精英','免root']
+                    });allPosts.push({
+                        title: '电脑洛克王国世界 AI高德地图资源路线导航5.0',
+                        url: '\/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E4%B8%96%E7%95%8C\/',
+                        date: '2026-04-23',
+                        tags: ['PC洛克王国世界','电脑游戏','PC游戏辅助']
+                    });allPosts.push({
+                        title: '和平美化 超人强尊享版V118(新传世武器 新车皮 金色仓库 雪国金鞋完美 点击特效)',
+                        url: '\/%E8%B6%85%E4%BA%BA%E5%BC%BA419\/',
+                        date: '2026-04-19',
+                        tags: ['和平精英美化包','和平精英','免root']
+                    });allPosts.push({
+                        title: '和平美化 大雾公益版V172',
+                        url: '\/%E5%A4%A7%E9%9B%BE419\/',
+                        date: '2026-04-19',
+                        tags: ['和平精英美化包','和平精英','免root']
+                    });allPosts.push({
+                        title: 'lolm内核 保护伞解密内核2.0.4',
+                        url: '\/lolm\/',
+                        date: '2026-04-18',
+                        tags: ['lolm','lolm内核','需要root','内核']
+                    });allPosts.push({
+                        title: '和平直装 敖润公益直装V5.4',
+                        url: '\/%E5%92%8C%E5%B9%B3%E7%9B%B4%E8%A3%85_%E6%95%96%E6%B6%A6\/',
+                        date: '2026-04-18',
+                        tags: ['和平精英','和平精英直装','直装']
+                    });allPosts.push({
+                        title: '洛克王国内核 内核绘制辅助',
+                        url: '\/%E6%B4%9B%E5%85%8B%E5%86%85%E6%A0%B8_%E7%BB%98%E5%88%B6\/',
+                        date: '2026-04-18',
+                        tags: ['洛克王国','洛克王国内核','需要root','内核']
+                    });allPosts.push({
+                        title: '迷你枪战直装 小米公益直装辅助',
+                        url: '\/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98_%E5%B0%8F%E7%B1%B3\/',
+                        date: '2026-04-18',
+                        tags: ['迷你枪战','迷你枪战直装','直装']
+                    });allPosts.push({
+                        title: '三角洲内核 蓝猫公益多功能解密内核5.0',
+                        url: '\/%E4%B8%89%E8%A7%92%E6%B4%B2%E5%86%85%E6%A0%B8_%E8%93%9D%E7%8C%AB\/',
+                        date: '2026-04-18',
+                        tags: ['三角洲','三角洲内核','需要root','内核']
+                    });allPosts.push({
+                        title: '王者荣耀世界 江寒雪内核辅助',
+                        url: '\/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%96%E7%95%8C%E5%86%85%E6%A0%B8_%E6%B1%9F%E5%AF%92%E9%9B%AA\/',
+                        date: '2026-04-18',
+                        tags: ['王者荣耀世界','王者荣耀世界内核','内核']
+                    });allPosts.push({
+                        title: 'CFM内核 六花公益无解密内核',
+                        url: '\/cfm\/',
+                        date: '2026-04-17',
+                        tags: ['CFM','CFM内核','需要root','内核']
+                    });allPosts.push({
+                        title: 'PC幻兽帕鲁_Damanlive内部多功能辅助',
+                        url: '\/pc_pai\/',
+                        date: '2026-04-17',
+                        tags: ['电脑游戏','PC游戏辅助']
+                    });allPosts.push({
+                        title: '和平精英直装 布丁公益容器直装',
+                        url: '\/%E5%92%8C%E5%B9%B3%E7%9B%B4%E8%A3%85_%E5%B8%83%E4%B8%81\/',
+                        date: '2026-04-17',
+                        tags: ['和平精英','和平精英直装','直装']
+                    });allPosts.push({
+                        title: '和平美化 小林巅峰美化V173(机甲＋新传世武器＋头像框＋称号＋零战备＋播报)',
+                        url: '\/%E5%B0%8F%E6%9E%97%E7%BE%8E%E5%8C%96417\/',
+                        date: '2026-04-17',
+                        tags: ['和平精英美化包','和平精英','免root']
+                    });allPosts.push({
+                        title: '和平美化 小林巅峰美化V175(机甲＋新传世武器＋头像框＋称号＋零战备＋播报)',
+                        url: '\/%E5%B0%8F%E6%9E%97%E7%BE%8E%E5%8C%96%E5%8C%85421\/',
+                        date: '2026-04-17',
+                        tags: ['和平精英美化包','和平精英','免root']
+                    });allPosts.push({
+                        title: '无畏契约内核 狗辛公益多功能内核',
+                        url: '\/%E6%97%A0%E7%95%8F%E5%86%85%E6%A0%B8_%E7%8B%97%E8%BE%9B\/',
+                        date: '2026-04-17',
+                        tags: ['无畏契约','无畏契约','需要root','内核']
+                    });allPosts.push({
+                        title: '和平精英直装 利刃公益直装v2.7',
+                        url: '\/%E5%92%8C%E5%B9%B3%E7%9B%B4%E8%A3%85_%E5%88%A9%E5%88%83\/',
+                        date: '2026-04-16',
+                        tags: ['和平精英','和平精英直装','直装']
+                    });allPosts.push({
+                        title: '和平精英直装 四宫辉夜容器直装',
+                        url: '\/%E5%92%8C%E5%B9%B3%E7%9B%B4%E8%A3%85_%E5%9B%9B%E5%AE%AB%E8%BE%89%E5%A4%9C\/',
+                        date: '2026-04-16',
+                        tags: ['和平精英','和平精英直装','直装']
+                    });allPosts.push({
+                        title: '和平精英直装 游戏保镖BT变态版直装v6.4新赛季',
+                        url: '\/%E5%92%8C%E5%B9%B3%E7%9B%B4%E8%A3%85_bt%E6%B8%B8%E6%88%8F%E4%BF%9D%E9%95%96\/',
+                        date: '2026-04-16',
+                        tags: ['和平精英','和平精英直装','直装']
+                    });allPosts.push({
+                        title: '和平精英直装 游戏保镖稳定版直装v5.2',
+                        url: '\/%E5%92%8C%E5%B9%B3%E7%9B%B4%E8%A3%85_%E6%B8%B8%E6%88%8F%E4%BF%9D%E9%95%96\/',
+                        date: '2026-04-16',
+                        tags: ['和平精英','和平精英直装','直装']
+                    });allPosts.push({
+                        title: '和平美化 大雾公益版V171',
+                        url: '\/%E5%A4%A7%E9%9B%BE416\/',
+                        date: '2026-04-16',
+                        tags: ['和平精英美化包','和平精英','免root']
+                    });allPosts.push({
+                        title: '和平美化 小林巅峰版V172(经典无配件\u002b星际m4\u002b特殊入场\u002b零战备\u002b语音\u002b动作\u002b新投掷物)',
+                        url: '\/%E5%B0%8F%E6%9E%97%E7%BE%8E%E5%8C%96416\/',
+                        date: '2026-04-16',
+                        tags: ['和平精英美化包','和平精英','免root']
+                    });allPosts.push({
+                        title: '和平美化 小林新版本美化＋内透＋广角',
+                        url: '\/%E5%B0%8F%E6%9E%97%E5%86%85%E9%80%8F\/',
+                        date: '2026-04-16',
+                        tags: ['和平精英','美化包','无需root']
+                    });allPosts.push({
+                        title: '和平美化包防封防冻结 【原版文件】',
+                        url: '\/%E5%8E%9F%E7%89%88%E6%96%87%E4%BB%B6\/',
+                        date: '2026-04-16',
+                        tags: ['和平精英美化包','和平精英','原版文件','免root']
+                    });allPosts.push({
+                        title: '洛克王国内核 NRC内核免费辅助7.0',
+                        url: '\/%E6%B4%9B%E5%85%8B%E5%86%85%E6%A0%B8_nrc%E5%86%85%E6%A0%B8\/',
+                        date: '2026-04-16',
+                        tags: ['洛克王国','洛克王国内核','需要root','内核']
+                    });allPosts.push({
+                        title: '三角洲内核 S9赛季黑雪纯C内核公益辅助',
+                        url: '\/%E4%B8%89%E8%A7%92%E6%B4%B2%E5%86%85%E6%A0%B8_%E9%BB%91%E9%9B%AA\/',
+                        date: '2026-04-16',
+                        tags: ['三角洲','三角洲内核','需要root','内核']
+                    });allPosts.push({
+                        title: '三角洲内核 牛哥CPU自瞄内核S9最新更新',
+                        url: '\/%E4%B8%89%E8%A7%92%E6%B4%B2%E5%86%85%E6%A0%B8_%E7%89%9B%E5%93%A5\/',
+                        date: '2026-04-16',
+                        tags: ['三角洲','三角洲内核','需要root','内核']
+                    });allPosts.push({
+                        title: '三角洲内核 晴天公益内核',
+                        url: '\/%E4%B8%89%E8%A7%92%E6%B4%B2_%E6%99%B4%E5%A4%A9\/',
+                        date: '2026-04-16',
+                        tags: ['三角洲','三角洲内核','需要root','内核']
+                    });allPosts.push({
+                        title: '无畏契约直装 蓝莓公益直装',
+                        url: '\/%E6%97%A0%E7%95%8F%E7%9B%B4%E8%A3%85_%E8%93%9D%E8%8E%93\/',
+                        date: '2026-04-16',
+                        tags: ['无畏契约','无畏契约直装','直装']
+                    });allPosts.push({
+                        title: '暗区突围内核 Cameal公益辅助内核',
+                        url: '\/%E6%9A%97%E5%8C%BA%E5%86%85%E6%A0%B8_cameal\/',
+                        date: '2026-04-15',
+                        tags: ['暗区突围','暗区突围内核','需要root','内核']
+                    });allPosts.push({
+                        title: '和平精英内核 FX公益内核辅助v7.0',
+                        url: '\/%E5%92%8C%E5%B9%B3%E5%86%85%E6%A0%B8_fx\/',
+                        date: '2026-04-15',
+                        tags: ['和平精英','和平精英内核','需要root','内核']
+                    });allPosts.push({
+                        title: '和平精英内核 葫芦娃公益内核辅助',
+                        url: '\/%E5%92%8C%E5%B9%B3%E5%86%85%E6%A0%B8_%E8%91%AB%E8%8A%A6%E5%A8%83\/',
+                        date: '2026-04-15',
+                        tags: ['和平精英','和平精英内核','需要root','内核']
+                    });allPosts.push({
+                        title: '和平精英内核 绝世公益高端内核',
+                        url: '\/%E5%92%8C%E5%B9%B3%E5%86%85%E6%A0%B8_%E7%BB%9D%E4%B8%96\/',
+                        date: '2026-04-15',
+                        tags: ['和平精英','和平精英内核','需要root','内核']
+                    });allPosts.push({
+                        title: '王者内核 XF无解密公益内核',
+                        url: '\/%E7%8E%8B%E8%80%85%E5%86%85%E6%A0%B8_xf\/',
+                        date: '2026-04-15',
+                        tags: ['王者荣耀','王者荣耀内核','需要root','内核']
+                    });allPosts.push({
+                        title: '王者内核 于嫣公益内核辅助90.0',
+                        url: '\/%E7%8E%8B%E8%80%85%E5%86%85%E6%A0%B8_%E4%BA%8E%E5%AB%A3\/',
+                        date: '2026-04-15',
+                        tags: ['王者荣耀','王者荣耀内核','需要root','内核']
+                    });allPosts.push({
+                        title: '王者内核 郁霖铃公益内核辅助1.1',
+                        url: '\/%E7%8E%8B%E8%80%85%E5%86%85%E6%A0%B8_%E9%83%81%E9%9C%96%E9%93%83\/',
+                        date: '2026-04-15',
+                        tags: ['王者荣耀','王者荣耀内核','需要root','内核']
+                    });allPosts.push({
+                        title: '王者内核 猪猪侠公益内核',
+                        url: '\/%E7%8E%8B%E8%80%85%E5%86%85%E6%A0%B8_%E7%8C%AA%E7%8C%AA%E4%BE%A0\/',
+                        date: '2026-04-12',
+                        tags: ['王者荣耀','王者荣耀内核','需要root','内核']
+                    });allPosts.push({
+                        title: '和平精英 超凡公益多功能直装666',
+                        url: '\/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E8%B6%85%E5%87%A1%E7%9B%B4%E8%A3%85\/',
+                        date: '2026-04-11',
+                        tags: ['和平精英','和平精英直装','直装']
+                    });allPosts.push({
+                        title: '和平直装 灰熊容器直装v2.5',
+                        url: '\/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E7%81%B0%E7%86%8A%E7%9B%B4%E8%A3%85\/',
+                        date: '2026-04-11',
+                        tags: ['和平精英','和平精英直装','直装']
+                    });allPosts.push({
+                        title: '王者内核 EN无解密内核【自瞄｜美化｜共享】',
+                        url: '\/%E7%8E%8B%E8%80%85%E5%86%85%E6%A0%B8_en%E6%97%A0%E8%A7%A3%E5%AF%86\/',
+                        date: '2026-04-09',
+                        tags: ['王者荣耀','王者荣耀内核','需要root','内核']
+                    });allPosts.push({
+                        title: '王者内核 宇宙公益内核',
+                        url: '\/%E7%8E%8B%E8%80%85%E5%86%85%E6%A0%B8_%E5%AE%87%E5%AE%99\/',
+                        date: '2026-04-09',
+                        tags: ['王者荣耀','王者荣耀内核','需要root','内核']
+                    });allPosts.push({
+                        title: '无畏契约内核 葫芦娃公益内核',
+                        url: '\/%E6%97%A0%E7%95%8F%E5%86%85%E6%A0%B8_%E8%91%AB%E8%8A%A6%E5%A8%83\/',
+                        date: '2026-04-09',
+                        tags: ['无畏契约','无畏契约','需要root','内核']
+                    });allPosts.push({
+                        title: '和平美化 小侄至尊版美化V62(神装美化)',
+                        url: '\/%E5%B0%8F%E4%BE%84%E7%BE%8E%E5%8C%96%E5%8C%85\/',
+                        date: '2026-04-07',
+                        tags: ['和平精英美化包','和平精英','免root']
+                    });allPosts.push({
+                        title: '和平美化 小侄至尊版美化V62(神装美化)',
+                        url: '\/%E7%BE%8E%E5%8C%96%E6%95%99%E7%A8%8B\/',
+                        date: '2026-04-07',
+                        tags: ['和平精英美化包','和平精英','免root']
+                    });allPosts.push({
+                        title: '造梦西游PC修改器',
+                        url: '\/%E9%80%A0%E6%A2%A6%E8%A5%BF%E6%B8%B8pc%E4%BF%AE%E6%94%B9%E5%99%A8\/',
+                        date: '2026-04-03',
+                        tags: ['修改器','造梦西游']
+                    });allPosts.push({
+                        title: '植物大战僵尸(融合版)',
+                        url: '\/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8%E8%9E%8D%E5%90%88%E7%89%88\/',
+                        date: '2026-04-03',
+                        tags: ['植物大战僵尸','融合版']
+                    });allPosts.push({
+                        title: '电脑游戏合集',
+                        url: '\/%E7%94%B5%E8%84%91%E6%B8%B8%E6%88%8F%E5%90%88%E9%9B%86\/',
+                        date: '2026-01-01',
+                        tags: ['合集']
+                    });allPosts.push({
+                        title: '美化包合集',
+                        url: '\/%E7%BE%8E%E5%8C%96%E5%8C%85%E5%90%88%E9%9B%86\/',
+                        date: '2026-01-01',
+                        tags: ['合集']
+                    });allPosts.push({
+                        title: '内核合集',
+                        url: '\/%E5%86%85%E6%A0%B8%E5%90%88%E9%9B%86\/',
+                        date: '2026-01-01',
+                        tags: ['合集']
+                    });allPosts.push({
+                        title: '驱动合集',
+                        url: '\/%E9%A9%B1%E5%8A%A8%E5%90%88%E9%9B%86\/',
+                        date: '2026-01-01',
+                        tags: ['驱动合集','需要root','内核']
+                    });allPosts.push({
+                        title: '直装合集',
+                        url: '\/%E7%9B%B4%E8%A3%85%E5%90%88%E9%9B%86\/',
+                        date: '2026-01-01',
+                        tags: ['合集']
+                    });allPosts.push({
+                        title: '',
+                        url: '\/pc_%E4%BF%AE%E6%94%B9%E6%9C%BA%E5%99%A8%E7%A0%81%E5%B7%A5%E5%85%B7\/',
+                        date: '0001-01-01',
+                        tags: []
+                    });allPosts.push({
+                        title: '',
+                        url: '\/%E5%B0%8F%E6%9E%97%E5%B9%BF%E8%A7%92\/',
+                        date: '0001-01-01',
+                        tags: []
+                    });
+            allPosts.sort((a, b) => b.date.localeCompare(a.date));
+
+            const ITEMS_PER_PAGE = 20;
+            let currentPage = 1;
+            let activeTag = null;
+            let searchKeyword = '';
+
+            
+            const allTags = new Set();
+            allPosts.forEach(post => {
+                if (post.tags && Array.isArray(post.tags)) {
+                    post.tags.forEach(tag => allTags.add(tag));
+                }
+            });
+
+            
+            function getFilteredPosts() {
+                let result = [...allPosts];
+                
+                
+                if (activeTag) {
+                    result = result.filter(post => 
+                        post.tags && post.tags.includes(activeTag)
+                    );
+                }
+                
+                
+                if (searchKeyword.trim()) {
+                    const keyword = searchKeyword.toLowerCase();
+                    result = result.filter(post => 
+                        post.title.toLowerCase().includes(keyword)
+                    );
+                }
+                
+                return result;
+            }
+
+            
+            function getCurrentPagePosts() {
+                const filtered = getFilteredPosts();
+                const start = (currentPage - 1) * ITEMS_PER_PAGE;
+                const end = start + ITEMS_PER_PAGE;
+                return filtered.slice(start, end);
+            }
+
+            
+            function getTotalPages() {
+                const filtered = getFilteredPosts();
+                return Math.ceil(filtered.length / ITEMS_PER_PAGE);
+            }
+
+            
+            function renderUpdates() {
+                const list = document.getElementById('updateList');
+                
+                if (!list) return;
+                
+                const filteredPosts = getFilteredPosts();
+                const currentPosts = getCurrentPagePosts();
+                
+                list.innerHTML = '';
+                
+                currentPosts.forEach(post => {
+                    const li = document.createElement('li');
+                    li.className = 'update-item';
+                    
+                    const link = document.createElement('a');
+                    link.href = post.url;
+                    link.textContent = post.title;
+                    link.style.color = 'inherit';
+                    link.style.textDecoration = 'none';
+                    link.style.transition = 'color 0.3s ease';
+                    link.style.display = 'block';
+                    link.style.marginBottom = '4px';
+                    link.style.fontSize = '13px';
+                    
+                    link.addEventListener('mouseenter', function() {
+                        this.style.color = '#6366f1';
+                    });
+                    link.addEventListener('mouseleave', function() {
+                        this.style.color = 'inherit';
+                    });
+                    
+                    li.appendChild(link);
+                    
+                    
+                    const bottomContainer = document.createElement('div');
+                    bottomContainer.style.display = 'flex';
+                    bottomContainer.style.alignItems = 'center';
+                    bottomContainer.style.flexWrap = 'wrap';
+                    bottomContainer.style.gap = '6px';
+                    bottomContainer.style.marginTop = '4px';
+                    
+                    
+                    const downloadBtn = document.createElement('a');
+                    downloadBtn.href = post.url;
+                    downloadBtn.textContent = '【点击下载】';
+                    downloadBtn.style.fontSize = '10px';
+                    downloadBtn.style.color = '#6366f1';
+                    downloadBtn.style.textDecoration = 'none';
+                    downloadBtn.style.fontWeight = '600';
+                    downloadBtn.style.cursor = 'pointer';
+                    downloadBtn.style.transition = 'all 0.3s ease';
+                    downloadBtn.style.flexShrink = '0';
+                    
+                    downloadBtn.addEventListener('mouseenter', function() {
+                        this.style.color = '#4f46e5';
+                        this.style.textDecoration = 'underline';
+                    });
+                    downloadBtn.addEventListener('mouseleave', function() {
+                        this.style.color = '#6366f1';
+                        this.style.textDecoration = 'none';
+                    });
+                    
+                    bottomContainer.appendChild(downloadBtn);
+                    
+                    
+                    if (post.tags && post.tags.length > 0) {
+                        const tagsContainer = document.createElement('div');
+                        tagsContainer.style.display = 'inline-flex';
+                        tagsContainer.style.gap = '4px';
+                        tagsContainer.style.flexWrap = 'wrap';
+                        tagsContainer.style.flex = '1';
+                        tagsContainer.style.minWidth = '0';
+                        
+                        post.tags.forEach(tag => {
+                            const tagSpan = document.createElement('span');
+                            tagSpan.textContent = '#' + tag;
+                            tagSpan.style.color = '#999';
+                            tagSpan.style.cursor = 'pointer';
+                            tagSpan.style.fontSize = '10px';
+                            tagSpan.style.padding = '1px 4px';
+                            tagSpan.style.borderRadius = '2px';
+                            tagSpan.style.backgroundColor = 'transparent';
+                            tagSpan.style.transition = 'all 0.3s ease';
+                            tagSpan.style.whiteSpace = 'nowrap';
+                            
+                            if (activeTag === tag) {
+                                tagSpan.style.backgroundColor = '#6366f1';
+                                tagSpan.style.color = 'white';
+                            }
+                            
+                            tagSpan.addEventListener('click', function(e) {
+                                e.preventDefault();
+                                e.stopPropagation();
+                                if (activeTag === tag) {
+                                    activeTag = null;
+                                } else {
+                                    activeTag = tag;
+                                }
+                                currentPage = 1;
+                                renderUpdates();
+                            });
+                            
+                            tagSpan.addEventListener('mouseenter', function() {
+                                if (activeTag !== tag) {
+                                    this.style.backgroundColor = 'rgba(99, 102, 241, 0.1)';
+                                    this.style.color = '#6366f1';
+                                }
+                            });
+                            
+                            tagSpan.addEventListener('mouseleave', function() {
+                                if (activeTag !== tag) {
+                                    this.style.backgroundColor = 'transparent';
+                                    this.style.color = '#999';
+                                }
+                            });
+                            
+                            tagsContainer.appendChild(tagSpan);
+                        });
+                        
+                        bottomContainer.appendChild(tagsContainer);
+                    }
+                    
+                    
+                    const dateSpan = document.createElement('span');
+                    dateSpan.className = 'post-date';
+                    dateSpan.textContent = post.date;
+                    dateSpan.style.fontSize = '10px';
+                    dateSpan.style.color = '#999';
+                    dateSpan.style.marginLeft = 'auto';
+                    dateSpan.style.flexShrink = '0';
+                    dateSpan.style.whiteSpace = 'nowrap';
+                    
+                    bottomContainer.appendChild(dateSpan);
+                    
+                    li.appendChild(bottomContainer);
+                    
+                    list.appendChild(li);
+                });
+            }
+
+            
+            function prevPage() {
+                if (currentPage > 1) {
+                    currentPage--;
+                    renderUpdates();
+                }
+            }
+
+            
+            function nextPage() {
+                const totalPages = getTotalPages();
+                if (currentPage < totalPages) {
+                    currentPage++;
+                    renderUpdates();
+                }
+            }
+
+            function init() {
+                const prevBtn = document.getElementById('prevBtn');
+                const nextBtn = document.getElementById('nextBtn');
+                const searchInput = document.getElementById('searchInput');
+                
+                if (prevBtn) {
+                    prevBtn.addEventListener('click', prevPage);
+                }
+                if (nextBtn) {
+                    nextBtn.addEventListener('click', nextPage);
+                }
+                if (searchInput) {
+                    searchInput.addEventListener('input', function(e) {
+                        searchKeyword = e.target.value;
+                        currentPage = 1;
+                        renderUpdates();
+                    });
+                }
+                
+                renderUpdates();
+            }
+
+            if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', init);
+            } else {
+                init();
+            }
+        })();
+    </script></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><i class="far fa-copyright" aria-hidden="true"></i><span itemprop="copyrightYear">2019 - 2026</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank">7772027.xyz</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
+        </div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="回到顶部">
+                <i class="fas fa-arrow-up" aria-hidden="true"></i>
+            </a>
+        </div>
+
+        <div id="fixed-buttons-hidden"><a href="#" id="view-comments" class="fixed-button" title="查看评论">
+                <i class="fas fa-comment" aria-hidden="true"></i>
+            </a>
+        </div><script src="https://cdn.jsdelivr.net/npm/autocomplete.js@0.38.1/dist/autocomplete.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lunr@2.3.9/lunr.min.js"></script><script src="/lib/lunr/lunr.stemmer.support.min.js"></script><script src="/lib/lunr/lunr.zh.min.js"></script><script src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script><script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js"></script><script>window.config={"search":{"highlightTag":"em","lunrIndexURL":"/index.json","lunrLanguageCode":"zh","lunrSegmentitURL":"/lib/lunr/lunr.segmentit.js","maxResultLength":10,"noResultsFound":"没有找到结果","snippetLength":50,"type":"lunr"}};</script><script src="/js/theme.js"></script></body>
+</html>
