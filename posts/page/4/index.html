@@ -91,36 +91,39 @@
     <div class="search-dropdown mobile">
         <div id="search-dropdown-mobile"></div>
     </div><main class="main">
-                <div class="container"><div class="page archive"><div class="tag-filter-bar" id="tagFilterBar">
-            <span class="tag-filter-label">🏷️ 标签筛选:</span>
-            <div class="tag-filter-list" id="tagFilterList"></div>
-            <button class="tag-clear-btn" id="tagClearBtn" style="display: none;">✕ 清除</button>
-        </div><div class="archive-list-container" id="archiveListContainer"><h3 class="group-title">2026</h3><article class="archive-item" data-tags="植物大战僵尸,融合版">
+                <div class="container"><div class="page archive"><div class="ad-carousel" id="adCarousel">
+            <div class="ad-carousel-track" id="adCarouselTrack">
+                <a class="ad-carousel-slide" href="https://haokawx.lot-ml.com/ProductEn/Index/bb9f7d3d57fcac5f" target="_blank">
+                    <img src="https://pics7.baidu.com/feed/5fdf8db1cb134954998555d3b8df0848d0094a14.jpeg@f_auto?token=b96f1d09a9457884b9739dca68184109" alt="广告1" loading="lazy">
+                </a>
+                <a class="ad-carousel-slide" href="https://haokawx.lot-ml.com/ProductEn/Index/bb9f7d3d57fcac5f" target="_blank">
+                    <img src="https://pics7.baidu.com/feed/5fdf8db1cb134954998555d3b8df0848d0094a14.jpeg@f_auto?token=b96f1d09a9457884b9739dca68184109" alt="广告1" loading="lazy">
+                </a>
+                <a class="ad-carousel-slide" href="https://haokawx.lot-ml.com/ProductEn/Index/bb9f7d3d57fcac5f" target="_blank">
+                    <img src="https://pics7.baidu.com/feed/5fdf8db1cb134954998555d3b8df0848d0094a14.jpeg@f_auto?token=b96f1d09a9457884b9739dca68184109" alt="广告1" loading="lazy">
+                </a>
+            </div>
+            <div class="ad-carousel-dots" id="adCarouselDots"></div>
+        </div><div class="archive-list-container" id="archiveListContainer"><h3 class="group-title">2026</h3><article class="archive-item">
                         <a href="/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8%E8%9E%8D%E5%90%88%E7%89%88/" class="archive-item-link">植物大战僵尸(融合版)</a>
                         <span class="archive-item-date">04-03</span>
-                    </article><article class="archive-item" data-tags="修改器,造梦西游">
+                    </article><article class="archive-item">
                         <a href="/%E9%80%A0%E6%A2%A6%E8%A5%BF%E6%B8%B8pc%E4%BF%AE%E6%94%B9%E5%99%A8/" class="archive-item-link">造梦西游PC修改器</a>
                         <span class="archive-item-date">04-03</span>
-                    </article><article class="archive-item" data-tags="合集">
+                    </article><article class="archive-item">
                         <a href="/%E7%9B%B4%E8%A3%85%E5%90%88%E9%9B%86/" class="archive-item-link">直装合集</a>
                         <span class="archive-item-date">01-01</span>
-                    </article><article class="archive-item" data-tags="驱动合集,需要root,内核">
+                    </article><article class="archive-item">
                         <a href="/%E9%A9%B1%E5%8A%A8%E5%90%88%E9%9B%86/" class="archive-item-link">驱动合集</a>
                         <span class="archive-item-date">01-01</span>
-                    </article><article class="archive-item" data-tags="合集">
+                    </article><article class="archive-item">
                         <a href="/%E5%86%85%E6%A0%B8%E5%90%88%E9%9B%86/" class="archive-item-link">内核合集</a>
                         <span class="archive-item-date">01-01</span>
-                    </article><article class="archive-item" data-tags="合集">
+                    </article><article class="archive-item">
                         <a href="/%E7%BE%8E%E5%8C%96%E5%8C%85%E5%90%88%E9%9B%86/" class="archive-item-link">美化包合集</a>
                         <span class="archive-item-date">01-01</span>
-                    </article><article class="archive-item" data-tags="合集">
+                    </article><article class="archive-item">
                         <a href="/%E7%94%B5%E8%84%91%E6%B8%B8%E6%88%8F%E5%90%88%E9%9B%86/" class="archive-item-link">电脑游戏合集</a>
-                        <span class="archive-item-date">01-01</span>
-                    </article><h3 class="group-title">0001</h3><article class="archive-item" data-tags="">
-                        <a href="/%E5%B0%8F%E6%9E%97%E5%B9%BF%E8%A7%92/" class="archive-item-link"></a>
-                        <span class="archive-item-date">01-01</span>
-                    </article><article class="archive-item" data-tags="">
-                        <a href="/pc_%E4%BF%AE%E6%94%B9%E6%9C%BA%E5%99%A8%E7%A0%81%E5%B7%A5%E5%85%B7/" class="archive-item-link"></a>
                         <span class="archive-item-date">01-01</span>
                     </article><ul class="pagination"><li class="page-item ">
                     <span class="page-link">
@@ -138,125 +141,56 @@
                     <span class="page-link">
                         <a href="/posts/page/4/">4</a>
                     </span>
-                </li></ul></div><div style="display:none;" id="originalArchiveContent"></div>
+                </li></ul></div>
     </div>
 
     <script>
         (function() {
-            
-            const allTags = new Set();
-            let activeTag = null;
+            const track = document.getElementById('adCarouselTrack');
+            const dotsContainer = document.getElementById('adCarouselDots');
+            if (!track || !dotsContainer) return;
+
+            const slides = track.querySelectorAll('.ad-carousel-slide');
+            if (slides.length === 0) return;
+
+            let currentIndex = 0;
+            let autoTimer = null;
+            const interval = 3000;
 
             
-            document.addEventListener('DOMContentLoaded', function() {
-                const archiveItems = document.querySelectorAll('.archive-item[data-tags]');
-                
-                archiveItems.forEach(item => {
-                    const tagsStr = item.getAttribute('data-tags');
-                    if (tagsStr) {
-                        tagsStr.split(',').forEach(tag => {
-                            if (tag.trim()) {
-                                allTags.add(tag.trim());
-                            }
-                        });
-                    }
-                });
-
-                
-                renderTagFilter();
+            slides.forEach(function(_, i) {
+                const dot = document.createElement('span');
+                dot.className = 'ad-carousel-dot';
+                if (i === 0) dot.classList.add('active');
+                dot.addEventListener('click', function() { goTo(i); });
+                dotsContainer.appendChild(dot);
             });
 
-            
-            function renderTagFilter() {
-                const tagList = document.getElementById('tagFilterList');
-                const clearBtn = document.getElementById('tagClearBtn');
-                
-                if (!tagList) return;
-                
-                tagList.innerHTML = '';
-                
-                
-                const sortedTags = Array.from(allTags).sort();
-                
-                sortedTags.forEach(tag => {
-                    const tagSpan = document.createElement('span');
-                    tagSpan.className = 'tag-filter-item';
-                    tagSpan.textContent = '#' + tag;
-                    tagSpan.dataset.tag = tag;
-                    
-                    if (activeTag === tag) {
-                        tagSpan.classList.add('active');
-                    }
-                    
-                    tagSpan.addEventListener('click', function() {
-                        if (activeTag === tag) {
-                            activeTag = null;
-                        } else {
-                            activeTag = tag;
-                        }
-                        renderTagFilter();
-                        filterArticles();
-                    });
-                    
-                    tagList.appendChild(tagSpan);
-                });
-                
-                
-                if (clearBtn) {
-                    clearBtn.style.display = activeTag ? 'inline-flex' : 'none';
-                }
+            const dots = dotsContainer.querySelectorAll('.ad-carousel-dot');
+
+            function goTo(index) {
+                currentIndex = index;
+                track.style.transform = 'translateX(-' + (index * 100) + '%)';
+                dots.forEach(function(d, i) { d.classList.toggle('active', i === index); });
             }
 
-            
-            function filterArticles() {
-                const archiveItems = document.querySelectorAll('.archive-item[data-tags]');
-                const groupTitles = document.querySelectorAll('.group-title');
-                let hasVisibleItem = false;
-
-                archiveItems.forEach(item => {
-                    const tagsStr = item.getAttribute('data-tags');
-                    const tags = tagsStr ? tagsStr.split(',').map(t => t.trim()) : [];
-                    
-                    if (activeTag && !tags.includes(activeTag)) {
-                        item.style.display = 'none';
-                    } else {
-                        item.style.display = '';
-                        hasVisibleItem = true;
-                    }
-                });
-
-                
-                groupTitles.forEach(title => {
-                    let nextElement = title.nextElementSibling;
-                    let hasVisibleSibling = false;
-                    
-                    while (nextElement && !nextElement.classList.contains('group-title')) {
-                        if (nextElement.classList.contains('archive-item') && nextElement.style.display !== 'none') {
-                            hasVisibleSibling = true;
-                            break;
-                        }
-                        nextElement = nextElement.nextElementSibling;
-                    }
-                    
-                    title.style.display = hasVisibleSibling ? '' : 'none';
-                });
+            function nextSlide() {
+                goTo((currentIndex + 1) % slides.length);
             }
 
-            
-            function clearTagFilter() {
-                activeTag = null;
-                renderTagFilter();
-                filterArticles();
+            function startAuto() {
+                stopAuto();
+                autoTimer = setInterval(nextSlide, interval);
             }
 
-            
-            document.addEventListener('DOMContentLoaded', function() {
-                const tagClearBtn = document.getElementById('tagClearBtn');
-                
-                if (tagClearBtn) {
-                    tagClearBtn.addEventListener('click', clearTagFilter);
-                }
-            });
+            function stopAuto() {
+                if (autoTimer) { clearInterval(autoTimer); autoTimer = null; }
+            }
+
+            track.parentElement.addEventListener('mouseenter', stopAuto);
+            track.parentElement.addEventListener('mouseleave', startAuto);
+
+            startAuto();
         })();
     </script></div>
             </main><footer class="footer">

@@ -108,11 +108,11 @@
                     更新日志
                 </h2><div class="date-navigator">
                     <button class="date-nav-btn prev-btn" id="prevBtn">
-                        <i class="fas fa-chevron-left"></i>
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="15 18 9 12 15 6"/></svg>
                     </button>
                     <input type="text" class="search-input" id="searchInput" placeholder="搜索文章标题...">
                     <button class="date-nav-btn next-btn" id="nextBtn">
-                        <i class="fas fa-chevron-right"></i>
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="9 18 15 12 9 6"/></svg>
                     </button>
                 </div><ul class="update-list" id="updateList">
                 </ul>
@@ -205,6 +205,44 @@
                 );
             allPosts.sort((a, b) => b.date.localeCompare(a.date));
 
+            const DEFAULT_ICON = 'data:image/svg+xml,' + encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%236366f1"><circle cx="12" cy="12" r="10"/></svg>');
+
+            
+            
+            const TAG_ICON_MAP = {
+                '和平精英': 'https://image.uc.cn/s/wemedia/s/upload/2026/e16621ad804adbc7353089bff5b99c3d.png',
+                '王者荣耀': 'https://image.uc.cn/s/wemedia/s/upload/2026/4cdd4498b79df03e8ed609d0aa986587.png',
+                '王者荣耀世界': 'https://image.uc.cn/s/wemedia/s/upload/2026/4cdd4498b79df03e8ed609d0aa986587.png',
+                '无畏契约': 'https://image.uc.cn/s/wemedia/s/upload/2026/7f055b51a1ee980869bb35fbdffe1dbc.png',
+                'lolm': 'https://image.uc.cn/s/wemedia/s/upload/2026/47c6b766d1979d9e8198cc657bc5547e.png',
+                'CFM': 'https://image.uc.cn/s/wemedia/s/upload/2026/4cdd4498b79df03e8ed609d0aa986587.png',
+                '超凡先锋': 'https://image.uc.cn/s/wemedia/s/upload/2026/03d4711666bdac429f6f081cc85d63a6.png',
+                'CFM': 'https://image.uc.cn/s/wemedia/s/upload/2026/4cdd4498b79df03e8ed609d0aa986587.png',
+                '明日之后': 'https://image.uc.cn/s/wemedia/s/upload/2026/47a564520157b302efccd62de2e3042b.png',
+                '高能英雄': 'https://image.uc.cn/s/wemedia/s/upload/2026/0c516caa8b66c9ad45f455636b17c6d7.png',
+                '暗区突围': 'https://image.uc.cn/s/wemedia/s/upload/2026/93932bedddacf5851acd4f3d1ac74298.png',
+                '植物大战僵尸': 'https://image.uc.cn/s/wemedia/s/upload/2026/03b81ca134f398edfabedc8878ec88ae.png',
+                '超自然行动组': 'https://image.uc.cn/s/wemedia/s/upload/2026/4cdd4498b79df03e8ed609d0aa986587.png',
+                '洛克王国': 'https://image.uc.cn/s/wemedia/s/upload/2026/1fd0972fae91ba804741acdbdeba161f.png',
+                'PC洛克王国世界': 'https://image.uc.cn/s/wemedia/s/upload/2026/1fd0972fae91ba804741acdbdeba161f.png',
+                '合集': 'https://image.uc.cn/s/wemedia/s/upload/2026/c6ac01c0822f4106c1f13415170abab0.png',
+                '造梦西游': 'https://image.uc.cn/s/wemedia/s/upload/2026/9e14d0f8ca6bdeb5909f94645b466179.png',
+                '三角洲': 'https://image.uc.cn/s/wemedia/s/upload/2026/688d093567c8668418546b791f9e4af8.png',
+            };
+
+            
+            function getPostIcon(post) {
+                if (post.icon) return post.icon;
+                if (post.tags && Array.isArray(post.tags)) {
+                    for (let i = 0; i < post.tags.length; i++) {
+                        if (TAG_ICON_MAP[post.tags[i]]) {
+                            return TAG_ICON_MAP[post.tags[i]];
+                        }
+                    }
+                }
+                return DEFAULT_ICON;
+            }
+
             const ITEMS_PER_PAGE = 20;
             let currentPage = 1;
             let activeTag = null;
@@ -265,9 +303,30 @@
                 
                 list.innerHTML = '';
                 
-                currentPosts.forEach(post => {
+                
+                const batchSize = 5;
+                let batchIndex = 0;
+                
+                function renderBatch() {
+                    const start = batchIndex * batchSize;
+                    const end = Math.min(start + batchSize, currentPosts.length);
+                    
+                    for (let i = start; i < end; i++) {
+                    const post = currentPosts[i];
                     const li = document.createElement('li');
                     li.className = 'update-item';
+                    
+                    
+                    const iconImg = document.createElement('img');
+                    iconImg.className = 'update-item-icon';
+                    iconImg.src = getPostIcon(post);
+                    iconImg.alt = '';
+                    iconImg.width = 16;
+                    iconImg.height = 16;
+                    iconImg.loading = 'lazy';
+                    iconImg.decoding = 'async';
+                    iconImg.onerror = function() { this.src = DEFAULT_ICON; };
+                    li.appendChild(iconImg);
                     
                     const link = document.createElement('a');
                     link.href = post.url;
@@ -277,7 +336,7 @@
                     link.style.transition = 'color 0.3s ease';
                     link.style.display = 'block';
                     link.style.marginBottom = '4px';
-                    link.style.fontSize = '13px';
+                    link.style.fontSize = '11px';
                     
                     link.addEventListener('mouseenter', function() {
                         this.style.color = '#6366f1';
@@ -300,7 +359,7 @@
                     const downloadBtn = document.createElement('a');
                     downloadBtn.href = post.url;
                     downloadBtn.textContent = '【点击下载】';
-                    downloadBtn.style.fontSize = '10px';
+                    downloadBtn.style.fontSize = '9px';
                     downloadBtn.style.color = '#6366f1';
                     downloadBtn.style.textDecoration = 'none';
                     downloadBtn.style.fontWeight = '600';
@@ -333,7 +392,7 @@
                             tagSpan.textContent = '#' + tag;
                             tagSpan.style.color = '#999';
                             tagSpan.style.cursor = 'pointer';
-                            tagSpan.style.fontSize = '10px';
+                            tagSpan.style.fontSize = '9px';
                             tagSpan.style.padding = '1px 4px';
                             tagSpan.style.borderRadius = '2px';
                             tagSpan.style.backgroundColor = 'transparent';
@@ -381,7 +440,7 @@
                     const dateSpan = document.createElement('span');
                     dateSpan.className = 'post-date';
                     dateSpan.textContent = post.date;
-                    dateSpan.style.fontSize = '10px';
+                    dateSpan.style.fontSize = '9px';
                     dateSpan.style.color = '#999';
                     dateSpan.style.marginLeft = 'auto';
                     dateSpan.style.flexShrink = '0';
@@ -392,7 +451,14 @@
                     li.appendChild(bottomContainer);
                     
                     list.appendChild(li);
-                });
+                    }
+                    batchIndex++;
+                    if (start + batchSize < currentPosts.length) {
+                        requestAnimationFrame(renderBatch);
+                    }
+                }
+                
+                requestAnimationFrame(renderBatch);
             }
 
             
