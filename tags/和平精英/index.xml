@@ -99,8 +99,22 @@
     <pubDate>Mon, 25 May 2026 00:00:00 &#43;0000</pubDate>
     <author>7772027.xyz</author>
     <guid>https://7772027.xyz/%E7%BE%8E%E5%8C%96%E5%8C%85%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</guid>
-    <description><![CDATA[<h3></h3>
-<p>待更新</p>]]></description>
+    <description><![CDATA[<h3 id="待更新测试">待更新测试</h3>
+<ul>
+<li>卡密 1：<span class="copy-btn" data-copy="KAMI-001-A8B2">
+    <span class="copy-text">KAMI-001-A8B2</span>
+    <span class="copy-label">Copy</span>
+</span></li>
+<li><span class="copy-btn" data-copy="要复制的文本">
+    <span class="copy-text">要复制的文本</span>
+    <span class="copy-label">按钮文字</span>
+</span></li>
+</ul>
+<h3 id="下载地址">下载地址</h3>
+<p>百度网盘：<span class="copy-btn" data-copy="https://pan.baidu.com/s/xxx">
+    <span class="copy-text">https://pan.baidu.com/s/xxx</span>
+    <span class="copy-label">复制链接</span>
+</span></p>]]></description>
 </item>
 <item>
     <title>和平精英内核 果果单透公益内核</title>

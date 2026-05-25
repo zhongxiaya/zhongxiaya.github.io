@@ -145,7 +145,45 @@
 </ul>
 <h3 id="下载地址">下载地址</h3>
 <p><a href="#" rel="">立即下载</a></p>
-</div><div class="post-footer" id="post-footer">
+</div><script>
+        (function() {
+            document.querySelectorAll('.copy-btn').forEach(function(btn) {
+                btn.addEventListener('click', function() {
+                    var text = this.getAttribute('data-copy');
+                    if (!text) return;
+                    navigator.clipboard.writeText(text).then(function() {
+                        var label = btn.querySelector('.copy-label');
+                        var oldText = label ? label.textContent : '';
+                        btn.classList.add('copied');
+                        if (label) label.textContent = 'OK!';
+                        setTimeout(function() {
+                            btn.classList.remove('copied');
+                            if (label) label.textContent = oldText;
+                        }, 1200);
+                    }).catch(function() {
+                        var ta = document.createElement('textarea');
+                        ta.value = text;
+                        ta.style.position = 'fixed';
+                        ta.style.opacity = '0';
+                        document.body.appendChild(ta);
+                        ta.select();
+                        try {
+                            document.execCommand('copy');
+                            var label = btn.querySelector('.copy-label');
+                            var oldText = label ? label.textContent : '';
+                            btn.classList.add('copied');
+                            if (label) label.textContent = 'OK!';
+                            setTimeout(function() {
+                                btn.classList.remove('copied');
+                                if (label) label.textContent = oldText;
+                            }, 1200);
+                        } catch(e) {}
+                        document.body.removeChild(ta);
+                    });
+                });
+            });
+        })();
+        </script><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
