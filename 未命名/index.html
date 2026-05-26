@@ -121,7 +121,45 @@
                     <span><i class="details-icon fas fa-angle-right" aria-hidden="true"></i></span>
                 </div>
                 <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents"></nav></div>
-            </div><div class="content" id="content"></div><div class="post-footer" id="post-footer">
+            </div><div class="content" id="content"></div><script>
+        (function() {
+            document.querySelectorAll('.copy-btn').forEach(function(btn) {
+                btn.addEventListener('click', function() {
+                    var text = this.getAttribute('data-copy');
+                    if (!text) return;
+                    navigator.clipboard.writeText(text).then(function() {
+                        var label = btn.querySelector('.copy-label');
+                        var oldText = label ? label.textContent : '';
+                        btn.classList.add('copied');
+                        if (label) label.textContent = 'OK!';
+                        setTimeout(function() {
+                            btn.classList.remove('copied');
+                            if (label) label.textContent = oldText;
+                        }, 1200);
+                    }).catch(function() {
+                        var ta = document.createElement('textarea');
+                        ta.value = text;
+                        ta.style.position = 'fixed';
+                        ta.style.opacity = '0';
+                        document.body.appendChild(ta);
+                        ta.select();
+                        try {
+                            document.execCommand('copy');
+                            var label = btn.querySelector('.copy-label');
+                            var oldText = label ? label.textContent : '';
+                            btn.classList.add('copied');
+                            if (label) label.textContent = 'OK!';
+                            setTimeout(function() {
+                                btn.classList.remove('copied');
+                                if (label) label.textContent = oldText;
+                            }, 1200);
+                        } catch(e) {}
+                        document.body.removeChild(ta);
+                    });
+                });
+            });
+        })();
+        </script><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
