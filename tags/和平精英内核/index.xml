@@ -3,7 +3,20 @@
         <title>和平精英内核 - 标签 - 7772027.xyz</title>
         <link>https://7772027.xyz/tags/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E5%86%85%E6%A0%B8/</link>
         <description>和平精英内核 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 29 May 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E5%86%85%E6%A0%B8/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 31 May 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E5%86%85%E6%A0%B8/" rel="self" type="application/rss+xml" /><item>
+    <title>和平精英内核 Seart内核2.0版本</title>
+    <link>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E5%86%85%E6%A0%B8_seart%E5%86%85%E6%A0%B8/</link>
+    <pubDate>Sun, 31 May 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E5%86%85%E6%A0%B8_seart%E5%86%85%E6%A0%B8/</guid>
+    <description><![CDATA[<h3 id="卡密">卡密：</h3>
+<p>@SeNB888</p>
+<h3 id="更新日志">更新日志：</h3>
+<p>1.增加陀螺仪自瞄的充电方向调节 可判断屏幕是否旋转避免了陀螺仪自瞄出现失效的问题</p>
+<p>2.增加方形方框 方形方框可跟四角方框调节使用</p>
+<p>3.修复经典密钥问题</p>]]></description>
+</item>
+<item>
     <title>和平精英内核 光头强断点陀螺仪雷达内核</title>
     <link>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E5%86%85%E6%A0%B8_%E5%85%89%E5%A4%B4%E5%BC%BA0529/</link>
     <pubDate>Fri, 29 May 2026 00:00:00 &#43;0000</pubDate>
@@ -197,29 +210,6 @@
 </li>
 <li>
 <p>‼️使用新版本前删除旧版本配置文件/data/adb/FX配置</p>]]></description>
-</item>
-<item>
-    <title>和平精英内核 葫芦娃公益内核辅助</title>
-    <link>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E5%86%85%E6%A0%B8_%E8%91%AB%E8%8A%A6%E5%A8%83/</link>
-    <pubDate>Wed, 15 Apr 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E5%86%85%E6%A0%B8_%E8%91%AB%E8%8A%A6%E5%A8%83/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
-<ul>
-<li>
-<p>葫芦娃和平公益4.6更新日志</p>
-</li>
-<li>
-<p>修复迫击炮雷达没效果</p>
-</li>
-<li>
-<p>使用方法:1.悬浮窗开启迫击炮雷达</p>
-</li>
-<li>
-<p>2.然后手持迫击炮雷达，将雷达十字架调整到迫击炮小地图中心</p>
-</li>
-<li>
-<p>3.通过移动迫击炮准星到雷达圆点位置，十字架对准之后开炮即可</p>]]></description>
 </item>
 </channel>
 </rss>
