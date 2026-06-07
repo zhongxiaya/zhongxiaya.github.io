@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>PUBG内核 - 标签 - 7772027.xyz</title>
+        <link>https://7772027.xyz/tags/pubg%E5%86%85%E6%A0%B8/</link>
+        <description>PUBG内核 - 标签 - 7772027.xyz</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 07 Jun 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/pubg%E5%86%85%E6%A0%B8/" rel="self" type="application/rss+xml" /><item>
+    <title>PUBG内核 RUN四服更新</title>
+    <link>https://7772027.xyz/pubg%E5%86%85%E6%A0%B8_run/</link>
+    <pubDate>Sun, 07 Jun 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/pubg%E5%86%85%E6%A0%B8_run/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>1.更新了路飞功能</p>
+<p>2.更新了趴下高跳，部分设备可以正常使用</p>
+<p>3.添加了模型漏打(4服)</p>
+<p>4.增加了模型绘制(4服)</p>
+<p>5.稍微优化了一下UI的颜色和样子</p>
+<p>6.优化了CPU的占用</p>]]></description>
+</item>
+</channel>
+</rss>
