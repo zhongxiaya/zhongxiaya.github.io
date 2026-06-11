@@ -107,15 +107,25 @@
                     <span class="update-icon">📢</span>
                     更新日志
                 </h2><div class="date-navigator">
-                    <button class="date-nav-btn prev-btn" id="prevBtn">
+                    <button class="date-nav-btn prev-btn" id="prevBtn" aria-label="上一页">
                         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="15 18 9 12 15 6"/></svg>
                     </button>
                     <input type="text" class="search-input" id="searchInput" placeholder="搜索文章标题...">
-                    <button class="date-nav-btn next-btn" id="nextBtn">
+                    <button class="date-nav-btn next-btn" id="nextBtn" aria-label="下一页">
                         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="9 18 15 12 9 6"/></svg>
                     </button>
-                </div><ul class="update-list" id="updateList">
-                </ul>
+                </div><ul class="update-list" id="updateList"><li class="update-item">
+                            <img class="update-item-icon" src="" alt="" width="16" height="16" loading="lazy" decoding="async">
+                            <a href="https://pan.baidu.com/s/1cN0IpudxsXsscR5kAvrHDQ?pwd=8888" class="update-link">游戏内核合集</a>
+                            <div class="update-bottom">
+                                <a href="https://pan.baidu.com/s/1cN0IpudxsXsscR5kAvrHDQ?pwd=8888" class="update-dl-btn">【点击下载】</a>
+                                <div class="update-tags">
+                                    <span class="update-tag">#内核</span>
+                                    <span class="update-tag">#和平精英</span>
+                                </div>
+                                <span class="post-date">2026-01-01</span>
+                            </div>
+                        </li></ul>
             </div>
         </div><div class="game-resources-section">
             <div class="game-cards-container">
@@ -194,332 +204,161 @@
     </div>
 
     <script>
-        (function() {
-            
-            const allPosts = [];
-                allPosts.push(
-                    { title: '游戏内核合集', url: 'https://pan.baidu.com/s/1cN0IpudxsXsscR5kAvrHDQ?pwd=8888', date: '2026-01-1', tags: ['内核', '和平精英'] },
-                    { title: '游戏美化合集', url: 'https://drive.uc.cn/s/f967a54c4f5e4?public=1', date: '2026-01-1', tags: ['美化', '和平精英'] },
-                    { title: '游戏科技合集', url: 'https://pan.xunlei.com/s/VOpg3EJPv3BxqCiaOX3JMr1UA1?pwd=5sn4#', date: '2026-01-1', tags: ['直装', '和平精英'] },
-                    { title: 'PC电脑游戏科技合集', url: 'https://pan.quark.cn/s/0d5bff839e6b', date: '2026-01-1', tags: ['欢迎', '和平精英'] }
-                );
-            allPosts.sort((a, b) => b.date.localeCompare(a.date));
+    (function(){
+        var DEFAULT_ICON = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Ccircle cx='12' cy='12' r='10' fill='%236366f1'/%3E%3C/svg%3E";
+        var TAG_ICON_MAP = {
+            '和平精英':'https://image.uc.cn/s/wemedia/s/upload/2026/e16621ad804adbc7353089bff5b99c3d.png',
+            '王者荣耀':'https://image.uc.cn/s/wemedia/s/upload/2026/4cdd4498b79df03e8ed609d0aa986587.png',
+            '王者荣耀世界':'https://image.uc.cn/s/wemedia/s/upload/2026/4cdd4498b79df03e8ed609d0aa986587.png',
+            '无畏契约':'https://image.uc.cn/s/wemedia/s/upload/2026/7f055b51a1ee980869bb35fbdffe1dbc.png',
+            'PUBG':'https://image.uc.cn/s/wemedia/s/upload/2026/5fb8548bc0aac1140ed48f4ba3ea7c67.png',
+            '使命召唤':'https://image.uc.cn/s/wemedia/s/upload/2026/ba2a3a302e3d152f9a983145138498a2.png',
+            '火影忍者':'https://image.uc.cn/s/wemedia/s/upload/2026/17bf76e3f0764c801714c537f48dcc5a.png',
+            '永劫无间':'https://image.uc.cn/s/wemedia/s/upload/2026/fc7a7f12ff66f67deff5c2e52a9ebfc1.png',
+            '香肠派对':'https://image.uc.cn/s/wemedia/s/upload/2026/4a441e3a1cac58bfbfe779ab2fbb43f0.png',
+            '卡拉比丘':'https://image.uc.cn/s/wemedia/s/upload/2026/31198a4471ce7862b8ad7e6386cd9cf3.png',
+            '异环':'https://image.uc.cn/s/wemedia/s/upload/2026/5f6954419c37a6496ae3fdf49df0ded9.png',
+            '原神':'https://image.uc.cn/s/wemedia/s/upload/2026/0f8dedf43639c756a40496c621444989.png',
+            '穿越火线':'https://image.uc.cn/s/wemedia/s/upload/2026/4213150364fabf874e1022855a94b014.png',
+            '英雄联盟':'https://image.uc.cn/s/wemedia/s/upload/2026/47c6b766d1979d9e8198cc657bc5547e.png',
+            'QQ飞车':'https://image.uc.cn/s/wemedia/s/upload/2026/b06765618699d3e24197ac1e8ad4dc4b.png',
+            '光遇':'https://image.uc.cn/s/wemedia/s/upload/2026/8720e01eca71dbeb31f54c3f2d39cb36.png',
+            'apex':'https://image.uc.cn/s/wemedia/s/upload/2026/c26f620afcf6e6af2a6d326d2aa0a0a1.png',
+            'cs2':'https://image.uc.cn/s/wemedia/s/upload/2026/9a56d8870bf6d484acc5f556f43196d5.png',
+            'lolm':'https://image.uc.cn/s/wemedia/s/upload/2026/47c6b766d1979d9e8198cc657bc5547e.png',
+            '超凡先锋':'https://image.uc.cn/s/wemedia/s/upload/2026/03d4711666bdac429f6f081cc85d63a6.png',
+            'CFM':'https://image.uc.cn/s/wemedia/s/upload/2026/4213150364fabf874e1022855a94b014.png',
+            '明日之后':'https://image.uc.cn/s/wemedia/s/upload/2026/47a564520157b302efccd62de2e3042b.png',
+            '高能英雄':'https://image.uc.cn/s/wemedia/s/upload/2026/0c516caa8b66c9ad45f455636b17c6d7.png',
+            '暗区突围':'https://image.uc.cn/s/wemedia/s/upload/2026/93932bedddacf5851acd4f3d1ac74298.png',
+            '植物大战僵尸':'https://image.uc.cn/s/wemedia/s/upload/2026/03b81ca134f398edfabedc8878ec88ae.png',
+            '超自然行动组':'https://image.uc.cn/s/wemedia/s/upload/2026/8f0da9942477348e76948d9bf2353471.png',
+            '洛克王国':'https://image.uc.cn/s/wemedia/s/upload/2026/1fd0972fae91ba804741acdbdeba161f.png',
+            'PC洛克王国':'https://image.uc.cn/s/wemedia/s/upload/2026/1fd0972fae91ba804741acdbdeba161f.png',
+            'PC洛克王国世界':'https://image.uc.cn/s/wemedia/s/upload/2026/1fd0972fae91ba804741acdbdeba161f.png',
+            '合集':'https://image.uc.cn/s/wemedia/s/upload/2026/c6ac01c0822f4106c1f13415170abab0.png',
+            '造梦西游':'https://image.uc.cn/s/wemedia/s/upload/2026/9e14d0f8ca6bdeb5909f94645b466179.png',
+            '三角洲':'https://image.uc.cn/s/wemedia/s/upload/2026/688d093567c8668418546b791f9e4af8.png'
+        };var allPosts = [];allPosts.sort(function(a,b){return b[2].localeCompare(a[2])});
 
-            const DEFAULT_ICON = 'data:image/svg+xml,' + encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%236366f1"><circle cx="12" cy="12" r="10"/></svg>');
+        var ITEMS_PER_PAGE = 20;
+        var currentPage = 1;
+        var activeTag = null;
+        var searchKeyword = '';
 
-            
-            
-            const TAG_ICON_MAP = {
-                '和平精英': 'https://image.uc.cn/s/wemedia/s/upload/2026/e16621ad804adbc7353089bff5b99c3d.png',
-                '王者荣耀': 'https://image.uc.cn/s/wemedia/s/upload/2026/4cdd4498b79df03e8ed609d0aa986587.png',
-                '王者荣耀世界': 'https://image.uc.cn/s/wemedia/s/upload/2026/4cdd4498b79df03e8ed609d0aa986587.png',
-                '无畏契约': 'https://image.uc.cn/s/wemedia/s/upload/2026/7f055b51a1ee980869bb35fbdffe1dbc.png',
-                'PUBG': 'https://image.uc.cn/s/wemedia/s/upload/2026/5fb8548bc0aac1140ed48f4ba3ea7c67.png',
-                '使命召唤': 'https://image.uc.cn/s/wemedia/s/upload/2026/ba2a3a302e3d152f9a983145138498a2.png',
-                '火影忍者': 'https://image.uc.cn/s/wemedia/s/upload/2026/17bf76e3f0764c801714c537f48dcc5a.png',
-                '永劫无间': 'https://image.uc.cn/s/wemedia/s/upload/2026/fc7a7f12ff66f67deff5c2e52a9ebfc1.png',
-                '香肠派对': 'https://image.uc.cn/s/wemedia/s/upload/2026/4a441e3a1cac58bfbfe779ab2fbb43f0.png',
-                '卡拉比丘': 'https://image.uc.cn/s/wemedia/s/upload/2026/31198a4471ce7862b8ad7e6386cd9cf3.png',
-                '异环': 'https://image.uc.cn/s/wemedia/s/upload/2026/5f6954419c37a6496ae3fdf49df0ded9.png',
-                '原神': 'https://image.uc.cn/s/wemedia/s/upload/2026/0f8dedf43639c756a40496c621444989.png',
-                '穿越火线': 'https://image.uc.cn/s/wemedia/s/upload/2026/4213150364fabf874e1022855a94b014.png',
-                '英雄联盟': 'https://image.uc.cn/s/wemedia/s/upload/2026/47c6b766d1979d9e8198cc657bc5547e.png',
-                'QQ飞车': 'https://image.uc.cn/s/wemedia/s/upload/2026/b06765618699d3e24197ac1e8ad4dc4b.png',
-                '光遇': 'https://image.uc.cn/s/wemedia/s/upload/2026/8720e01eca71dbeb31f54c3f2d39cb36.png',
-                'apex': 'https://image.uc.cn/s/wemedia/s/upload/2026/c26f620afcf6e6af2a6d326d2aa0a0a1.png',
-                'cs2': 'https://image.uc.cn/s/wemedia/s/upload/2026/9a56d8870bf6d484acc5f556f43196d5.png',            
-                'lolm': 'https://image.uc.cn/s/wemedia/s/upload/2026/47c6b766d1979d9e8198cc657bc5547e.png',
-                '超凡先锋': 'https://image.uc.cn/s/wemedia/s/upload/2026/03d4711666bdac429f6f081cc85d63a6.png',
-                'CFM': 'https://image.uc.cn/s/wemedia/s/upload/2026/4213150364fabf874e1022855a94b014.png',
-                '明日之后': 'https://image.uc.cn/s/wemedia/s/upload/2026/47a564520157b302efccd62de2e3042b.png',
-                '高能英雄': 'https://image.uc.cn/s/wemedia/s/upload/2026/0c516caa8b66c9ad45f455636b17c6d7.png',
-                '暗区突围': 'https://image.uc.cn/s/wemedia/s/upload/2026/93932bedddacf5851acd4f3d1ac74298.png',
-                '植物大战僵尸': 'https://image.uc.cn/s/wemedia/s/upload/2026/03b81ca134f398edfabedc8878ec88ae.png',
-                '超自然行动组': 'https://image.uc.cn/s/wemedia/s/upload/2026/8f0da9942477348e76948d9bf2353471.png',
-                '洛克王国': 'https://image.uc.cn/s/wemedia/s/upload/2026/1fd0972fae91ba804741acdbdeba161f.png',
-                'PC洛克王国': 'https://image.uc.cn/s/wemedia/s/upload/2026/1fd0972fae91ba804741acdbdeba161f.png',
-                'PC洛克王国世界': 'https://image.uc.cn/s/wemedia/s/upload/2026/1fd0972fae91ba804741acdbdeba161f.png',
-                '合集': 'https://image.uc.cn/s/wemedia/s/upload/2026/c6ac01c0822f4106c1f13415170abab0.png',
-                '造梦西游': 'https://image.uc.cn/s/wemedia/s/upload/2026/9e14d0f8ca6bdeb5909f94645b466179.png',
-                '三角洲': 'https://image.uc.cn/s/wemedia/s/upload/2026/688d093567c8668418546b791f9e4af8.png',
-            };
-
-            
-            function getPostIcon(post) {
-                if (post.icon) return post.icon;
-                if (post.tags && Array.isArray(post.tags)) {
-                    for (let i = 0; i < post.tags.length; i++) {
-                        if (TAG_ICON_MAP[post.tags[i]]) {
-                            return TAG_ICON_MAP[post.tags[i]];
-                        }
-                    }
-                }
-                return DEFAULT_ICON;
+        function getPostIcon(tags) {
+            for (var i = 0; i < tags.length; i++) {
+                if (TAG_ICON_MAP[tags[i]]) return TAG_ICON_MAP[tags[i]];
             }
+            return DEFAULT_ICON;
+        }
 
-            const ITEMS_PER_PAGE = 20;
-            let currentPage = 1;
-            let activeTag = null;
-            let searchKeyword = '';
+        function getFilteredPosts() {
+            var result = [];
+            for (var i = 0; i < allPosts.length; i++) {
+                var post = allPosts[i];
+                if (activeTag) {
+                    var found = false;
+                    for (var j = 3; j < post.length; j++) { if (post[j] === activeTag) { found = true; break; } }
+                    if (!found) continue;
+                }
+                if (searchKeyword) {
+                    if (post[0].toLowerCase().indexOf(searchKeyword) === -1) continue;
+                }
+                result.push(post);
+            }
+            return result;
+        }
 
-            
-            const allTags = new Set();
-            allPosts.forEach(post => {
-                if (post.tags && Array.isArray(post.tags)) {
-                    post.tags.forEach(tag => allTags.add(tag));
+        function getTotalPages() {
+            return Math.ceil(getFilteredPosts().length / ITEMS_PER_PAGE) || 1;
+        }
+
+        function getCurrentPagePosts() {
+            var filtered = getFilteredPosts();
+            var start = (currentPage - 1) * ITEMS_PER_PAGE;
+            return filtered.slice(start, start + ITEMS_PER_PAGE);
+        }function renderUpdates() {
+            var list = document.getElementById('updateList');
+            if (!list) return;
+            var posts = getCurrentPagePosts();
+            var html = '';
+            for (var i = 0; i < posts.length; i++) {
+                var p = posts[i];
+                var tags = p.slice(3);
+                var icon = getPostIcon(tags);
+                html += '<li class="update-item" data-date="' + p[2] + '">';
+                html += '<img class="update-item-icon" src="' + icon + '" alt="" width="16" height="16" loading="lazy" decoding="async" onerror="this.src=\'' + DEFAULT_ICON + '\'">';
+                html += '<a href="' + p[1] + '" class="update-link">' + p[0] + '</a>';
+                html += '<div class="update-bottom">';
+                html += '<a href="' + p[1] + '" class="update-dl-btn">【点击下载】</a>';
+                if (tags.length) {
+                    html += '<div class="update-tags">';
+                    for (var t = 0; t < tags.length; t++) {
+                        var cls = (activeTag === tags[t]) ? ' update-tag-active' : '';
+                        html += '<span class="update-tag' + cls + '" data-tag="' + tags[t] + '">#' + tags[t] + '</span>';
+                    }
+                    html += '</div>';
+                }
+                html += '<span class="post-date">' + p[2] + '</span>';
+                html += '</div></li>';
+            }
+            list.innerHTML = html;
+        }
+
+        function prevPage() {
+            if (currentPage > 1) { currentPage--; renderUpdates(); }
+        }
+        function nextPage() {
+            if (currentPage < getTotalPages()) { currentPage++; renderUpdates(); }
+        }function init() {
+            var list = document.getElementById('updateList');
+            var searchInput = document.getElementById('searchInput');
+            var prevBtn = document.getElementById('prevBtn');
+            var nextBtn = document.getElementById('nextBtn');list.addEventListener('click', function(e) {
+                var tag = e.target.closest('.update-tag');
+                if (tag) {
+                    e.preventDefault();
+                    var tagName = tag.getAttribute('data-tag');
+                    activeTag = (activeTag === tagName) ? null : tagName;
+                    currentPage = 1;
+                    renderUpdates();
                 }
             });
 
-            
-            function getFilteredPosts() {
-                let result = [...allPosts];
-                
-                
-                if (activeTag) {
-                    result = result.filter(post => 
-                        post.tags && post.tags.includes(activeTag)
-                    );
-                }
-                
-                
-                if (searchKeyword.trim()) {
-                    const keyword = searchKeyword.toLowerCase();
-                    result = result.filter(post => 
-                        post.title.toLowerCase().includes(keyword)
-                    );
-                }
-                
-                return result;
-            }
-
-            
-            function getCurrentPagePosts() {
-                const filtered = getFilteredPosts();
-                const start = (currentPage - 1) * ITEMS_PER_PAGE;
-                const end = start + ITEMS_PER_PAGE;
-                return filtered.slice(start, end);
-            }
-
-            
-            function getTotalPages() {
-                const filtered = getFilteredPosts();
-                return Math.ceil(filtered.length / ITEMS_PER_PAGE);
-            }
-
-            
-            function renderUpdates() {
-                const list = document.getElementById('updateList');
-                
-                if (!list) return;
-                
-                const filteredPosts = getFilteredPosts();
-                const currentPosts = getCurrentPagePosts();
-                
-                list.innerHTML = '';
-                
-                
-                const batchSize = 5;
-                let batchIndex = 0;
-                
-                function renderBatch() {
-                    const start = batchIndex * batchSize;
-                    const end = Math.min(start + batchSize, currentPosts.length);
-                    
-                    for (let i = start; i < end; i++) {
-                    const post = currentPosts[i];
-                    const li = document.createElement('li');
-                    li.className = 'update-item';
-                    
-                    
-                    const iconImg = document.createElement('img');
-                    iconImg.className = 'update-item-icon';
-                    iconImg.src = getPostIcon(post);
-                    iconImg.alt = '';
-                    iconImg.width = 16;
-                    iconImg.height = 16;
-                    iconImg.loading = 'lazy';
-                    iconImg.decoding = 'async';
-                    iconImg.onerror = function() { this.src = DEFAULT_ICON; };
-                    li.appendChild(iconImg);
-                    
-                    const link = document.createElement('a');
-                    link.href = post.url;
-                    link.textContent = post.title;
-                    link.style.color = 'inherit';
-                    link.style.textDecoration = 'none';
-                    link.style.transition = 'color 0.3s ease';
-                    link.style.display = 'block';
-                    link.style.marginBottom = '4px';
-                    link.style.fontSize = '11px';
-                    
-                    link.addEventListener('mouseenter', function() {
-                        this.style.color = '#6366f1';
-                    });
-                    link.addEventListener('mouseleave', function() {
-                        this.style.color = 'inherit';
-                    });
-                    
-                    li.appendChild(link);
-                    
-                    
-                    const bottomContainer = document.createElement('div');
-                    bottomContainer.style.display = 'flex';
-                    bottomContainer.style.alignItems = 'center';
-                    bottomContainer.style.flexWrap = 'wrap';
-                    bottomContainer.style.gap = '6px';
-                    bottomContainer.style.marginTop = '4px';
-                    
-                    
-                    const downloadBtn = document.createElement('a');
-                    downloadBtn.href = post.url;
-                    downloadBtn.textContent = '【点击下载】';
-                    downloadBtn.style.fontSize = '9px';
-                    downloadBtn.style.color = '#6366f1';
-                    downloadBtn.style.textDecoration = 'none';
-                    downloadBtn.style.fontWeight = '600';
-                    downloadBtn.style.cursor = 'pointer';
-                    downloadBtn.style.transition = 'all 0.3s ease';
-                    downloadBtn.style.flexShrink = '0';
-                    
-                    downloadBtn.addEventListener('mouseenter', function() {
-                        this.style.color = '#4f46e5';
-                        this.style.textDecoration = 'underline';
-                    });
-                    downloadBtn.addEventListener('mouseleave', function() {
-                        this.style.color = '#6366f1';
-                        this.style.textDecoration = 'none';
-                    });
-                    
-                    bottomContainer.appendChild(downloadBtn);
-                    
-                    
-                    if (post.tags && post.tags.length > 0) {
-                        const tagsContainer = document.createElement('div');
-                        tagsContainer.style.display = 'inline-flex';
-                        tagsContainer.style.gap = '4px';
-                        tagsContainer.style.flexWrap = 'wrap';
-                        tagsContainer.style.flex = '1';
-                        tagsContainer.style.minWidth = '0';
-                        
-                        post.tags.forEach(tag => {
-                            const tagSpan = document.createElement('span');
-                            tagSpan.textContent = '#' + tag;
-                            tagSpan.style.color = '#999';
-                            tagSpan.style.cursor = 'pointer';
-                            tagSpan.style.fontSize = '9px';
-                            tagSpan.style.padding = '1px 4px';
-                            tagSpan.style.borderRadius = '2px';
-                            tagSpan.style.backgroundColor = 'transparent';
-                            tagSpan.style.transition = 'all 0.3s ease';
-                            tagSpan.style.whiteSpace = 'nowrap';
-                            
-                            if (activeTag === tag) {
-                                tagSpan.style.backgroundColor = '#6366f1';
-                                tagSpan.style.color = 'white';
-                            }
-                            
-                            tagSpan.addEventListener('click', function(e) {
-                                e.preventDefault();
-                                e.stopPropagation();
-                                if (activeTag === tag) {
-                                    activeTag = null;
-                                } else {
-                                    activeTag = tag;
-                                }
-                                currentPage = 1;
-                                renderUpdates();
-                            });
-                            
-                            tagSpan.addEventListener('mouseenter', function() {
-                                if (activeTag !== tag) {
-                                    this.style.backgroundColor = 'rgba(99, 102, 241, 0.1)';
-                                    this.style.color = '#6366f1';
-                                }
-                            });
-                            
-                            tagSpan.addEventListener('mouseleave', function() {
-                                if (activeTag !== tag) {
-                                    this.style.backgroundColor = 'transparent';
-                                    this.style.color = '#999';
-                                }
-                            });
-                            
-                            tagsContainer.appendChild(tagSpan);
-                        });
-                        
-                        bottomContainer.appendChild(tagsContainer);
-                    }
-                    
-                    
-                    const dateSpan = document.createElement('span');
-                    dateSpan.className = 'post-date';
-                    dateSpan.textContent = post.date;
-                    dateSpan.style.fontSize = '9px';
-                    dateSpan.style.color = '#999';
-                    dateSpan.style.marginLeft = 'auto';
-                    dateSpan.style.flexShrink = '0';
-                    dateSpan.style.whiteSpace = 'nowrap';
-                    
-                    bottomContainer.appendChild(dateSpan);
-                    
-                    li.appendChild(bottomContainer);
-                    
-                    list.appendChild(li);
-                    }
-                    batchIndex++;
-                    if (start + batchSize < currentPosts.length) {
-                        requestAnimationFrame(renderBatch);
-                    }
-                }
-                
-                requestAnimationFrame(renderBatch);
-            }
-
-            
-            function prevPage() {
-                if (currentPage > 1) {
-                    currentPage--;
-                    renderUpdates();
-                }
-            }
-
-            
-            function nextPage() {
-                const totalPages = getTotalPages();
-                if (currentPage < totalPages) {
-                    currentPage++;
-                    renderUpdates();
-                }
-            }
-
-            function init() {
-                const prevBtn = document.getElementById('prevBtn');
-                const nextBtn = document.getElementById('nextBtn');
-                const searchInput = document.getElementById('searchInput');
-                
-                if (prevBtn) {
-                    prevBtn.addEventListener('click', prevPage);
-                }
-                if (nextBtn) {
-                    nextBtn.addEventListener('click', nextPage);
-                }
-                if (searchInput) {
-                    searchInput.addEventListener('input', function(e) {
-                        searchKeyword = e.target.value;
+            if (prevBtn) prevBtn.addEventListener('click', prevPage);
+            if (nextBtn) nextBtn.addEventListener('click', nextPage);
+            if (searchInput) {
+                var debounceTimer;
+                searchInput.addEventListener('input', function() {
+                    clearTimeout(debounceTimer);
+                    var self = this;
+                    debounceTimer = setTimeout(function() {
+                        searchKeyword = self.value.toLowerCase().trim();
                         currentPage = 1;
                         renderUpdates();
-                    });
+                    }, 150);
+                });
+            }(function patchSSRIcons() {
+                var items = list.querySelectorAll('.update-item');
+                for (var i = 0; i < items.length; i++) {
+                    var tags = [];
+                    var tagEls = items[i].querySelectorAll('.update-tag');
+                    for (var t = 0; t < tagEls.length; t++) {
+                        tags.push(tagEls[t].getAttribute('data-tag'));
+                    }
+                    var img = items[i].querySelector('.update-item-icon');
+                    if (img) img.src = getPostIcon(tags);
                 }
-                
-                renderUpdates();
-            }
+            })();
+        }
 
-            if (document.readyState === 'loading') {
-                document.addEventListener('DOMContentLoaded', init);
-            } else {
-                init();
-            }
-        })();
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', init);
+        } else {
+            init();
+        }
+    })();
     </script></div>
             </main><footer class="footer">
         <div class="footer-container"><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><i class="far fa-copyright" aria-hidden="true"></i><span itemprop="copyrightYear">2019 - 2026</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/en/" target="_blank">7772027.xyz</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
