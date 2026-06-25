@@ -21,7 +21,7 @@
 <meta name="apple-mobile-web-app-title" content="LoveIt">
 <meta name="referrer" content="no-referrer" /><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="http://127.0.0.1:1313/%E6%9C%AA%E5%91%BD%E5%90%8D/" /><link rel="next" href="http://127.0.0.1:1313/%E8%BF%85%E9%9B%B7/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="/lib/fontawesome-free/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="http://127.0.0.1:1313/%E6%9C%AA%E5%91%BD%E5%90%8D/" /><link rel="next" href="http://127.0.0.1:1313/%E5%B0%8F%E6%9E%97%E7%BE%8E%E5%8C%96%E5%8C%850625/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="/lib/fontawesome-free/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
         <noscript><link rel="stylesheet" href="/lib/fontawesome-free/css/all.min.css"></noscript><link rel="preload" href="/lib/animate/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
         <noscript><link rel="stylesheet" href="/lib/animate/animate.min.css"></noscript><script type="application/ld+json">
     {
@@ -159,6 +159,144 @@
                 });
             });
         })();
+        </script><script>
+        (function() {
+            var content = document.getElementById('content');
+            if (!content) return;
+
+            var children = content.children;
+            var groups = [];
+            var currentGroup = [];
+            var currentRef = null;
+
+            for (var i = 0; i < children.length; i++) {
+                var el = children[i];
+                var isImgBlock = el.tagName === 'FIGURE' || (el.tagName === 'P' && el.querySelector('img'));
+
+                if (isImgBlock) {
+                    var imgs = el.querySelectorAll('img');
+                    if (el.tagName === 'P' && imgs.length > 1) {
+                        for (var k = 0; k < imgs.length; k++) {
+                            var p = document.createElement('p');
+                            p.appendChild(imgs[k].cloneNode(true));
+                            currentGroup.push(p);
+                        }
+                    } else {
+                        currentGroup.push(el);
+                    }
+                    if (currentRef === null) currentRef = el;
+                } else {
+                    if (currentGroup.length >= 2) {
+                        groups.push({ items: currentGroup.slice(), ref: currentRef });
+                    }
+                    currentGroup = [];
+                    currentRef = null;
+                }
+            }
+            if (currentGroup.length >= 2) {
+                groups.push({ items: currentGroup.slice(), ref: currentRef });
+            }
+
+            if (groups.length === 0) return;
+
+            for (var g = 0; g < groups.length; g++) {
+                var group = groups[g].items;
+                var insertRef = groups[g].ref;
+                if (!insertRef || !insertRef.parentNode) continue;
+
+                var wrapper = document.createElement('div');
+                wrapper.className = 'image-carousel';
+                wrapper.setAttribute('data-index', '0');
+
+                var track = document.createElement('div');
+                track.className = 'carousel-track';
+                wrapper.appendChild(track);
+
+                var prevBtn = document.createElement('button');
+                prevBtn.className = 'carousel-btn carousel-prev';
+                prevBtn.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="15 18 9 12 15 6"/></svg>';
+                prevBtn.setAttribute('aria-label', '上一张');
+
+                var nextBtn = document.createElement('button');
+                nextBtn.className = 'carousel-btn carousel-next';
+                nextBtn.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="9 18 15 12 9 6"/></svg>';
+                nextBtn.setAttribute('aria-label', '下一张');
+
+                var dots = document.createElement('div');
+                dots.className = 'carousel-dots';
+                for (var d = 0; d < group.length; d++) {
+                    var dot = document.createElement('span');
+                    dot.className = 'carousel-dot' + (d === 0 ? ' active' : '');
+                    dot.setAttribute('data-slide', d);
+                    dots.appendChild(dot);
+                }
+
+                wrapper.appendChild(prevBtn);
+                wrapper.appendChild(nextBtn);
+                wrapper.appendChild(dots);
+
+                insertRef.parentNode.insertBefore(wrapper, insertRef);
+
+                for (var j = 0; j < group.length; j++) {
+                    var slide = document.createElement('div');
+                    slide.className = 'carousel-slide';
+                    slide.appendChild(group[j]);
+                    track.appendChild(slide);
+                }
+
+                if (insertRef.parentNode === content) {
+                    content.removeChild(insertRef);
+                }
+
+                (function(w, total) {
+                    var index = 0;
+                    var track = w.querySelector('.carousel-track');
+                    var dots = w.querySelectorAll('.carousel-dot');
+                    var prev = w.querySelector('.carousel-prev');
+                    var next = w.querySelector('.carousel-next');
+                    var startX = 0, diffX = 0, dragging = false;
+
+                    function goTo(i) {
+                        if (i < 0 || i >= total) return;
+                        index = i;
+                        w.setAttribute('data-index', index);
+                        track.style.transform = 'translateX(-' + (index * 100) + '%)';
+                        for (var d = 0; d < dots.length; d++) {
+                            dots[d].className = 'carousel-dot' + (d === index ? ' active' : '');
+                        }
+                    }
+
+                    prev.addEventListener('click', function(e) { e.stopPropagation(); goTo(index - 1); });
+                    next.addEventListener('click', function(e) { e.stopPropagation(); goTo(index + 1); });
+
+                    dots.forEach(function(dot) {
+                        dot.addEventListener('click', function(e) {
+                            e.stopPropagation();
+                            goTo(parseInt(this.getAttribute('data-slide')));
+                        });
+                    });
+
+                    w.addEventListener('touchstart', function(e) {
+                        startX = e.touches[0].clientX;
+                        dragging = true;
+                    }, { passive: true });
+
+                    w.addEventListener('touchmove', function(e) {
+                        if (!dragging) return;
+                        diffX = e.touches[0].clientX - startX;
+                    }, { passive: true });
+
+                    w.addEventListener('touchend', function() {
+                        if (!dragging) return;
+                        dragging = false;
+                        if (Math.abs(diffX) > 50) {
+                            goTo(diffX > 0 ? index - 1 : index + 1);
+                        }
+                        diffX = 0;
+                    });
+                })(wrapper, group.length);
+            }
+        })();
         </script><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
@@ -178,7 +316,20 @@
             </main><footer class="footer">
         <div class="footer-container"><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><i class="far fa-copyright" aria-hidden="true"></i><span itemprop="copyrightYear">2019 - 2026</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank">7772027.xyz</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
         </div>
-    </footer></div>
+    </footer></div><nav class="bottom-nav" id="bottomNav">
+            <a href="/" class="bottom-nav-item">
+                <svg class="bottom-nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+                <span class="bottom-nav-label">首页</span>
+            </a>
+            <a href="/categories/" class="bottom-nav-item">
+                <svg class="bottom-nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+                <span class="bottom-nav-label">分类</span>
+            </a>
+            <a href="/categories/%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b/" class="bottom-nav-item">
+                <svg class="bottom-nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
+                <span class="bottom-nav-label">使用教程</span>
+            </a>
+        </nav>
 
         <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="回到顶部">
                 <i class="fas fa-arrow-up" aria-hidden="true"></i>

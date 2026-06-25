@@ -189,6 +189,144 @@
                 });
             });
         })();
+        </script><script>
+        (function() {
+            var content = document.getElementById('content');
+            if (!content) return;
+
+            var children = content.children;
+            var groups = [];
+            var currentGroup = [];
+            var currentRef = null;
+
+            for (var i = 0; i < children.length; i++) {
+                var el = children[i];
+                var isImgBlock = el.tagName === 'FIGURE' || (el.tagName === 'P' && el.querySelector('img'));
+
+                if (isImgBlock) {
+                    var imgs = el.querySelectorAll('img');
+                    if (el.tagName === 'P' && imgs.length > 1) {
+                        for (var k = 0; k < imgs.length; k++) {
+                            var p = document.createElement('p');
+                            p.appendChild(imgs[k].cloneNode(true));
+                            currentGroup.push(p);
+                        }
+                    } else {
+                        currentGroup.push(el);
+                    }
+                    if (currentRef === null) currentRef = el;
+                } else {
+                    if (currentGroup.length >= 2) {
+                        groups.push({ items: currentGroup.slice(), ref: currentRef });
+                    }
+                    currentGroup = [];
+                    currentRef = null;
+                }
+            }
+            if (currentGroup.length >= 2) {
+                groups.push({ items: currentGroup.slice(), ref: currentRef });
+            }
+
+            if (groups.length === 0) return;
+
+            for (var g = 0; g < groups.length; g++) {
+                var group = groups[g].items;
+                var insertRef = groups[g].ref;
+                if (!insertRef || !insertRef.parentNode) continue;
+
+                var wrapper = document.createElement('div');
+                wrapper.className = 'image-carousel';
+                wrapper.setAttribute('data-index', '0');
+
+                var track = document.createElement('div');
+                track.className = 'carousel-track';
+                wrapper.appendChild(track);
+
+                var prevBtn = document.createElement('button');
+                prevBtn.className = 'carousel-btn carousel-prev';
+                prevBtn.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="15 18 9 12 15 6"/></svg>';
+                prevBtn.setAttribute('aria-label', '上一张');
+
+                var nextBtn = document.createElement('button');
+                nextBtn.className = 'carousel-btn carousel-next';
+                nextBtn.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="9 18 15 12 9 6"/></svg>';
+                nextBtn.setAttribute('aria-label', '下一张');
+
+                var dots = document.createElement('div');
+                dots.className = 'carousel-dots';
+                for (var d = 0; d < group.length; d++) {
+                    var dot = document.createElement('span');
+                    dot.className = 'carousel-dot' + (d === 0 ? ' active' : '');
+                    dot.setAttribute('data-slide', d);
+                    dots.appendChild(dot);
+                }
+
+                wrapper.appendChild(prevBtn);
+                wrapper.appendChild(nextBtn);
+                wrapper.appendChild(dots);
+
+                insertRef.parentNode.insertBefore(wrapper, insertRef);
+
+                for (var j = 0; j < group.length; j++) {
+                    var slide = document.createElement('div');
+                    slide.className = 'carousel-slide';
+                    slide.appendChild(group[j]);
+                    track.appendChild(slide);
+                }
+
+                if (insertRef.parentNode === content) {
+                    content.removeChild(insertRef);
+                }
+
+                (function(w, total) {
+                    var index = 0;
+                    var track = w.querySelector('.carousel-track');
+                    var dots = w.querySelectorAll('.carousel-dot');
+                    var prev = w.querySelector('.carousel-prev');
+                    var next = w.querySelector('.carousel-next');
+                    var startX = 0, diffX = 0, dragging = false;
+
+                    function goTo(i) {
+                        if (i < 0 || i >= total) return;
+                        index = i;
+                        w.setAttribute('data-index', index);
+                        track.style.transform = 'translateX(-' + (index * 100) + '%)';
+                        for (var d = 0; d < dots.length; d++) {
+                            dots[d].className = 'carousel-dot' + (d === index ? ' active' : '');
+                        }
+                    }
+
+                    prev.addEventListener('click', function(e) { e.stopPropagation(); goTo(index - 1); });
+                    next.addEventListener('click', function(e) { e.stopPropagation(); goTo(index + 1); });
+
+                    dots.forEach(function(dot) {
+                        dot.addEventListener('click', function(e) {
+                            e.stopPropagation();
+                            goTo(parseInt(this.getAttribute('data-slide')));
+                        });
+                    });
+
+                    w.addEventListener('touchstart', function(e) {
+                        startX = e.touches[0].clientX;
+                        dragging = true;
+                    }, { passive: true });
+
+                    w.addEventListener('touchmove', function(e) {
+                        if (!dragging) return;
+                        diffX = e.touches[0].clientX - startX;
+                    }, { passive: true });
+
+                    w.addEventListener('touchend', function() {
+                        if (!dragging) return;
+                        dragging = false;
+                        if (Math.abs(diffX) > 50) {
+                            goTo(diffX > 0 ? index - 1 : index + 1);
+                        }
+                        diffX = 0;
+                    });
+                })(wrapper, group.length);
+            }
+        })();
         </script><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">

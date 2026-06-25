@@ -32,7 +32,7 @@
 <meta name="apple-mobile-web-app-title" content="LoveIt">
 <meta name="referrer" content="no-referrer" /><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%9B%B4%E8%A3%85_%E5%88%A9%E5%88%83/" /><link rel="prev" href="https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%9B%B4%E8%A3%85_%E5%9B%9B%E5%AE%AB%E8%BE%89%E5%A4%9C/" /><link rel="next" href="https://7772027.xyz/%E5%B0%8F%E6%9E%97%E5%86%85%E9%80%8F/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%9B%B4%E8%A3%85_%E5%88%A9%E5%88%83/" /><link rel="prev" href="https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%9B%B4%E8%A3%85_%E5%9B%9B%E5%AE%AB%E8%BE%89%E5%A4%9C/" /><link rel="next" href="https://7772027.xyz/%E5%B0%8F%E6%9E%97%E5%86%85%E9%80%8F0416/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
         <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/css/all.min.css"></noscript><link rel="preload" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
         <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css"></noscript><script type="application/ld+json">
     {
@@ -202,6 +202,144 @@
                     });
                 });
             });
+        })();
+        </script><script>
+        (function() {
+            var content = document.getElementById('content');
+            if (!content) return;
+
+            var children = content.children;
+            var groups = [];
+            var currentGroup = [];
+            var currentRef = null;
+
+            for (var i = 0; i < children.length; i++) {
+                var el = children[i];
+                var isImgBlock = el.tagName === 'FIGURE' || (el.tagName === 'P' && el.querySelector('img'));
+
+                if (isImgBlock) {
+                    var imgs = el.querySelectorAll('img');
+                    if (el.tagName === 'P' && imgs.length > 1) {
+                        for (var k = 0; k < imgs.length; k++) {
+                            var p = document.createElement('p');
+                            p.appendChild(imgs[k].cloneNode(true));
+                            currentGroup.push(p);
+                        }
+                    } else {
+                        currentGroup.push(el);
+                    }
+                    if (currentRef === null) currentRef = el;
+                } else {
+                    if (currentGroup.length >= 2) {
+                        groups.push({ items: currentGroup.slice(), ref: currentRef });
+                    }
+                    currentGroup = [];
+                    currentRef = null;
+                }
+            }
+            if (currentGroup.length >= 2) {
+                groups.push({ items: currentGroup.slice(), ref: currentRef });
+            }
+
+            if (groups.length === 0) return;
+
+            for (var g = 0; g < groups.length; g++) {
+                var group = groups[g].items;
+                var insertRef = groups[g].ref;
+                if (!insertRef || !insertRef.parentNode) continue;
+
+                var wrapper = document.createElement('div');
+                wrapper.className = 'image-carousel';
+                wrapper.setAttribute('data-index', '0');
+
+                var track = document.createElement('div');
+                track.className = 'carousel-track';
+                wrapper.appendChild(track);
+
+                var prevBtn = document.createElement('button');
+                prevBtn.className = 'carousel-btn carousel-prev';
+                prevBtn.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="15 18 9 12 15 6"/></svg>';
+                prevBtn.setAttribute('aria-label', '上一张');
+
+                var nextBtn = document.createElement('button');
+                nextBtn.className = 'carousel-btn carousel-next';
+                nextBtn.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="9 18 15 12 9 6"/></svg>';
+                nextBtn.setAttribute('aria-label', '下一张');
+
+                var dots = document.createElement('div');
+                dots.className = 'carousel-dots';
+                for (var d = 0; d < group.length; d++) {
+                    var dot = document.createElement('span');
+                    dot.className = 'carousel-dot' + (d === 0 ? ' active' : '');
+                    dot.setAttribute('data-slide', d);
+                    dots.appendChild(dot);
+                }
+
+                wrapper.appendChild(prevBtn);
+                wrapper.appendChild(nextBtn);
+                wrapper.appendChild(dots);
+
+                insertRef.parentNode.insertBefore(wrapper, insertRef);
+
+                for (var j = 0; j < group.length; j++) {
+                    var slide = document.createElement('div');
+                    slide.className = 'carousel-slide';
+                    slide.appendChild(group[j]);
+                    track.appendChild(slide);
+                }
+
+                if (insertRef.parentNode === content) {
+                    content.removeChild(insertRef);
+                }
+
+                (function(w, total) {
+                    var index = 0;
+                    var track = w.querySelector('.carousel-track');
+                    var dots = w.querySelectorAll('.carousel-dot');
+                    var prev = w.querySelector('.carousel-prev');
+                    var next = w.querySelector('.carousel-next');
+                    var startX = 0, diffX = 0, dragging = false;
+
+                    function goTo(i) {
+                        if (i < 0 || i >= total) return;
+                        index = i;
+                        w.setAttribute('data-index', index);
+                        track.style.transform = 'translateX(-' + (index * 100) + '%)';
+                        for (var d = 0; d < dots.length; d++) {
+                            dots[d].className = 'carousel-dot' + (d === index ? ' active' : '');
+                        }
+                    }
+
+                    prev.addEventListener('click', function(e) { e.stopPropagation(); goTo(index - 1); });
+                    next.addEventListener('click', function(e) { e.stopPropagation(); goTo(index + 1); });
+
+                    dots.forEach(function(dot) {
+                        dot.addEventListener('click', function(e) {
+                            e.stopPropagation();
+                            goTo(parseInt(this.getAttribute('data-slide')));
+                        });
+                    });
+
+                    w.addEventListener('touchstart', function(e) {
+                        startX = e.touches[0].clientX;
+                        dragging = true;
+                    }, { passive: true });
+
+                    w.addEventListener('touchmove', function(e) {
+                        if (!dragging) return;
+                        diffX = e.touches[0].clientX - startX;
+                    }, { passive: true });
+
+                    w.addEventListener('touchend', function() {
+                        if (!dragging) return;
+                        dragging = false;
+                        if (Math.abs(diffX) > 50) {
+                            goTo(diffX > 0 ? index - 1 : index + 1);
+                        }
+                        diffX = 0;
+                    });
+                })(wrapper, group.length);
+            }
         })();
         </script><div class="post-footer" id="post-footer">
     <div class="post-info">

@@ -101,7 +101,20 @@
     <div class="search-dropdown mobile">
         <div id="search-dropdown-mobile"></div>
     </div><main class="main">
-                <div class="container"><div class="page home game-resources-home"><div class="update-log-section">
+                <div class="container"><div class="page home game-resources-home"><div class="ad-carousel" id="homeAdCarousel">
+            <div class="ad-carousel-track" id="homeAdCarouselTrack">
+                <a class="ad-carousel-slide" href="https://haokawx.lot-ml.com/ProductEn/Index/bb9f7d3d57fcac5f" target="_blank">
+                    <img src="https://pics7.baidu.com/feed/5fdf8db1cb134954998555d3b8df0848d0094a14.jpeg@f_auto?token=b96f1d09a9457884b9739dca68184109" alt="广告1" loading="lazy">
+                </a>
+                <a class="ad-carousel-slide" href="https://haokawx.lot-ml.com/ProductEn/Index/bb9f7d3d57fcac5f" target="_blank">
+                    <img src="https://pics7.baidu.com/feed/5fdf8db1cb134954998555d3b8df0848d0094a14.jpeg@f_auto?token=b96f1d09a9457884b9739dca68184109" alt="广告2" loading="lazy">
+                </a>
+                <a class="ad-carousel-slide" href="https://haokawx.lot-ml.com/ProductEn/Index/bb9f7d3d57fcac5f" target="_blank">
+                    <img src="https://pics7.baidu.com/feed/5fdf8db1cb134954998555d3b8df0848d0094a14.jpeg@f_auto?token=b96f1d09a9457884b9739dca68184109" alt="广告3" loading="lazy">
+                </a>
+            </div>
+            <div class="ad-carousel-dots" id="homeAdCarouselDots"></div>
+        </div><div class="update-log-section">
             <div class="update-log-card">
                 <h2 class="update-log-title">
                     <span class="update-icon">📢</span>
@@ -358,6 +371,78 @@
         } else {
             init();
         }
+    })();
+    </script><script>
+    (function() {
+        const track = document.getElementById('homeAdCarouselTrack');
+        const dotsContainer = document.getElementById('homeAdCarouselDots');
+        if (!track || !dotsContainer) return;
+
+        const slides = track.querySelectorAll('.ad-carousel-slide');
+        if (slides.length === 0) return;
+
+        let currentIndex = 0;
+        let autoTimer = null;
+        const interval = 3000;
+
+        slides.forEach(function(_, i) {
+            const dot = document.createElement('span');
+            dot.className = 'ad-carousel-dot';
+            if (i === 0) dot.classList.add('active');
+            dot.addEventListener('click', function() { goTo(i); });
+            dotsContainer.appendChild(dot);
+        });
+
+        const dots = dotsContainer.querySelectorAll('.ad-carousel-dot');
+
+        function goTo(index) {
+            if (index < 0) index = slides.length - 1;
+            if (index >= slides.length) index = 0;
+            currentIndex = index;
+            track.style.transform = 'translateX(-' + (index * 100) + '%)';
+            dots.forEach(function(d, i) { d.classList.toggle('active', i === index); });
+        }
+
+        function nextSlide() {
+            goTo((currentIndex + 1) % slides.length);
+        }
+
+        function startAuto() {
+            stopAuto();
+            autoTimer = setInterval(nextSlide, interval);
+        }
+
+        function stopAuto() {
+            if (autoTimer) { clearInterval(autoTimer); autoTimer = null; }
+        }
+
+        const container = track.parentElement;
+        let startX = 0, diffX = 0, dragging = false;
+
+        container.addEventListener('touchstart', function(e) {
+            startX = e.touches[0].clientX;
+            dragging = true;
+            diffX = 0;
+        }, { passive: true });
+
+        container.addEventListener('touchmove', function(e) {
+            if (!dragging) return;
+            diffX = e.touches[0].clientX - startX;
+        }, { passive: true });
+
+        container.addEventListener('touchend', function() {
+            if (!dragging) return;
+            dragging = false;
+            if (Math.abs(diffX) > 50) {
+                goTo(diffX > 0 ? currentIndex - 1 : currentIndex + 1);
+            }
+            diffX = 0;
+        });
+
+        container.addEventListener('mouseenter', stopAuto);
+        container.addEventListener('mouseleave', startAuto);
+
+        startAuto();
     })();
     </script></div>
             </main><footer class="footer">
