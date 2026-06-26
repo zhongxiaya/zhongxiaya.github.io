@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>远光84内核 - 标签 - 7772027.xyz</title>
+        <link>https://7772027.xyz/tags/%E8%BF%9C%E5%85%8984%E5%86%85%E6%A0%B8/</link>
+        <description>远光84内核 - 标签 - 7772027.xyz</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 25 Jun 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E8%BF%9C%E5%85%8984%E5%86%85%E6%A0%B8/" rel="self" type="application/rss+xml" /><item>
+    <title>远光84 zero多功能内核辅助</title>
+    <link>https://7772027.xyz/%E8%BF%9C%E5%85%89%E5%86%85%E6%A0%B8_zero/</link>
+    <pubDate>Thu, 25 Jun 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/%E8%BF%9C%E5%85%89%E5%86%85%E6%A0%B8_zero/</guid>
+    <description><![CDATA[<p></p>
+<h3 id="更新日志">更新日志</h3>
+<p>兼容：5.15、6.1、6.6、6.12、6.18 内核版本<br>
+推荐使用 APatch 载入</p>
+<p>免费版:<br>
+兼容：卡拉彼丘 高能英雄 远光84<br>
+无需卡密直接点击登录即可</p>]]></description>
+</item>
+</channel>
+</rss>

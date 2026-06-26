@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://7772027.xyz/</loc><lastmod>2026-06-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://7772027.xyz/</loc><lastmod>2026-06-27T02:42:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://7772027.xyz/en/"
@@ -11,7 +11,7 @@
                     hreflang="zh-cn"
                     href="https://7772027.xyz/"
                     /></url><url>
-            <loc>https://7772027.xyz/categories/</loc><lastmod>2026-06-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://7772027.xyz/categories/</loc><lastmod>2026-06-26T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://7772027.xyz/en/categories/"
@@ -20,8 +20,8 @@
                     hreflang="zh-cn"
                     href="https://7772027.xyz/categories/"
                     /></url><url>
-            <loc>https://7772027.xyz/posts/</loc><lastmod>2026-06-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://7772027.xyz/tags/</loc><lastmod>2026-06-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://7772027.xyz/posts/</loc><lastmod>2026-06-27T02:42:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://7772027.xyz/tags/</loc><lastmod>2026-06-26T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://7772027.xyz/en/tags/"
@@ -30,13 +30,33 @@
                     hreflang="zh-cn"
                     href="https://7772027.xyz/tags/"
                     /></url><url>
+            <loc>https://7772027.xyz/categories/%E5%86%85%E6%A0%B8/</loc><lastmod>2026-06-26T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://7772027.xyz/tags/%E5%86%85%E6%A0%B8/</loc><lastmod>2026-06-26T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://7772027.xyz/%E7%8E%8B%E8%80%85%E5%86%85%E6%A0%B8_%E9%9B%B7%E8%9B%87/</loc><lastmod>2026-06-26T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://7772027.xyz/categories/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/</loc><lastmod>2026-06-26T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://7772027.xyz/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/</loc><lastmod>2026-06-26T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://7772027.xyz/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%86%85%E6%A0%B8/</loc><lastmod>2026-06-26T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://7772027.xyz/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%9B%B4%E8%A3%85/</loc><lastmod>2026-06-26T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://7772027.xyz/%E7%8E%8B%E8%80%85%E7%9B%B4%E8%A3%85_%E4%B8%8D%E6%AD%BB%E9%B8%9F/</loc><lastmod>2026-06-26T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://7772027.xyz/%E7%8E%8B%E8%80%85%E7%9B%B4%E8%A3%85_%E5%A4%A9%E7%9C%BC/</loc><lastmod>2026-06-26T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://7772027.xyz/categories/%E9%9C%80%E8%A6%81root/</loc><lastmod>2026-06-26T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://7772027.xyz/tags/%E9%9C%80%E8%A6%81root/</loc><lastmod>2026-06-26T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://7772027.xyz/categories/%E7%9B%B4%E8%A3%85/</loc><lastmod>2026-06-26T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://7772027.xyz/tags/%E7%9B%B4%E8%A3%85/</loc><lastmod>2026-06-26T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://7772027.xyz/tags/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1/</loc><lastmod>2026-06-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://7772027.xyz/tags/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E7%BE%8E%E5%8C%96%E5%8C%85/</loc><lastmod>2026-06-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://7772027.xyz/%E5%A4%A7%E9%9B%BE0625/</loc><lastmod>2026-06-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://7772027.xyz/%E5%B0%8F%E6%9E%97%E7%BE%8E%E5%8C%96%E5%8C%850625/</loc><lastmod>2026-06-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://7772027.xyz/tags/%E5%8D%A1%E6%8B%89%E5%BD%BC%E4%B8%98/</loc><lastmod>2026-06-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://7772027.xyz/%E5%8D%A1%E6%8B%89%E5%BD%BC%E4%B8%98_zero0626/</loc><lastmod>2026-06-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://7772027.xyz/tags/%E5%8D%A1%E6%8B%89%E5%BD%BC%E4%B8%98%E5%86%85%E6%A0%B8/</loc><lastmod>2026-06-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://7772027.xyz/categories/%E7%BE%8E%E5%8C%96%E5%8C%85/</loc><lastmod>2026-06-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://7772027.xyz/categories/%E5%85%8Droot/</loc><lastmod>2026-06-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://7772027.xyz/tags/%E5%85%8Droot/</loc><lastmod>2026-06-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://7772027.xyz/%E7%8E%8B%E8%80%85%E5%86%85%E6%A0%B8_%E5%AE%87%E5%AE%990625/</loc><lastmod>2026-06-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://7772027.xyz/tags/%E8%BF%9C%E5%85%8984/</loc><lastmod>2026-06-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://7772027.xyz/%E8%BF%9C%E5%85%89%E5%86%85%E6%A0%B8_zero/</loc><lastmod>2026-06-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://7772027.xyz/tags/%E8%BF%9C%E5%85%8984%E5%86%85%E6%A0%B8/</loc><lastmod>2026-06-25T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://7772027.xyz/%E5%B0%8F%E6%9E%97%E7%BE%8E%E5%8C%96%E5%8C%850624/</loc><lastmod>2026-06-24T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://7772027.xyz/tags/lolm/</loc><lastmod>2026-06-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://7772027.xyz/tags/lolm%E5%86%85%E6%A0%B8/</loc><lastmod>2026-06-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
@@ -45,12 +65,6 @@
             <loc>https://7772027.xyz/%E5%B0%8F%E6%9E%97%E7%BE%8E%E5%8C%96%E5%8C%850620/</loc><lastmod>2026-06-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://7772027.xyz/tags/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E7%9B%B4%E8%A3%85/</loc><lastmod>2026-06-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%9B%B4%E8%A3%85_%E8%90%BD%E5%8F%B6/</loc><lastmod>2026-06-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://7772027.xyz/categories/%E5%86%85%E6%A0%B8/</loc><lastmod>2026-06-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://7772027.xyz/tags/%E5%86%85%E6%A0%B8/</loc><lastmod>2026-06-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://7772027.xyz/categories/%E9%9C%80%E8%A6%81root/</loc><lastmod>2026-06-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://7772027.xyz/tags/%E9%9C%80%E8%A6%81root/</loc><lastmod>2026-06-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://7772027.xyz/categories/%E7%9B%B4%E8%A3%85/</loc><lastmod>2026-06-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://7772027.xyz/tags/%E7%9B%B4%E8%A3%85/</loc><lastmod>2026-06-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://7772027.xyz/%E5%B0%8F%E6%9E%97%E7%BE%8E%E5%8C%96%E5%8C%850615/</loc><lastmod>2026-06-15T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>https://7772027.xyz/lolm%E5%86%85%E6%A0%B8_%E7%88%B1%E7%8E%A9/</loc><lastmod>2026-06-10T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
             <loc>https://7772027.xyz/%E5%B0%8F%E6%9E%97%E5%8D%95%E6%9E%AA%E7%9A%AE0610/</loc><lastmod>2026-06-10T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
@@ -85,8 +99,6 @@
             <loc>https://7772027.xyz/tags/%E4%B8%89%E8%A7%92%E6%B4%B2%E7%AB%AF%E5%8F%A3/</loc><lastmod>2026-06-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
             <loc>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E7%AB%AF%E5%8F%A3_%E7%96%BE%E9%A3%8E/</loc><lastmod>2026-06-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
             <loc>https://7772027.xyz/%E7%8E%8B%E8%80%85%E5%86%85%E6%A0%B8_%E5%85%AC%E7%9B%8A/</loc><lastmod>2026-06-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://7772027.xyz/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/</loc><lastmod>2026-06-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://7772027.xyz/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%86%85%E6%A0%B8/</loc><lastmod>2026-06-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
             <loc>https://7772027.xyz/lolm%E5%86%85%E6%A0%B8_%E4%BA%8E%E5%B1%B1%E5%86%85%E9%80%8F/</loc><lastmod>2026-06-02T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
             <loc>https://7772027.xyz/categories/%E8%BE%85%E5%8A%A9/</loc><lastmod>2026-05-31T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
             <loc>https://7772027.xyz/tags/%E8%BE%85%E5%8A%A9/</loc><lastmod>2026-05-31T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
@@ -100,17 +112,15 @@
             <loc>https://7772027.xyz/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD_%E6%A2%A6%E5%88%AB/</loc><lastmod>2026-05-31T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
             <loc>https://7772027.xyz/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD_%E7%AB%A5%E5%BF%83%E6%99%BA%E8%83%BD/</loc><lastmod>2026-05-31T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
             <loc>https://7772027.xyz/%E7%8E%8B%E8%80%85%E5%86%85%E6%A0%B8_kimi/</loc><lastmod>2026-05-31T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E5%8A%9F%E8%83%BD%E6%96%87%E4%BB%B6_%E8%93%9D%E7%8C%AB/</loc><lastmod>2026-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E5%86%85%E6%A0%B8_%E5%85%89%E5%A4%B4%E5%BC%BA0529/</loc><lastmod>2026-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E5%86%85%E6%A0%B8_%E7%BB%9D%E4%B8%960529/</loc><lastmod>2026-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E5%86%85%E6%A0%B8_%E8%A1%8D%E7%94%9Fhp%E5%86%85%E6%A0%B8/</loc><lastmod>2026-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E5%86%85%E6%A0%B8_m%E8%A7%A3%E5%AF%86%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8/</loc><lastmod>2026-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E5%86%85%E6%A0%B8_%E6%9F%92%E6%B7%AE/</loc><lastmod>2026-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://7772027.xyz/categories/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/</loc><lastmod>2026-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://7772027.xyz/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%9B%B4%E8%A3%85/</loc><lastmod>2026-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://7772027.xyz/%E7%8E%8B%E8%80%85%E7%9B%B4%E8%A3%85_%E8%93%9D%E8%8E%93/</loc><lastmod>2026-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://7772027.xyz/tags/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6/</loc><lastmod>2026-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://7772027.xyz/%E6%97%A0%E7%95%8F%E5%86%85%E6%A0%B8_nexusx/</loc><lastmod>2026-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E5%8A%9F%E8%83%BD%E6%96%87%E4%BB%B6_%E8%93%9D%E7%8C%AB/</loc><lastmod>2026-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E5%86%85%E6%A0%B8_%E5%85%89%E5%A4%B4%E5%BC%BA0529/</loc><lastmod>2026-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E5%86%85%E6%A0%B8_%E7%BB%9D%E4%B8%960529/</loc><lastmod>2026-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E5%86%85%E6%A0%B8_%E8%A1%8D%E7%94%9Fhp%E5%86%85%E6%A0%B8/</loc><lastmod>2026-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E5%86%85%E6%A0%B8_m%E8%A7%A3%E5%AF%86%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8/</loc><lastmod>2026-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E5%86%85%E6%A0%B8_%E6%9F%92%E6%B7%AE/</loc><lastmod>2026-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://7772027.xyz/%E7%8E%8B%E8%80%85%E7%9B%B4%E8%A3%85_%E8%93%9D%E8%8E%93/</loc><lastmod>2026-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://7772027.xyz/tags/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6/</loc><lastmod>2026-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://7772027.xyz/%E6%97%A0%E7%95%8F%E5%86%85%E6%A0%B8_nexusx/</loc><lastmod>2026-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
             <loc>https://7772027.xyz/uc%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%8B%E8%BD%BD%E6%95%99%E7%A8%8B/</loc><lastmod>2026-05-28T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
             <loc>https://7772027.xyz/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD%E6%95%99%E7%A8%8B/</loc><lastmod>2026-05-28T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
             <loc>https://7772027.xyz/%E5%A4%B8%E5%85%8B%E4%B8%8B%E8%BD%BD%E6%95%99%E7%A8%8B/</loc><lastmod>2026-05-28T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
@@ -152,15 +162,15 @@
             <loc>https://7772027.xyz/%E4%BA%BA%E7%89%A9%E5%86%85%E9%80%8F-%E5%B9%BF%E8%A7%92/</loc><lastmod>2026-05-23T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
             <loc>https://7772027.xyz/%E5%B0%8F%E6%9E%97%E7%BE%8E%E5%8C%960523/</loc><lastmod>2026-05-23T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
             <loc>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E5%86%85%E6%A0%B8_%E6%A9%98%E5%AD%90/</loc><lastmod>2026-05-23T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://7772027.xyz/tags/%E9%AB%98%E8%83%BD%E8%8B%B1%E9%9B%84/</loc><lastmod>2026-05-22T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://7772027.xyz/tags/%E9%AB%98%E8%83%BD%E8%8B%B1%E9%9B%84%E5%86%85%E6%A0%B8/</loc><lastmod>2026-05-22T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://7772027.xyz/%E9%AB%98%E8%83%BD%E8%8B%B1%E9%9B%84/</loc><lastmod>2026-05-22T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://7772027.xyz/%E5%B0%8F%E6%9E%97%E7%BE%8E%E5%8C%96%E5%8C%850522/</loc><lastmod>2026-05-22T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E5%86%85%E6%A0%B8_aurora/</loc><lastmod>2026-05-22T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E5%86%85%E6%A0%B8_%E5%B0%8F%E7%83%A7%E9%B8%A1/</loc><lastmod>2026-05-22T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%9B%B4%E8%A3%85_%E5%92%8C%E6%B3%89%E7%BA%B1%E9%9B%BE/</loc><lastmod>2026-05-22T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%9B%B4%E8%A3%85_%E6%B2%99%E6%BC%A0/</loc><lastmod>2026-05-22T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://7772027.xyz/%E9%A6%99%E8%82%A0%E6%B4%BE%E5%AF%B9_%E5%8F%AF%E4%B9%90/</loc><lastmod>2026-05-22T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://7772027.xyz/tags/%E9%AB%98%E8%83%BD%E8%8B%B1%E9%9B%84/</loc><lastmod>2026-05-22T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://7772027.xyz/tags/%E9%AB%98%E8%83%BD%E8%8B%B1%E9%9B%84%E5%86%85%E6%A0%B8/</loc><lastmod>2026-05-22T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://7772027.xyz/%E9%AB%98%E8%83%BD%E8%8B%B1%E9%9B%84/</loc><lastmod>2026-05-22T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://7772027.xyz/%E5%B0%8F%E6%9E%97%E7%BE%8E%E5%8C%96%E5%8C%850522/</loc><lastmod>2026-05-22T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E5%86%85%E6%A0%B8_aurora/</loc><lastmod>2026-05-22T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E5%86%85%E6%A0%B8_%E5%B0%8F%E7%83%A7%E9%B8%A1/</loc><lastmod>2026-05-22T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%9B%B4%E8%A3%85_%E5%92%8C%E6%B3%89%E7%BA%B1%E9%9B%BE/</loc><lastmod>2026-05-22T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%9B%B4%E8%A3%85_%E6%B2%99%E6%BC%A0/</loc><lastmod>2026-05-22T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://7772027.xyz/%E9%A6%99%E8%82%A0%E6%B4%BE%E5%AF%B9_%E5%8F%AF%E4%B9%90/</loc><lastmod>2026-05-22T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://7772027.xyz/categories/pc%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E4%B8%96%E7%95%8C/</loc><lastmod>2026-04-23T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://7772027.xyz/tags/pc%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E4%B8%96%E7%95%8C/</loc><lastmod>2026-04-23T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://7772027.xyz/pc_%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E4%B8%96%E7%95%8C/</loc><lastmod>2026-04-23T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -219,7 +229,7 @@
             <loc>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E8%B6%85%E5%87%A1%E7%9B%B4%E8%A3%85/</loc><lastmod>2026-04-11T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E7%81%B0%E7%86%8A%E7%9B%B4%E8%A3%85/</loc><lastmod>2026-04-11T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://7772027.xyz/%E7%8E%8B%E8%80%85%E5%86%85%E6%A0%B8_en%E6%97%A0%E8%A7%A3%E5%AF%86/</loc><lastmod>2026-04-09T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://7772027.xyz/%E7%8E%8B%E8%80%85%E5%86%85%E6%A0%B8_%E5%AE%87%E5%AE%99/</loc><lastmod>2026-04-09T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://7772027.xyz/%E7%8E%8B%E8%80%85%E5%86%85%E6%A0%B8_%E5%AE%87%E5%AE%990409/</loc><lastmod>2026-04-09T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://7772027.xyz/%E6%97%A0%E7%95%8F%E5%86%85%E6%A0%B8_%E8%91%AB%E8%8A%A6%E5%A8%83/</loc><lastmod>2026-04-09T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://7772027.xyz/%E5%B0%8F%E4%BE%840407/</loc><lastmod>2026-04-07T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://7772027.xyz/%E7%BE%8E%E5%8C%96%E6%95%99%E7%A8%8B/</loc><lastmod>2026-04-07T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -244,6 +254,7 @@
             <loc>https://7772027.xyz/%E7%99%BE%E5%BA%A6/</loc><lastmod>2025-01-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://7772027.xyz/%E5%A4%B8%E5%85%8B/</loc><lastmod>2025-01-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://7772027.xyz/%E8%BF%85%E9%9B%B7/</loc><lastmod>2025-01-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://7772027.xyz/2026-06-27/</loc><lastmod>2026-06-27T02:42:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://7772027.xyz/tags/installation/</loc><lastmod>2026-04-14T10:44:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://7772027.xyz/tags/content/</loc><lastmod>2026-04-14T10:44:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://7772027.xyz/tags/configuration/</loc><lastmod>2026-04-14T10:44:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
