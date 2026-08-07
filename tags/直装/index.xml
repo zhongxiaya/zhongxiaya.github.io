@@ -4,6 +4,24 @@
         <link>https://7772027.xyz/tags/%E7%9B%B4%E8%A3%85/</link>
         <description>直装 - 标签 - 7772027.xyz</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 07 Aug 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E7%9B%B4%E8%A3%85/" rel="self" type="application/rss+xml" /><item>
+    <title>超自然行动组PC端Macro Tool公益宏工具1.4.8</title>
+    <link>https://7772027.xyz/%E8%B6%85%E8%87%AA%E7%84%B6%E8%A1%8C%E5%8A%A8%E7%BB%84pc%E7%AB%AFmacro-tool%E5%85%AC%E7%9B%8A%E5%AE%8F%E5%B7%A5%E5%85%B71.4.8/</link>
+    <pubDate>Fri, 07 Aug 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/%E8%B6%85%E8%87%AA%E7%84%B6%E8%A1%8C%E5%8A%A8%E7%BB%84pc%E7%AB%AFmacro-tool%E5%85%AC%E7%9B%8A%E5%AE%8F%E5%B7%A5%E5%85%B71.4.8/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>更新日志:<br>
+优化了自动钓鱼鱼栏检测的检测逻辑<br>
+新增鱼栏置信度和调试模式<br>
+根据当前环境来进行调整<br>
+优化了鱼栏检测的识别质量<br>
+小幅度优化了鱼饵检测的识别<br>
+修复了鱼栏检测4/4满了<br>
+但未执行后续操作的问题<br>
+删除识别挡位选项<br>
+自动钓鱼上钩超时改为24秒</p>]]></description>
+</item>
+<item>
     <title>超自然行动组巫玲儿公益辅助10.8</title>
     <link>https://7772027.xyz/%E8%B6%85%E8%87%AA%E7%84%B6%E8%A1%8C%E5%8A%A8%E7%BB%84%E5%B7%AB%E7%8E%B2%E5%84%BF%E5%85%AC%E7%9B%8A%E8%BE%85%E5%8A%A910.8/</link>
     <pubDate>Fri, 07 Aug 2026 00:00:00 &#43;0000</pubDate>
@@ -151,18 +169,6 @@ TYGYS6AF8CBC194521C189DE85014064</p>
 <li><a href="https://pan.quark.cn/s/0d5bff839e6b" target="_blank" rel="noopener noreffer ">夸克网盘</a></li>
 <li><a href="https://drive.uc.cn/s/7d9c821891534?public=1" target="_blank" rel="noopener noreffer ">UC网盘</a></li>
 </ul>]]></description>
-</item>
-<item>
-    <title>和平精英直装 Desi启动器直装</title>
-    <link>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%9B%B4%E8%A3%85_desi0607/</link>
-    <pubDate>Sun, 07 Jun 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%9B%B4%E8%A3%85_desi0607/</guid>
-    <description><![CDATA[<h3 id="公益卡密">公益卡密：</h3>
-<p>Q4D3D72B0DEF07D05B7AC93BB8F78E83</p>
-<h3 id="下载地址">下载地址</h3>
-<p><a href="https://drive.uc.cn/s/ca903c3059004" target="_blank" rel="noopener noreffer ">【06月07日测试可用】和平直装_Desi直装.zip</a></p>
-<p><a href="../UC%e6%b5%8f%e8%a7%88%e5%99%a8%e4%b8%8b%e8%bd%bd%e6%95%99%e7%a8%8b" rel="">UC网盘下载教程</a></p>]]></description>
 </item>
 </channel>
 </rss>
