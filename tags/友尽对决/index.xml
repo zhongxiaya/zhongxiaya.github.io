@@ -1,0 +1,43 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>友尽对决 - 标签 - 7772027.xyz</title>
+        <link>https://7772027.xyz/tags/%E5%8F%8B%E5%B0%BD%E5%AF%B9%E5%86%B3/</link>
+        <description>友尽对决 - 标签 - 7772027.xyz</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 21 Aug 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E5%8F%8B%E5%B0%BD%E5%AF%B9%E5%86%B3/" rel="self" type="application/rss+xml" /><item>
+    <title>友尽对决Friends vs Friends内部免费辅助</title>
+    <link>https://7772027.xyz/%E5%8F%8B%E5%B0%BD%E5%AF%B9%E5%86%B3friends-vs-friends%E5%86%85%E9%83%A8%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9/</link>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/%E5%8F%8B%E5%B0%BD%E5%AF%B9%E5%86%B3friends-vs-friends%E5%86%85%E9%83%A8%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>友尽对决Friends vs Friends内部免费辅助<br>
+如何绕过EAC：<br>
+1.进入你的游戏文件夹 ➔ 打开 EAC 文件夹。<br>
+2.找到并打开 settings.json。<br>
+3.修改/变更其中的 sandbox_id 和 deployment_id。<br>
+4.保存该文件。<br>
+这会完全阻止EAC的运行。<br>
+如何注入：<br>
+1.启动游戏。<br>
+2.直接使用 Xenos Injector 或 Process Hacker 2 将 DLL 注入到游戏进程中。</p>]]></description>
+</item>
+<item>
+    <title>友尽对决Friends vs Friends-老外内部免费辅助</title>
+    <link>https://7772027.xyz/%E5%8F%8B%E5%B0%BD%E5%AF%B9%E5%86%B3friends-vs-friends-%E8%80%81%E5%A4%96%E5%86%85%E9%83%A8%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9/</link>
+    <pubDate>Tue, 18 Aug 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/%E5%8F%8B%E5%B0%BD%E5%AF%B9%E5%86%B3friends-vs-friends-%E8%80%81%E5%A4%96%E5%86%85%E9%83%A8%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>友尽对决Friends vs Friends-老外内部免费辅助<br>
+使用方法：<br>
+1.在游戏目录里找到 \EasyAntiCheat\Settings.json<br>
+2.用记事本打开Settings.json，找到<br>
+&ldquo;productid&rdquo;: &ldquo;xxxxxx&rdquo;,<br>
+&ldquo;sandboxid&rdquo;: &ldquo;xxxxxx&rdquo;,<br>
+复制代码<br>
+3.将xxxxxx修改成任何数字，例如“96”，然后保存<br>
+4.启动游戏<br>
+5.使用影子注入器[x64]，注入到游戏</p>]]></description>
+</item>
+</channel>
+</rss>

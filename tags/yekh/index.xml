@@ -1,0 +1,37 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>YEKH - 标签 - 7772027.xyz</title>
+        <link>https://7772027.xyz/tags/yekh/</link>
+        <description>YEKH - 标签 - 7772027.xyz</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 19 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/yekh/" rel="self" type="application/rss+xml" /><item>
+    <title>火影忍者YE-KH公益内核1.6.0</title>
+    <link>https://7772027.xyz/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85ye-kh%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B81.6.0/</link>
+    <pubDate>Sat, 19 Sep 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85ye-kh%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B81.6.0/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>火影忍者YE-KH公益内核1.6.0<br>
+更新日志(9.19更新)🔥<br>
+1.优化GT模式下视野倍率问题<br>
+2.增加距离敌方xy轴距离<br>
+3.增加绘制方框<br>
+4.增加攻击范围显示(俗称红蓝框)<br>
+5.增加中场显示<br>
+6.增加单独显示替身时间<br>
+7.增加技能槽位显示</p>]]></description>
+</item>
+<item>
+    <title>火影忍者YE-KH公益内核1.5.1</title>
+    <link>https://7772027.xyz/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85ye-kh%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B81.5.1/</link>
+    <pubDate>Fri, 18 Sep 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85ye-kh%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B81.5.1/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>火影忍者YE-KH公益内核1.5.1<br>
+更新日志(9.18更新)<br>
+1.修复连打概率无效果问题<br>
+2.增加敌我辅助线自调颜色<br>
+3.增加纯c(syscall)模式</p>]]></description>
+</item>
+</channel>
+</rss>

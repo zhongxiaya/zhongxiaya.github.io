@@ -1,0 +1,205 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>蔚蓝档案 - 标签 - 7772027.xyz</title>
+        <link>https://7772027.xyz/tags/%E8%94%9A%E8%93%9D%E6%A1%A3%E6%A1%88/</link>
+        <description>蔚蓝档案 - 标签 - 7772027.xyz</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 27 Aug 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E8%94%9A%E8%93%9D%E6%A1%A3%E6%A1%88/" rel="self" type="application/rss+xml" /><item>
+    <title>蔚蓝档案-Kei多功能辅助(4)仅Steam更新0.1.5</title>
+    <link>https://7772027.xyz/%E8%94%9A%E8%93%9D%E6%A1%A3%E6%A1%88-kei%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A94%E4%BB%85steam%E6%9B%B4%E6%96%B00.1.5/</link>
+    <pubDate>Thu, 27 Aug 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/%E8%94%9A%E8%93%9D%E6%A1%A3%E6%A1%88-kei%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A94%E4%BB%85steam%E6%9B%B4%E6%96%B00.1.5/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>蔚蓝档案-Kei多功能辅助(4)仅Steam更新0.1.5<br>
+🌈说明:<br>
+以管理员方式运行Loader.exe<br>
+出现控制台后，输入1或者2<br>
+1.注入模式是自动检测自己手动打开游戏。<br>
+2.注入模式是选择游戏目录，科技拉起，例如：选择E:\Steam\steamapps\common\BlueArchive目录即可<br>
+然后在控制台输入Y即可<br>
+仅测试Steam版本，其他渠道未测试<br>
+✅更新日志<br>
+修复无消耗bug<br>
+🌸功能介绍：<br>
+Combat (战斗)<br>
+上帝模式(God Mode)<br>
+一击必杀(Instant Kill)<br>
+伤害倍率(Damage Multiplier)<br>
+治疗倍率(Heal Multiplier)<br>
+无限召唤持续时间(Infinite Summon Duration)<br>
+无技能消耗(No Skill Cost)<br>
+状态编辑器(Stat Editor)<br>
+强制暴击(Force Crit)<br>
+增益修改器(Buff Modifier)<br>
+Battle (对战)<br>
+笨怪(Dumb Enemy)<br>
+自动击杀敌人(Auto-Kill Enemy)<br>
+立即胜利(Instant Win)<br>
+跳过战斗总结(Skip Battle Summary)<br>
+跳过对话(Skip Dialogue)<br>
+Visual (视觉)<br>
+全局速度(Global Speed)<br>
+战斗速度(Battle Speed)<br>
+相机视野(Camera FOV)<br>
+解锁帧率(FPS Unlock)</p>]]></description>
+</item>
+<item>
+    <title>蔚蓝档案-ASA多功能辅助8.19</title>
+    <link>https://7772027.xyz/%E8%94%9A%E8%93%9D%E6%A1%A3%E6%A1%88-asa%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A98.19/</link>
+    <pubDate>Wed, 19 Aug 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/%E8%94%9A%E8%93%9D%E6%A1%A3%E6%A1%88-asa%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A98.19/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>蔚蓝档案-ASA多功能辅助8.19<br>
+说明:<br>
+把DLL文件拖到游戏目录<br>
+打开游戏后，Insert开关菜单<br>
+更新日志<br>
+更新到游戏版本453174<br>
+🌸功能介绍：<br>
+玩家(Player)<br>
+上帝模式(God Mode)<br>
+瞬间击杀(Instant Kill)<br>
+无消耗(No Cost)<br>
+伤害倍率(Damage Multiplier)<br>
+治疗倍率(Heal Multiplier)<br>
+无限召唤持续时间(Infinite Summon Duration)<br>
+玩家属性(Player Stats)<br>
+世界(World)<br>
+立即获胜(Instant Win)<br>
+笨怪(Dumb Enemies)<br>
+战斗速度(Battle Speed)<br>
+全局速度(Global Speed)<br>
+跳过对话(Skip Dialogue)<br>
+跳过战斗总结(Skip Battle Summary)<br>
+视觉(Visuals)<br>
+摄像机视野(Camera FOV)<br>
+帧率显示(FPS Indicator)<br>
+设置(Misc)<br>
+配置(Config)<br>
+保存(Save)<br>
+加载(Load)<br>
+重置(Reset)<br>
+菜单设置(Menu Settings)<br>
+菜单键(Menu Key): INSERT<br>
+自定义字体(Custom Font)</p>]]></description>
+</item>
+<item>
+    <title>蔚蓝档案-ASA多功能辅助8.19</title>
+    <link>https://7772027.xyz/%E8%94%9A%E8%93%9D%E6%A1%A3%E6%A1%88-asa%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A98.19/</link>
+    <pubDate>Wed, 19 Aug 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/%E8%94%9A%E8%93%9D%E6%A1%A3%E6%A1%88-asa%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A98.19/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>蔚蓝档案-ASA多功能辅助8.19<br>
+说明:<br>
+把DLL文件拖到游戏目录<br>
+打开游戏后，Insert开关菜单<br>
+更新日志<br>
+更新到游戏版本453174<br>
+🌸功能介绍：<br>
+玩家(Player)<br>
+上帝模式(God Mode)<br>
+瞬间击杀(Instant Kill)<br>
+无消耗(No Cost)<br>
+伤害倍率(Damage Multiplier)<br>
+治疗倍率(Heal Multiplier)<br>
+无限召唤持续时间(Infinite Summon Duration)<br>
+玩家属性(Player Stats)<br>
+世界(World)<br>
+立即获胜(Instant Win)<br>
+笨怪(Dumb Enemies)<br>
+战斗速度(Battle Speed)<br>
+全局速度(Global Speed)<br>
+跳过对话(Skip Dialogue)<br>
+跳过战斗总结(Skip Battle Summary)<br>
+视觉(Visuals)<br>
+摄像机视野(Camera FOV)<br>
+帧率显示(FPS Indicator)<br>
+设置(Misc)<br>
+配置(Config)<br>
+保存(Save)<br>
+加载(Load)<br>
+重置(Reset)<br>
+菜单设置(Menu Settings)<br>
+菜单键(Menu Key): INSERT<br>
+自定义字体(Custom Font)</p>]]></description>
+</item>
+<item>
+    <title>蔚蓝档案-Kei多功能辅助0.1.5仅Steam</title>
+    <link>https://7772027.xyz/%E8%94%9A%E8%93%9D%E6%A1%A3%E6%A1%88-kei%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A90.1.5%E4%BB%85steam/</link>
+    <pubDate>Wed, 19 Aug 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/%E8%94%9A%E8%93%9D%E6%A1%A3%E6%A1%88-kei%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A90.1.5%E4%BB%85steam/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>蔚蓝档案-Kei多功能辅助0.1.5仅Steam<br>
+说明:<br>
+以管理员方式运行Loader.exe<br>
+出现控制台后，输入1或者2<br>
+1.注入模式是自动检测自己手动打开游戏。<br>
+2.注入模式是选择游戏目录，科技拉起，例如：选择E:\Steam\steamapps\common\BlueArchive目录即可<br>
+然后在控制台输入Y即可<br>
+仅测试Steam版本，其他渠道未测试<br>
+🌸功能介绍：<br>
+Combat (战斗)<br>
+上帝模式(God Mode)<br>
+一击必杀(Instant Kill)<br>
+伤害倍率(Damage Multiplier)<br>
+治疗倍率(Heal Multiplier)<br>
+无限召唤持续时间(Infinite Summon Duration)<br>
+无技能消耗(No Skill Cost)<br>
+状态编辑器(Stat Editor)<br>
+强制暴击(Force Crit)<br>
+增益修改器(Buff Modifier)<br>
+Battle (对战)<br>
+笨怪(Dumb Enemy)<br>
+自动击杀敌人(Auto-Kill Enemy)<br>
+立即胜利(Instant Win)<br>
+跳过战斗总结(Skip Battle Summary)<br>
+跳过对话(Skip Dialogue)<br>
+Visual (视觉)<br>
+全局速度(Global Speed)<br>
+战斗速度(Battle Speed)<br>
+相机视野(Camera FOV)<br>
+解锁帧率(FPS Unlock)</p>]]></description>
+</item>
+<item>
+    <title>蔚蓝档案-Kei多功能辅助0.1.5仅Steam</title>
+    <link>https://7772027.xyz/%E8%94%9A%E8%93%9D%E6%A1%A3%E6%A1%88-kei%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A90.1.5%E4%BB%85steam/</link>
+    <pubDate>Wed, 19 Aug 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/%E8%94%9A%E8%93%9D%E6%A1%A3%E6%A1%88-kei%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A90.1.5%E4%BB%85steam/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>蔚蓝档案-Kei多功能辅助0.1.5仅Steam<br>
+说明:<br>
+以管理员方式运行Loader.exe<br>
+出现控制台后，输入1或者2<br>
+1.注入模式是自动检测自己手动打开游戏。<br>
+2.注入模式是选择游戏目录，科技拉起，例如：选择E:\Steam\steamapps\common\BlueArchive目录即可<br>
+然后在控制台输入Y即可<br>
+仅测试Steam版本，其他渠道未测试<br>
+🌸功能介绍：<br>
+Combat (战斗)<br>
+上帝模式(God Mode)<br>
+一击必杀(Instant Kill)<br>
+伤害倍率(Damage Multiplier)<br>
+治疗倍率(Heal Multiplier)<br>
+无限召唤持续时间(Infinite Summon Duration)<br>
+无技能消耗(No Skill Cost)<br>
+状态编辑器(Stat Editor)<br>
+强制暴击(Force Crit)<br>
+增益修改器(Buff Modifier)<br>
+Battle (对战)<br>
+笨怪(Dumb Enemy)<br>
+自动击杀敌人(Auto-Kill Enemy)<br>
+立即胜利(Instant Win)<br>
+跳过战斗总结(Skip Battle Summary)<br>
+跳过对话(Skip Dialogue)<br>
+Visual (视觉)<br>
+全局速度(Global Speed)<br>
+战斗速度(Battle Speed)<br>
+相机视野(Camera FOV)<br>
+解锁帧率(FPS Unlock)</p>]]></description>
+</item>
+</channel>
+</rss>

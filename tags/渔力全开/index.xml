@@ -1,0 +1,225 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>渔力全开 - 标签 - 7772027.xyz</title>
+        <link>https://7772027.xyz/tags/%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80/</link>
+        <description>渔力全开 - 标签 - 7772027.xyz</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 22 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80/" rel="self" type="application/rss+xml" /><item>
+    <title>How To Fish《渔力全开》Mod辅助菜单修改器 v5.1</title>
+    <link>https://7772027.xyz/how-to-fish%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80mod%E8%BE%85%E5%8A%A9%E8%8F%9C%E5%8D%95%E4%BF%AE%E6%94%B9%E5%99%A8-v5.1/</link>
+    <pubDate>Tue, 22 Sep 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/how-to-fish%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80mod%E8%BE%85%E5%8A%A9%E8%8F%9C%E5%8D%95%E4%BF%AE%E6%94%B9%E5%99%A8-v5.1/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>How To Fish《渔力全开》Mod辅助菜单修改器 v5.1<br>
+安装方法：</p>
+<ol>
+<li>安装 BepInEx 5.4.23：</li>
+</ol>
+<ul>
+<li>下载 BepInEx_x64_5.4.23.zip（已打包）</li>
+<li>将压缩包内容解压到游戏目录中（也就是解压放在游戏 How to Fish.exe 同级目录）</li>
+<li>鼠标右键游戏名字→管理→浏览本地文件（即可打开游戏目录）</li>
+<li>然后启动一次游戏，让 BepInEx 自动生成“plugins”文件夹，然后退出游戏</li>
+</ul>
+<ol start="2">
+<li>将“HowToFishAimbot.dll”放入：How to Fish\BepInEx\plugins\这个目录里面</li>
+<li>启动游戏，按INSERT键打开菜单。</li>
+</ol>
+<h3 id="下载地址多种下载方式-择优下载">下载地址(多种下载方式 择优下载)：</h3>
+<p><a href="https://pan.quark.cn/s/dcc3c7052ca2" target="_blank" rel="noopener noreffer ">夸克网盘-免费下载</a><br>
+<a href="https://pan.baidu.com/s/1Nioq5ch_rLVAyB8HpK_0SQ?pwd=8888" target="_blank" rel="noopener noreffer ">百度网盘-免费下载</a><br>
+<a href="https://drive.uc.cn/s/47e00ea6a5874" target="_blank" rel="noopener noreffer ">UC网盘-免费下载</a><br>
+<a href="https://pan.xunlei.com/s/VOzKFiSNs7oWaoyi-n90gypCA1?pwd=9kay" target="_blank" rel="noopener noreffer ">迅雷网盘-免费下载</a></p>]]></description>
+</item>
+<item>
+    <title>渔力全开多功能Mod菜单Steam_XBox</title>
+    <link>https://7772027.xyz/%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80%E5%A4%9A%E5%8A%9F%E8%83%BDmod%E8%8F%9C%E5%8D%95steam_xbox/</link>
+    <pubDate>Mon, 21 Sep 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80%E5%A4%9A%E5%8A%9F%E8%83%BDmod%E8%8F%9C%E5%8D%95steam_xbox/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>渔力全开多功能Mod菜单Steam/XBox<br>
+使用教程:<br>
+解压刀桌面以管理员方式运行HowToFishLauncher.exe<br>
+手动打开游戏，Insert开关菜单<br>
+在config里面设置中文</p>]]></description>
+</item>
+<item>
+    <title>渔力全开《How To Fish》NexoDev多功能修改器汉化版v2.0</title>
+    <link>https://7772027.xyz/%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80how-to-fishnexodev%E5%A4%9A%E5%8A%9F%E8%83%BD%E4%BF%AE%E6%94%B9%E5%99%A8%E6%B1%89%E5%8C%96%E7%89%88v2.0/</link>
+    <pubDate>Mon, 14 Sep 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80how-to-fishnexodev%E5%A4%9A%E5%8A%9F%E8%83%BD%E4%BF%AE%E6%94%B9%E5%99%A8%E6%B1%89%E5%8C%96%E7%89%88v2.0/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>渔力全开《How To Fish》NexoDev多功能修改器汉化版v2.0<br>
+安装方法：</p>
+<ol>
+<li>安装 BepInEx 5.4.23：</li>
+</ol>
+<ul>
+<li>下载 BepInEx_x64_5.4.23.zip（已打包）</li>
+<li>将压缩包内容解压到游戏目录中（也就是解压放在游戏 How to Fish.exe 同级目录）</li>
+<li>鼠标右键游戏名字→管理→浏览本地文件（即可打开游戏目录）</li>
+<li>然后启动一次游戏，让 BepInEx 自动生成“plugins”文件夹，然后退出游戏</li>
+</ul>
+<ol start="2">
+<li>将“HTFPlugin.dll”放入：How to Fish\BepInEx\plugins\这个目录里面</li>
+<li>启动游戏，按INSERT键打开菜单。（进入游戏房间才会自动打开菜单）</li>
+</ol>
+<h3 id="下载地址多种下载方式-择优下载">下载地址(多种下载方式 择优下载)：</h3>
+<p><a href="https://pan.quark.cn/s/dcc3c7052ca2" target="_blank" rel="noopener noreffer ">夸克网盘-免费下载</a><br>
+<a href="https://pan.baidu.com/s/1Nioq5ch_rLVAyB8HpK_0SQ?pwd=8888" target="_blank" rel="noopener noreffer ">百度网盘-免费下载</a><br>
+<a href="https://drive.uc.cn/s/47e00ea6a5874" target="_blank" rel="noopener noreffer ">UC网盘-免费下载</a><br>
+<a href="https://pan.xunlei.com/s/VOzKFiSNs7oWaoyi-n90gypCA1?pwd=9kay" target="_blank" rel="noopener noreffer ">迅雷网盘-免费下载</a></p>]]></description>
+</item>
+<item>
+    <title>【How To Fish】渔力全开FishSense 1.0中文免费修改器</title>
+    <link>https://7772027.xyz/how-to-fish%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80fishsense-1.0%E4%B8%AD%E6%96%87%E5%85%8D%E8%B4%B9%E4%BF%AE%E6%94%B9%E5%99%A8/</link>
+    <pubDate>Wed, 02 Sep 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/how-to-fish%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80fishsense-1.0%E4%B8%AD%E6%96%87%E5%85%8D%E8%B4%B9%E4%BF%AE%E6%94%B9%E5%99%A8/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>【How To Fish】渔力全开FishSense 1.0中文免费修改器<br>
+使用方法：<br>
+1.解压到游戏目录<br>
+2.运行FishSense.exe<br>
+3.启动游戏<br>
+Insert = 显示|隐藏菜单</p>]]></description>
+</item>
+<item>
+    <title>渔力全开【How To Fish】 - abod v1.0.0免费多功能修改器</title>
+    <link>https://7772027.xyz/%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80how-to-fish-abod-v1.0.0%E5%85%8D%E8%B4%B9%E5%A4%9A%E5%8A%9F%E8%83%BD%E4%BF%AE%E6%94%B9%E5%99%A8/</link>
+    <pubDate>Sun, 30 Aug 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80how-to-fish-abod-v1.0.0%E5%85%8D%E8%B4%B9%E5%A4%9A%E5%8A%9F%E8%83%BD%E4%BF%AE%E6%94%B9%E5%99%A8/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>渔力全开【How To Fish】 - abod v1.0.0免费多功能修改器<br>
+使用方法：解压到游戏目录<br>
+Insert = 显示|隐藏菜单</p>]]></description>
+</item>
+<item>
+    <title>渔力全开【How To Fish】Mod菜单修改器 v5</title>
+    <link>https://7772027.xyz/%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80how-to-fishmod%E8%8F%9C%E5%8D%95%E4%BF%AE%E6%94%B9%E5%99%A8-v5/</link>
+    <pubDate>Sun, 30 Aug 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80how-to-fishmod%E8%8F%9C%E5%8D%95%E4%BF%AE%E6%94%B9%E5%99%A8-v5/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>渔力全开【How To Fish】Mod菜单修改器 v5<br>
+使用方法：解压到游戏目录<br>
+Insert = 显示|隐藏菜单</p>
+<h3 id="下载地址">下载地址：</h3>
+<p><a href="https://drive.uc.cn/s/47e00ea6a5874" target="_blank" rel="noopener noreffer ">UC网盘-免费下载</a></p>]]></description>
+</item>
+<item>
+    <title>《渔力全开》实用Mod整合包</title>
+    <link>https://7772027.xyz/%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80%E5%AE%9E%E7%94%A8mod%E6%95%B4%E5%90%88%E5%8C%85/</link>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80%E5%AE%9E%E7%94%A8mod%E6%95%B4%E5%90%88%E5%8C%85/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>《渔力全开》实用Mod整合包<br>
+说明：十字准星、多人联机、死亡不掉落、物品堆叠、老虎机优化、BOSS血量显示等多种实用功能</p>]]></description>
+</item>
+<item>
+    <title>【How to Fish 渔力全开】免费简易辅助MOD更新v1.2.0</title>
+    <link>https://7772027.xyz/how-to-fish-%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80%E5%85%8D%E8%B4%B9%E7%AE%80%E6%98%93%E8%BE%85%E5%8A%A9mod%E6%9B%B4%E6%96%B0v1.2.0/</link>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/how-to-fish-%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80%E5%85%8D%E8%B4%B9%E7%AE%80%E6%98%93%E8%BE%85%E5%8A%A9mod%E6%9B%B4%E6%96%B0v1.2.0/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>【How to Fish 渔力全开】免费简易辅助MOD更新v1.2.0</p>
+<p>菜单功能：<br>
+· 自瞄：静默自瞄，投射物自动飞向目标（视角不动）</p>
+<ul>
+<li>角度滑块：调整屏幕中心锁定圆圈大小（5~60°）</li>
+<li>范围圈：显示屏幕中心的锁定范围圆圈</li>
+<li>优先锁定 Boss，其次准星附近最近的生物<br>
+· 水印：左上角水印开关（默认开启，关闭后下次启动保持关闭）<br>
+· 生存：无敌 / 治愈+饱食 / 一击必杀 / 友军伤害 / 无限饱食<br>
+· 生成物品：输入名称或从列表点击生成（房主有效，全房间可见）<br>
+【安装方法】</li>
+</ul>
+<ol>
+<li>解压本压缩包到游戏根目录<br>
+（即 &ldquo;How to Fish.exe&rdquo; 所在目录，通常是<br>
+Steam\steamapps\common\How to Fish\How to Fish\ ）</li>
+<li>确认根目录下出现 BepInEx 文件夹、<br>
+winhttp.dll、doorstop_config.ini</li>
+<li>通过 Steam 正常启动游戏即可<br>
+【使用方法】</li>
+</ol>
+<ul>
+<li>按 Insert 打开/关闭修改器菜单<br>
+【多人模式说明】</li>
+<li>自瞄、水印：纯本地功能，加入任何房间均有效</li>
+<li>无敌/一击必杀/生成物品等：房主开启后全房间生效；<br>
+加入他人房间时这些功能受服务器限制<br>
+【卸载方法】<br>
+删除游戏根目录下的 BepInEx 文件夹、winhttp.dll、doorstop_config.ini 即可<br>
+【常见问题】</li>
+<li>游戏更新后修改器失效：私聊作者，等待作者更新</li>
+<li>杀毒软件误报：winhttp.dll 为 BepInEx 注入所需文件，添加信任即可</li>
+</ul>
+<h3 id="下载地址">下载地址：</h3>
+<p><a href="https://drive.uc.cn/s/47e00ea6a5874" target="_blank" rel="noopener noreffer ">UC网盘-免费下载</a></p>]]></description>
+</item>
+<item>
+    <title>【How to Fish 渔力全开】免费简易辅助MOD更新v1.3.0</title>
+    <link>https://7772027.xyz/how-to-fish-%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80%E5%85%8D%E8%B4%B9%E7%AE%80%E6%98%93%E8%BE%85%E5%8A%A9mod%E6%9B%B4%E6%96%B0v1.3.0/</link>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/how-to-fish-%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80%E5%85%8D%E8%B4%B9%E7%AE%80%E6%98%93%E8%BE%85%E5%8A%A9mod%E6%9B%B4%E6%96%B0v1.3.0/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>【How to Fish 渔力全开】免费简易辅助MOD更新v1.3.0</p>
+<p>菜单功能：<br>
+· 自瞄：静默自瞄，投射物自动飞向目标（视角不动）</p>
+<ul>
+<li>角度滑块：调整屏幕中心锁定圆圈大小（5~60°）</li>
+<li>范围圈：显示屏幕中心的锁定范围圆圈</li>
+<li>优先锁定 Boss，其次准星附近最近的生物<br>
+· 水印：左上角水印开关（默认开启，关闭后下次启动保持关闭）<br>
+· 生存：无敌 / 治愈+饱食 / 一击必杀 / 友军伤害 / 无限饱食<br>
+· 生成物品：输入名称或从列表点击生成（房主有效，全房间可见）<br>
+【安装方法】</li>
+</ul>
+<ol>
+<li>解压本压缩包到游戏根目录<br>
+（即 &ldquo;How to Fish.exe&rdquo; 所在目录，通常是<br>
+Steam\steamapps\common\How to Fish\How to Fish\ ）</li>
+<li>确认根目录下出现 BepInEx 文件夹、<br>
+winhttp.dll、doorstop_config.ini</li>
+<li>通过 Steam 正常启动游戏即可<br>
+【使用方法】</li>
+</ol>
+<ul>
+<li>按 Insert 打开/关闭修改器菜单<br>
+【多人模式说明】</li>
+<li>自瞄、水印：纯本地功能，加入任何房间均有效</li>
+<li>无敌/一击必杀/生成物品等：房主开启后全房间生效；<br>
+加入他人房间时这些功能受服务器限制<br>
+【卸载方法】<br>
+删除游戏根目录下的 BepInEx 文件夹、winhttp.dll、doorstop_config.ini 即可<br>
+【常见问题】</li>
+<li>游戏更新后修改器失效：私聊作者，等待作者更新</li>
+<li>杀毒软件误报：winhttp.dll 为 BepInEx 注入所需文件，添加信任即可</li>
+</ul>
+<h3 id="下载地址">下载地址：</h3>
+<p><a href="https://drive.uc.cn/s/47e00ea6a5874" target="_blank" rel="noopener noreffer ">UC网盘-免费下载</a></p>]]></description>
+</item>
+<item>
+    <title>【How To Fish】渔力全开-老外暴力多功能修改器</title>
+    <link>https://7772027.xyz/how-to-fish%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80-%E8%80%81%E5%A4%96%E6%9A%B4%E5%8A%9B%E5%A4%9A%E5%8A%9F%E8%83%BD%E4%BF%AE%E6%94%B9%E5%99%A8/</link>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/how-to-fish%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80-%E8%80%81%E5%A4%96%E6%9A%B4%E5%8A%9B%E5%A4%9A%E5%8A%9F%E8%83%BD%E4%BF%AE%E6%94%B9%E5%99%A8/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>【How To Fish】渔力全开-老外暴力多功能修改器</p>
+<p>功能过多就不列出来了都在图里<br>
+Right Shift= 显示|隐藏菜单<br>
+空间类名: ResurRecte类: Loader方法: Init<br>
+使用方法：<br>
+1.启动游戏<br>
+2.管理员权限运行 &ldquo;smi_gui.exe&rdquo;</p>]]></description>
+</item>
+</channel>
+</rss>

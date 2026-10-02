@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>VASILE - 标签 - 7772027.xyz</title>
+        <link>https://7772027.xyz/tags/vasile/</link>
+        <description>VASILE - 标签 - 7772027.xyz</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 13 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/vasile/" rel="self" type="application/rss+xml" /><item>
+    <title>VASILE - Roblox 外部辅助（自瞄、透视、功能利用）</title>
+    <link>https://7772027.xyz/vasile-roblox-%E5%A4%96%E9%83%A8%E8%BE%85%E5%8A%A9%E8%87%AA%E7%9E%84%E9%80%8F%E8%A7%86%E5%8A%9F%E8%83%BD%E5%88%A9%E7%94%A8/</link>
+    <pubDate>Sun, 13 Sep 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/vasile-roblox-%E5%A4%96%E9%83%A8%E8%BE%85%E5%8A%A9%E8%87%AA%E7%9E%84%E9%80%8F%E8%A7%86%E5%8A%9F%E8%83%BD%E5%88%A9%E7%94%A8/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>VASILE - Roblox 外部辅助（自瞄、透视、功能利用）</p>
+<p>以后可能不会再更新了，不过目前已经包含大部分实用功能。以后只需要替换偏移量，有时还要根据新的 FFlags 重新编译（例如反向同步、玩家冻结等功能）。如果你不需要这些功能，只更新偏移量即可。<br>
+功能：</p>]]></description>
+</item>
+</channel>
+</rss>

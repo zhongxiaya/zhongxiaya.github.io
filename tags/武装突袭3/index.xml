@@ -1,0 +1,58 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>武装突袭3 - 标签 - 7772027.xyz</title>
+        <link>https://7772027.xyz/tags/%E6%AD%A6%E8%A3%85%E7%AA%81%E8%A2%AD3/</link>
+        <description>武装突袭3 - 标签 - 7772027.xyz</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 21 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E6%AD%A6%E8%A3%85%E7%AA%81%E8%A2%AD3/" rel="self" type="application/rss+xml" /><item>
+    <title>Arma 3《武装突袭3》内部DX11免费透视辅助v1.5.2</title>
+    <link>https://7772027.xyz/arma-3%E6%AD%A6%E8%A3%85%E7%AA%81%E8%A2%AD3%E5%86%85%E9%83%A8dx11%E5%85%8D%E8%B4%B9%E9%80%8F%E8%A7%86%E8%BE%85%E5%8A%A9v1.5.2/</link>
+    <pubDate>Mon, 21 Sep 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/arma-3%E6%AD%A6%E8%A3%85%E7%AA%81%E8%A2%AD3%E5%86%85%E9%83%A8dx11%E5%85%8D%E8%B4%B9%E9%80%8F%E8%A7%86%E8%BE%85%E5%8A%A9v1.5.2/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>Arma 3《武装突袭3》内部DX11免费透视辅助v1.5.2</p>
+<h3 id="下载地址多种下载方式-择优下载">下载地址(多种下载方式 择优下载)：</h3>
+<p><a href="https://pan.quark.cn/s/dcc3c7052ca2" target="_blank" rel="noopener noreffer ">夸克网盘-免费下载</a><br>
+<a href="https://pan.baidu.com/s/1Nioq5ch_rLVAyB8HpK_0SQ?pwd=8888" target="_blank" rel="noopener noreffer ">百度网盘-免费下载</a><br>
+<a href="https://drive.uc.cn/s/47e00ea6a5874" target="_blank" rel="noopener noreffer ">UC网盘-免费下载</a><br>
+<a href="https://pan.xunlei.com/s/VOzKFiSNs7oWaoyi-n90gypCA1?pwd=9kay" target="_blank" rel="noopener noreffer ">迅雷网盘-免费下载</a></p>]]></description>
+</item>
+<item>
+    <title>Arma 3《武装突袭3》内部DX11免费透视辅助</title>
+    <link>https://7772027.xyz/arma-3%E6%AD%A6%E8%A3%85%E7%AA%81%E8%A2%AD3%E5%86%85%E9%83%A8dx11%E5%85%8D%E8%B4%B9%E9%80%8F%E8%A7%86%E8%BE%85%E5%8A%A9/</link>
+    <pubDate>Wed, 16 Sep 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/arma-3%E6%AD%A6%E8%A3%85%E7%AA%81%E8%A2%AD3%E5%86%85%E9%83%A8dx11%E5%85%8D%E8%B4%B9%E9%80%8F%E8%A7%86%E8%BE%85%E5%8A%A9/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>Arma 3《武装突袭3》内部DX11免费透视辅助</p>
+<p>都有什么功能？<br>
+世界透视（World ESP）<br>
+包围盒由实体自身的头部与脚部坐标构建，因此会跟随身体移动，而不会浮空<br>
+在每个实体上显示配置类名（I_Soldier_TL_F、B_MRAP_01_hmg_F、Land_FirstAidKit_01_open_F），并以引擎类名作为回退<br>
+在每个实体上显示距离（米）<br>
+血量条读取游戏所用的同一套伤害链（尸体读数为 1.01）<br>
+颜色按人而非按载具：车辆采用车内乘员的颜色，因此敌人驾驶缴获的 Hunter 时显示为红色。其他情况：绿色为你方，红色为其他阵营，青色为动物，橙色为无可用乘员的载具，紫色为物体，灰色为尸体<br>
+地图透视（按 M 键）<br>
+标记绘制在游戏自带地图上，方式是向引擎自带的地图变换查询它会把这个坐标画在哪里，因此标记落点与游戏图标一致<br>
+标记遵循与世界包围盒相同的分类过滤与类名列表<br>
+绘制范围取自地图对象自身的界面安全区字段，而非假定值，并已在屏幕上核对<br>
+独立的地图距离设置，零表示无限制（默认）<br>
+可选：地图打开时隐藏世界包围盒，默认开启<br>
+始终在地图上绘制自己：无论过滤器如何设置，都在你自己的位置画一个带黑圈的白点，这是地图校准所依据的参考点<br>
+地图是否打开读取自引擎自身的 visibleMap 状态，而非按键，因此重绑地图键没有任何影响<br>
+分类，每项各有开关与类名列表<br>
+友方：你方的活人<br>
+敌方：非你方阵营的活人<br>
+中立：平民与无归属单位<br>
+载具：汽车、坦克、直升机、固定武器，无论有无乘员<br>
+尸体：带有死亡标记的人，无论其曾属哪方<br>
+动物<br>
+掉落物：箱子、掉落的武器、地面物品<br>
+列表条目会以不区分大小写的方式，对实体的两个名字做子串匹配，因此 UK3CB_CSAT 可覆盖整个载具家族，carx 可覆盖所有载具而不必逐一列出型号。每个分类要么是「仅列出的」，要么是「隐藏列出的」，且空列表永远不会隐藏任何东西，所以把某个分类切成「仅列出的」不会意外把它清空。菜单会显示每个列表当前正在隐藏多少个实体。<br>
+调试窗口<br>
+实时实体列表，含每个实体的状态、来自哪张表，以及被排除的原因（若被排除）<br>
+每个实体带一个「+ filter」按钮，点击即可把它的类名追加到所属分类的列表中，因此列表可以通过对着屏幕上的目标点击来构建<br>
+一切都不依赖你的分辨率、宽高比或全屏模式。投影使用相机对象自身的半宽高与焦距，因此游戏设成什么，叠加层就用什么来绘制。</p>]]></description>
+</item>
+</channel>
+</rss>

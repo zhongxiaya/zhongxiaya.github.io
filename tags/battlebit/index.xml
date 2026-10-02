@@ -1,0 +1,46 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>BattleBit - 标签 - 7772027.xyz</title>
+        <link>https://7772027.xyz/tags/battlebit/</link>
+        <description>BattleBit - 标签 - 7772027.xyz</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 23 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/battlebit/" rel="self" type="application/rss+xml" /><item>
+    <title>BattleBit Remastered BBQ辅助｜透视自瞄 方框射线 血量距离</title>
+    <link>https://7772027.xyz/battlebit-remastered-bbq%E8%BE%85%E5%8A%A9%E9%80%8F%E8%A7%86%E8%87%AA%E7%9E%84-%E6%96%B9%E6%A1%86%E5%B0%84%E7%BA%BF-%E8%A1%80%E9%87%8F%E8%B7%9D%E7%A6%BB/</link>
+    <pubDate>Wed, 23 Sep 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/battlebit-remastered-bbq%E8%BE%85%E5%8A%A9%E9%80%8F%E8%A7%86%E8%87%AA%E7%9E%84-%E6%96%B9%E6%A1%86%E5%B0%84%E7%BA%BF-%E8%A1%80%E9%87%8F%E8%B7%9D%E7%A6%BB/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>BattleBit Remastered BBQ辅助｜透视自瞄 方框射线 血量距离</p>
+<p>功能：<br>
+透视-&gt;<br>
+玩家方框<br>
+玩家射线<br>
+显示玩家武器<br>
+玩家血量<br>
+显示距离<br>
+自瞄-&gt;<br>
+自瞄玩家<br>
+显示自瞄范围<br>
+自定义自瞄范围<br>
+自定义自瞄按键<br>
+自定义自瞄位置<br>
+自定义自瞄平滑<br>
+快捷键：<br>
+INS = 显示|隐藏<br>
+End = 卸载<br>
+使用方法：<br>
+1.下载影子注入器内核版<br>
+2.将BBQ.dll、影子注入器内核版.exe、配置.ini，解压到同一个文件夹内<br>
+3.编辑 “配置.ini”，将以下内容粘贴保存<br>
+[配置]<br>
+窗口类名=UnityWndClass<br>
+DLL=BBQ.dll<br>
+HookID=12<br>
+注入模式=1<br>
+延迟加载DLL=0<br>
+复制代码<br>
+4.启动“影子注入器内核版.exe”，然后启动游戏【首次启动注入器会先安装启动，需要重新再启动一次】<br>
+注意：需要关闭杀毒软件否则会导致驱动启动失败</p>]]></description>
+</item>
+</channel>
+</rss>

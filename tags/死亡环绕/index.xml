@@ -1,0 +1,159 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>死亡环绕 - 标签 - 7772027.xyz</title>
+        <link>https://7772027.xyz/tags/%E6%AD%BB%E4%BA%A1%E7%8E%AF%E7%BB%95/</link>
+        <description>死亡环绕 - 标签 - 7772027.xyz</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 16 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E6%AD%BB%E4%BA%A1%E7%8E%AF%E7%BB%95/" rel="self" type="application/rss+xml" /><item>
+    <title>死亡环绕（SurrounDead）透视自喵传送穿墙多功能辅助</title>
+    <link>https://7772027.xyz/%E6%AD%BB%E4%BA%A1%E7%8E%AF%E7%BB%95surroundead%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E4%BC%A0%E9%80%81%E7%A9%BF%E5%A2%99%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9/</link>
+    <pubDate>Wed, 16 Sep 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/%E6%AD%BB%E4%BA%A1%E7%8E%AF%E7%BB%95surroundead%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E4%BC%A0%E9%80%81%E7%A9%BF%E5%A2%99%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>死亡环绕（SurrounDead）透视自喵传送穿墙多功能辅助</p>
+<p>使用说明：<br>
+1.启动游戏<br>
+2.大厅界面打开 注入器 注入即可。<br>
+功能翻译：<br>
+快捷键 (Hotkeys)<br>
+INSERT - 开关菜单<br>
+END - 卸载 在游戏主菜单使用 DLL 注入器注入 - Cheat Engine 等<br>
+功能翻译：<br>
+自瞄 (Aimbot)<br>
+启用自瞄 (Enable Aimbot)<br>
+自瞄按键 (Aim Key) - 可自定义绑定，按住即瞄准<br>
+目标骨骼 (Target Bone) - 头部、颈部、胸部/脊椎、骨盆、腿部<br>
+自瞄方式 (Aim Style) - FOV / 距离 / 列表首个 / 血量最低<br>
+自瞄 FOV (Aim FOV)<br>
+自瞄平滑 (Aim Smoothing)<br>
+最大自瞄距离 (Max Aim Distance)<br>
+可见性检测 (Visibility Check) - 不会隔墙锁定目标<br>
+锁定目标 (Stick To Target) - 保持当前目标，消除抖动<br>
+绘制 FOV 圆圈 (Draw FOV Circle)<br>
+绘制锁定目标 (Draw Locked) - 准星连线、标记与目标名称<br>
+自动开火 (Auto Fire)<br>
+自动开火 - 开火延迟 (Auto Fire - Fire Delay)<br>
+自动开火 - 持续时长 (Auto Fire - Hold Time)<br>
+目标类型 (Targets) - 丧尸、匪徒、拾荒者、士兵、动物<br>
+视觉透视 (Visuals (ESP))<br>
+分类 (Categories)：<br>
+丧尸 (Zombies)<br>
+丧尸 Boss (Zombie Bosses) - 独立配色<br>
+匪徒 (Bandits)<br>
+拾荒者 (Scavengers)<br>
+士兵 (Soldiers)<br>
+平民 (Civilians)<br>
+商人 (Traders)<br>
+动物 (Animals)<br>
+容器 (Containers)<br>
+掉落物 (Pickups) - 地面战利品<br>
+空投 (Airdrops) - 箱体与来航飞行器<br>
+载具 (Vehicles) 每个分类的选项 (Per-category options)：<br>
+显示 (Show)<br>
+名称 (Name)<br>
+3D 方框 (3D Box)<br>
+2D 方框 (2D Box)<br>
+距离 (Distance)<br>
+血条 (Health Bar)<br>
+骨骼 (Skeleton)<br>
+头点 (Head Dot)<br>
+瞄准激光 (Aim Laser)<br>
+2D 连线 (2D Line) - 原点可选 顶部 / 居中 / 底部<br>
+最大距离 (Max Distance)<br>
+颜色 (Colour) ESP 调校 (ESP tuning)：<br>
+头点大小 (Head Dot Size)<br>
+瞄准激光长度 (Aim Laser Length)<br>
+隐藏尸体 (Hide Dead Bodies)<br>
+可见性检测 (Visible Check) - 可见与不可见目标使用不同颜色<br>
+隐藏被遮挡目标 (Hide Occluded Targets)<br>
+遮挡颜色 (Hidden Colour)<br>
+ESP 文字描边 (ESP Text Outline)<br>
+玩家 (Player)<br>
+生存 (Survival)：<br>
+上帝模式 (God Mode)<br>
+无限耐力 (Unlimited Stamina)<br>
+无限饥饿与口渴 (Unlimited Hunger and Thirst)<br>
+免疫辐射 (No Radiation)<br>
+无限氧气 (Unlimited Oxygen) 移动 (Movement)：<br>
+超级速度 (Super Speed) - 可调速度倍率<br>
+超级跳跃 (Super Jump) - 可调跳跃加成<br>
+穿墙 / 飞行 (No-Clip / Fly) - 按住激活，可自定义绑定键，可调速度 战斗 (Combat)：<br>
+丧尸一击必杀 (One-Hit Kill Zombies) - 可调击杀半径与锁定血量<br>
+将丧尸传送至玩家面前 (Teleport Zombies In Front Of Player) - 可自定义绑定键，可调距离<br>
+瞬间与容器交互 (Instant Container Interact) - 移除长按计时<br>
+无限耐久 (Infinite Durability) - 已装备物品 位置与传送 (Position and Teleport)：<br>
+打印位置 (Print Position) - 实时 X / Y / Z 坐标<br>
+保存当前位置 (Save Current Position) - 命名并存储任意地点<br>
+每个已保存地点的传送按钮 (Teleport buttons for every saved location)<br>
+删除已保存地点 (Delete saved locations) 传送至玩家 (Teleport To Player)：<br>
+把战利品传送到玩家 (TP Loot To Player) - 可自定义绑定键<br>
+把容器传送到玩家 (TP Containers To Player) - 可自定义绑定键<br>
+收集半径 (Gather Radius)<br>
+散布半径 (Spread Radius) - 物品按散布模式落地，而非堆成一堆 昼夜时间 (Time of Day)：<br>
+覆盖昼夜时间 (Override Time of Day)<br>
+小时滑块 (Hour slider)<br>
+快捷预设 (Quick presets) - 正午、日出、日落、夜晚 天气控制 (Weather Control)：<br>
+覆盖天气 (Override Weather)<br>
+雨 (Rain)<br>
+雪 (Snow)<br>
+雾 (Fog)<br>
+沙尘 (Dust)<br>
+云 (Clouds)<br>
+风 (Wind)<br>
+闪电 (Lightning) 载具 (Vehicle)：<br>
+无限载具血量 (Unlimited Vehicle Health)<br>
+无限载具燃料 (Infinite Vehicle Fuel)<br>
+物品生成器 (Item Spawner)<br>
+生成数量 (Spawn Quantity) - 1 到 25<br>
+物品在你面前按散布模式生成，避免堆叠 完整游戏内物品目录，共 568 项：<br>
+枪械 (Firearms) - 48<br>
+近战 (Melee) - 14<br>
+弹药与弹匣 (Ammo and Magazines) - 67<br>
+配件 (Attachments) - 36<br>
+食物与饮料 (Food and Drink) - 29<br>
+医疗 (Medical) - 8<br>
+工具与制作 (Utility and Crafting) - 347<br>
+载具 (Vehicles) - 19 包含所有独特武器 - 地狱犬 Cerberus、幻影 Phantasm、女武神 Valkyrie、守护者 Guardian、神枪手 Deadeye、粉碎者 Crusher、灭绝者 Exterminator、Lechie、上校的复仇 Colonel&rsquo;s Revenge、神射手传承 Marksman&rsquo;s Legacy<br>
+2D 雷达 (2D Radar)<br>
+显示雷达 (Show Radar)<br>
+显示十字 (Show Cross)<br>
+显示窗口 (Show Window)<br>
+显示玩家标记 (Show Player Marker)<br>
+显示 FOV (Show FOV) - 瞄准时锥形收窄<br>
+滚轮缩放 (Scroll to Zoom) - 鼠标滚轮置于雷达上，仅菜单打开时<br>
+固定到屏幕中心 (Pin to Screen Center)<br>
+拖动移动，拖拽角部调整大小<br>
+形状 (Shape) - 方形 / 圆形<br>
+雷达缩放 (Radar Scale) - 5 到 500 米<br>
+窗口大小 (Window Size)<br>
+十字大小 (Cross Size)<br>
+背景填充 (Background Fill)<br>
+最大距离 (Max Distance)<br>
+标记大小 (Marker Size)<br>
+标记形状 (Marker Shape) - 三角 / 圆点<br>
+超出范围 (Out of Range) - 隐藏 / 钉在边缘 / 任意绘制<br>
+堆叠距离 (Stack Distance)<br>
+堆叠数量 (Stack Count)<br>
+雷达 X / Y 位置 (Radar X / Y position) 接触目标 (Contacts) - 丧尸、丧尸 Boss、匪徒、士兵、拾荒者、商人、平民、动物 颜色 (Colours) - 雷达背景、雷达窗口、雷达十字、玩家标记、FOV 锥形<br>
+杂项 (Misc)<br>
+准星 (Crosshair)：<br>
+启用 (Enable)<br>
+20 种准星样式 (20 crosshair types) - 圆点、十字、X、圆圈、T 形、方形、菱形、实心方形、短横、四角、靶心、双圈、星号、人字、梅赛德斯、上箭头、外散箭头、军用十字、眼睛、方括号<br>
+中心圆点 (Center Dot)<br>
+使用描边 (Use Outline)<br>
+大小 (Size)<br>
+粗细 (Thickness)<br>
+描边粗细 (Outline Thickness)<br>
+颜色与描边颜色 (Colour and Outline Colour) 叠加层 (Overlay)：<br>
+水印 (Watermark)<br>
+FPS 计数器 (FPS Counter)<br>
+分辨率 (Resolution)<br>
+时钟 (Clock)<br>
+ESP 文字描边 (ESP Text Outline) 设置 (Settings)：<br>
+保存设置 (Save Settings)<br>
+加载设置 (Load Settings)<br>
+菜单首次打开时自动加载已保存配置<br>
+已保存的传送地点随设置一并持久化</p>]]></description>
+</item>
+</channel>
+</rss>

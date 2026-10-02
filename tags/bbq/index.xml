@@ -1,0 +1,97 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>BBQ - 标签 - 7772027.xyz</title>
+        <link>https://7772027.xyz/tags/bbq/</link>
+        <description>BBQ - 标签 - 7772027.xyz</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 31 Aug 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/bbq/" rel="self" type="application/rss+xml" /><item>
+    <title>PC鹅鸭杀BBQ多功能辅助v1.8.8</title>
+    <link>https://7772027.xyz/pc%E9%B9%85%E9%B8%AD%E6%9D%80bbq%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9v1.8.8/</link>
+    <pubDate>Mon, 31 Aug 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/pc%E9%B9%85%E9%B8%AD%E6%9D%80bbq%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9v1.8.8/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>PC鹅鸭杀BBQ多功能辅助v1.8.8<br>
+更新内容<br>
+增加-显示死亡信息类型</p>
+<p>INS=显示|隐藏菜单<br>
+END=卸载<br>
+功能：<br>
+玩家方框透视<br>
+玩家直线透视<br>
+玩家名字透视<br>
+穿墙模式<br>
+瞬移<br>
+自定义移动速度<br>
+自定义视距<br>
+无冷却<br>
+移除迷雾<br>
+地图雷达【单击鼠标右键瞬移】<br>
+显示玩家死亡时最接近的玩家<br>
+自动完成任务<br>
+自动准备<br>
+解锁Steam成就<br>
+使用方法：<br>
+1.首次使用管理员权限运行  &ldquo;初始化.bat&rdquo;<br>
+2.管理员权限运行 &ldquo;注入器.exe&rdquo;<br>
+3.启动游戏<br>
+注意：<br>
+需要关闭杀毒软件否则会导致驱动启动失败<br>
+如果电脑上存在AEC请先卸载<br>
+如果卡在DLL写入解决方法：关闭电脑屏幕重新打开，笔记本拔掉外设重新插<br>
+解决方法2：加入到游戏教程<br>
+常见问题：<br>
+1.初始化失败：请确保Steam是最新版本<br>
+2.请确保打开 在游戏中启用Steam叠加界面<br>
+Windows 11驱动无法安装修复：<br>
+关闭微软易受攻击驱动程序列表.zip<br>
+如果没有效果，解决办法:<br>
+您需要重新安装Windows 11 22H2_22621.754(2022年10月)，然后通过系统中的Windows update更新到最新版本。<br>
+(此方法没有修补易受攻击的驱动程序)</p>]]></description>
+</item>
+<item>
+    <title>PC端-鹅鸭杀BBQ多功能辅助1.8.7</title>
+    <link>https://7772027.xyz/pc%E7%AB%AF-%E9%B9%85%E9%B8%AD%E6%9D%80bbq%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A91.8.7/</link>
+    <pubDate>Sun, 30 Aug 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/pc%E7%AB%AF-%E9%B9%85%E9%B8%AD%E6%9D%80bbq%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A91.8.7/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>PC端-鹅鸭杀BBQ多功能辅助1.8.7<br>
+更新内容<br>
+匹配新版本</p>
+<p>INS=显示|隐藏菜单<br>
+END=卸载<br>
+功能：<br>
+玩家方框透视<br>
+玩家直线透视<br>
+玩家名字透视<br>
+穿墙模式<br>
+瞬移<br>
+自定义移动速度<br>
+自定义视距<br>
+无冷却<br>
+移除迷雾<br>
+地图雷达【单击鼠标右键瞬移】<br>
+显示玩家死亡时最接近的玩家<br>
+自动完成任务<br>
+自动准备<br>
+解锁Steam成就<br>
+使用方法：<br>
+1.首次使用管理员权限运行  &ldquo;初始化.bat&rdquo;<br>
+2.管理员权限运行 &ldquo;注入器.exe&rdquo;<br>
+3.启动游戏<br>
+注意：<br>
+需要关闭杀毒软件否则会导致驱动启动失败<br>
+如果电脑上存在AEC请先卸载<br>
+如果卡在DLL写入解决方法：关闭电脑屏幕重新打开，笔记本拔掉外设重新插<br>
+解决方法2：加入到游戏教程<br>
+常见问题：<br>
+1.初始化失败：请确保Steam是最新版本<br>
+2.请确保打开 在游戏中启用Steam叠加界面<br>
+Windows 11驱动无法安装修复：<br>
+关闭微软易受攻击驱动程序列表.zip<br>
+如果没有效果，解决办法:<br>
+您需要重新安装Windows 11 22H2_22621.754(2022年10月)，然后通过系统中的Windows update更新到最新版本。<br>
+(此方法没有修补易受攻击的驱动程序)</p>]]></description>
+</item>
+</channel>
+</rss>

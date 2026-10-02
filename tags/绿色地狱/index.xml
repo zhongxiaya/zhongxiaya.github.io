@@ -1,0 +1,221 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>绿色地狱 - 标签 - 7772027.xyz</title>
+        <link>https://7772027.xyz/tags/%E7%BB%BF%E8%89%B2%E5%9C%B0%E7%8B%B1/</link>
+        <description>绿色地狱 - 标签 - 7772027.xyz</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 12 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E7%BB%BF%E8%89%B2%E5%9C%B0%E7%8B%B1/" rel="self" type="application/rss+xml" /><item>
+    <title>绿色地狱_GreenHell Hax多功能辅助_v1.1.0</title>
+    <link>https://7772027.xyz/%E7%BB%BF%E8%89%B2%E5%9C%B0%E7%8B%B1_greenhell-hax%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9_v1.1.0/</link>
+    <pubDate>Sat, 12 Sep 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/%E7%BB%BF%E8%89%B2%E5%9C%B0%E7%8B%B1_greenhell-hax%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9_v1.1.0/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>绿色地狱/GreenHell Hax多功能辅助_v1.1.0</p>
+<p>[玩家选项]<br>
+自定义步行速度<br>
+自定义奔跑速度<br>
+自定义后退速度<br>
+自定义跳跃高度<br>
+飞行模式 - W = 前进 | S = 后退 | A = 左 | D = 右 | 空格 = 上升 | 左Ctrl = 下降<br>
+Tp到准星指向位置<br>
+隔空互动物品<br>
+无敌模式<br>
+幽灵模式<br>
+无限血量<br>
+无限耐力<br>
+无限能量<br>
+无限氧气<br>
+无限水分<br>
+无限碳水化合物<br>
+无限脂肪<br>
+无限蛋白质<br>
+无摇摆<br>
+弓箭无消耗<br>
+快速建造<br>
+无限建造高度<br>
+建造无限制<br>
+无视负重<br>
+物品无限耐久<br>
+死亡背包不掉落<br>
+一击必杀生物<br>
+一击破坏建筑<br>
+陀螺<br>
+[透视选项]<br>
+玩家方框<br>
+玩家血量<br>
+玩家名称<br>
+敌人方框<br>
+敌人血量<br>
+敌人名称<br>
+动物名称<br>
+动物3D方框<br>
+物品名称<br>
+物品3D方框<br>
+自定义物品最大透视距离<br>
+物品透视过滤<br>
+[其它选项]<br>
+显示水印<br>
+准星<br>
+防止被踢<br>
+可以踢任何人<br>
+自由视角 - PageUp = 增加速度 | PageDown = 减少速度 | P = 瞬移到视角位置<br>
+第三人称<br>
+万物不朽<br>
+随机发出声音<br>
+连跳<br>
+刷屏 - 自己看不见<br>
+创建房间最大玩家数量<br>
+自定义游戏时间<br>
+一键清除所有建筑<br>
+一键下雨<br>
+一键晴天<br>
+切换天空穹顶<br>
+杀死周围敌对生物<br>
+解锁手表<br>
+解锁地图<br>
+解锁所有物品<br>
+自杀<br>
+保存配置<br>
+加载配置<br>
+[设置]<br>
+自定义菜单按键<br>
+自定义卸载按键<br>
+自定义玩家方框颜色<br>
+自定义玩家名称颜色<br>
+自定义敌人方框颜色<br>
+自定义敌人名称颜色<br>
+自定义动物名称颜色<br>
+自定义动物3D方框颜色<br>
+自定义物品名称颜色<br>
+自定义物品3D方框颜色<br>
+[生成物品]<br>
+生成到背包 - 不选，生成到准星指向位置<br>
+生成并添加到一键生成物品<br>
+物品搜索<br>
+自定义生成数量<br>
+[生成敌人]<br>
+敌人生成<br>
+[玩家列表]<br>
+TP到玩家头上<br>
+生成牢笼-关起来<br>
+生成土房子-关起来<br>
+生成-像素人形<br>
+Insert = 显示|隐藏菜单<br>
+注入版使用方法：<br>
+1.启动游戏<br>
+2.管理员权限运行 &ldquo;注入.bat&rdquo;<br>
+替换版使用方法：<br>
+1.解压到游戏目录GH_Data\Managed<br>
+常见错误解决方法：<br>
+【错误1】<br>
+<strong>如果弹出“更新”提示</strong>：</p>]]></description>
+</item>
+<item>
+    <title>绿色地狱_GreenHell Hax多功能辅助_v1.0.9</title>
+    <link>https://7772027.xyz/%E7%BB%BF%E8%89%B2%E5%9C%B0%E7%8B%B1_greenhell-hax%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9_v1.0.9/</link>
+    <pubDate>Fri, 11 Sep 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/%E7%BB%BF%E8%89%B2%E5%9C%B0%E7%8B%B1_greenhell-hax%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9_v1.0.9/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>绿色地狱/GreenHell Hax多功能辅助_v1.0.9</p>
+<p>[玩家选项]<br>
+自定义步行速度<br>
+自定义奔跑速度<br>
+自定义后退速度<br>
+自定义跳跃高度<br>
+飞行模式 - W = 前进 | S = 后退 | A = 左 | D = 右 | 空格 = 上升 | 左Ctrl = 下降<br>
+Tp到准星指向位置<br>
+隔空互动物品<br>
+无敌模式<br>
+幽灵模式<br>
+无限血量<br>
+无限耐力<br>
+无限能量<br>
+无限氧气<br>
+无限水分<br>
+无限碳水化合物<br>
+无限脂肪<br>
+无限蛋白质<br>
+无摇摆<br>
+弓箭无消耗<br>
+快速建造<br>
+无限建造高度<br>
+建造无限制<br>
+无视负重<br>
+物品无限耐久<br>
+死亡背包不掉落<br>
+一击必杀生物<br>
+一击破坏建筑<br>
+陀螺<br>
+[透视选项]<br>
+玩家方框<br>
+玩家血量<br>
+玩家名称<br>
+敌人方框<br>
+敌人血量<br>
+敌人名称<br>
+动物名称<br>
+动物3D方框<br>
+物品名称<br>
+物品3D方框<br>
+自定义物品最大透视距离<br>
+物品透视过滤<br>
+[其它选项]<br>
+显示水印<br>
+准星<br>
+防止被踢<br>
+可以踢任何人<br>
+自由视角 - PageUp = 增加速度 | PageDown = 减少速度 | P = 瞬移到视角位置<br>
+第三人称<br>
+万物不朽<br>
+随机发出声音<br>
+连跳<br>
+刷屏 - 自己看不见<br>
+创建房间最大玩家数量<br>
+自定义游戏时间<br>
+一键清除所有建筑<br>
+一键下雨<br>
+一键晴天<br>
+切换天空穹顶<br>
+杀死周围敌对生物<br>
+解锁手表<br>
+解锁地图<br>
+解锁所有物品<br>
+自杀<br>
+保存配置<br>
+加载配置<br>
+[设置]<br>
+自定义菜单按键<br>
+自定义卸载按键<br>
+自定义玩家方框颜色<br>
+自定义玩家名称颜色<br>
+自定义敌人方框颜色<br>
+自定义敌人名称颜色<br>
+自定义动物名称颜色<br>
+自定义动物3D方框颜色<br>
+自定义物品名称颜色<br>
+自定义物品3D方框颜色<br>
+[生成物品]<br>
+生成到背包 - 不选，生成到准星指向位置<br>
+生成并添加到一键生成物品<br>
+物品搜索<br>
+自定义生成数量<br>
+[生成敌人]<br>
+敌人生成<br>
+[玩家列表]<br>
+TP到玩家头上<br>
+生成牢笼-关起来<br>
+生成土房子-关起来<br>
+生成-像素人形<br>
+Insert = 显示|隐藏菜单<br>
+注入版使用方法：<br>
+1.启动游戏<br>
+2.管理员权限运行 &ldquo;注入.bat&rdquo;<br>
+替换版使用方法：<br>
+1.解压到游戏目录GH_Data\Managed<br>
+常见错误解决方法：<br>
+【错误1】<br>
+<strong>如果弹出“更新”提示</strong>：</p>]]></description>
+</item>
+</channel>
+</rss>
