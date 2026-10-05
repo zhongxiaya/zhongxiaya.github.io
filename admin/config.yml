@@ -62,6 +62,19 @@ collections:
         widget: list
         required: false
         default: ["待整理"]
+      - label: 下载链接（填了会自动生成"下载地址"区块，正文里就不用再写了）
+        name: downloads
+        widget: list
+        required: false
+        default: []
+        fields:
+          - label: 网盘名称
+            name: name
+            widget: string
+            hint: 如：UC网盘 / 夸克网盘 / 百度网盘 / 迅雷网盘
+          - label: 链接
+            name: url
+            widget: string
       - label: 正文
         name: body
         widget: markdown
