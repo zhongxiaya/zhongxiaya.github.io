@@ -1,0 +1,67 @@
+backend:
+  name: github
+  repo: zhongxiashiliu/yingshi
+  branch: main
+  # ↓↓↓ 部署完 Cloudflare 授权代理后，把这行换成你的 Worker 地址（结尾不要加 /auth）
+  base_url: https://cms-auth-7772027.workers.dev
+  auth_endpoint: auth
+
+site_url: https://7772027.xyz
+locale: zh-Hans
+
+# 网站图片存放位置：保存图片时自动提交到仓库 static/images，页面上用 /images/ 访问
+media_folder: static/images
+public_folder: /images
+
+collections:
+  - name: posts
+    label: 文章
+    label_singular: 文章
+    folder: content/posts
+    create: true
+    slug: "{{slug}}"
+    # 支持按文件夹层级浏览（直装/内核/教程等子目录）
+    nested:
+      depth: 10
+    meta:
+      path:
+        widget: string
+        label: 存放子目录（留空=根目录，如：直装/直装/0930）
+        required: false
+        index_file: index
+    summary: "{{title}} — {{date}}"
+    sortable_fields: [date, title]
+    editor:
+      preview: false
+    fields:
+      - label: 标题
+        name: title
+        widget: string
+      - label: 日期
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+      - label: 草稿（打开则不在网站上显示）
+        name: draft
+        widget: boolean
+        default: false
+        required: false
+      - label: 描述
+        name: description
+        widget: string
+        required: false
+      - label: 标签
+        name: tags
+        widget: list
+        required: false
+        default: []
+      - label: 分类
+        name: categories
+        widget: list
+        required: false
+        default: ["待整理"]
+      - label: 正文
+        name: body
+        widget: markdown
