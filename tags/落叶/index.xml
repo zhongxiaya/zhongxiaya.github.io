@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>落叶 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E8%90%BD%E5%8F%B6/</link>
-        <description>落叶 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 16 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E8%90%BD%E5%8F%B6/" rel="self" type="application/rss+xml" /><item>
-    <title>迷你枪战精英落叶内核1.0</title>
-    <link>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98%E7%B2%BE%E8%8B%B1%E8%90%BD%E5%8F%B6%E5%86%85%E6%A0%B81.0/</link>
-    <pubDate>Wed, 16 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98%E7%B2%BE%E8%8B%B1%E8%90%BD%E5%8F%B6%E5%86%85%E6%A0%B81.0/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>落叶 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E8%90%BD%E5%8F%B6/</link><description>落叶 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E8%90%BD%E5%8F%B6/" rel="self" type="application/rss+xml"/><item><title>迷你枪战精英落叶内核1.0</title><link>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98%E7%B2%BE%E8%8B%B1%E8%90%BD%E5%8F%B6%E5%86%85%E6%A0%B81.0/</link><pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98%E7%B2%BE%E8%8B%B1%E8%90%BD%E5%8F%B6%E5%86%85%E6%A0%B81.0/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>迷你枪战精英落叶内核1.0</p>
 <p>落叶迷你枪战精英内核1.0<br>
 公益卡密：随便输入<br>
@@ -19,15 +8,7 @@
 3.内存.触摸.模块陀螺仪.无模块陀螺仪一共4种自瞄<br>
 4.硬件断点追踪<br>
 注意事项：<br>
-1.硬件断点追踪只支持TWT驱动</p>]]></description>
-</item>
-<item>
-    <title>三角洲落叶算法解密免费内核1.4</title>
-    <link>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%90%BD%E5%8F%B6%E7%AE%97%E6%B3%95%E8%A7%A3%E5%AF%86%E5%85%8D%E8%B4%B9%E5%86%85%E6%A0%B81.4/</link>
-    <pubDate>Mon, 14 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%90%BD%E5%8F%B6%E7%AE%97%E6%B3%95%E8%A7%A3%E5%AF%86%E5%85%8D%E8%B4%B9%E5%86%85%E6%A0%B81.4/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+1.硬件断点追踪只支持TWT驱动</p>]]></description></item><item><title>三角洲落叶算法解密免费内核1.4</title><link>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%90%BD%E5%8F%B6%E7%AE%97%E6%B3%95%E8%A7%A3%E5%AF%86%E5%85%8D%E8%B4%B9%E5%86%85%E6%A0%B81.4/</link><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%90%BD%E5%8F%B6%E7%AE%97%E6%B3%95%E8%A7%A3%E5%AF%86%E5%85%8D%E8%B4%B9%E5%86%85%E6%A0%B81.4/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>三角洲落叶算法解密免费内核1.4</p>
 <p>三角洲落叶算法解密免费内核1.4<br>
 1.解决部分用户使用不了问题<br>
@@ -37,15 +18,7 @@
 内核模型掩体变色自研驱动<br>
 内置云更新<br>
 超低内存占用🥰<br>
-卡密：@luoyenb521</p>]]></description>
-</item>
-<item>
-    <title>三角洲落叶公益算法解密内核1.3</title>
-    <link>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%90%BD%E5%8F%B6%E5%85%AC%E7%9B%8A%E7%AE%97%E6%B3%95%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B81.3/</link>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%90%BD%E5%8F%B6%E5%85%AC%E7%9B%8A%E7%AE%97%E6%B3%95%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B81.3/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+卡密：@luoyenb521</p>]]></description></item><item><title>三角洲落叶公益算法解密内核1.3</title><link>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%90%BD%E5%8F%B6%E5%85%AC%E7%9B%8A%E7%AE%97%E6%B3%95%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B81.3/</link><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%90%BD%E5%8F%B6%E5%85%AC%E7%9B%8A%E7%AE%97%E6%B3%95%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B81.3/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>三角洲落叶公益算法解密内核1.3</p>
 <p>三角洲落叶公益算法解密内核1.3<br>
 1.三角洲解密x2<br>
@@ -54,29 +27,13 @@
 内核模型掩体变色自研驱动<br>
 内置云更新<br>
 超低内存占用🥰<br>
-卡密：@luoyenb521</p>]]></description>
-</item>
-<item>
-    <title>三角洲落叶算法解密内核-9.12更新</title>
-    <link>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%90%BD%E5%8F%B6%E7%AE%97%E6%B3%95%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B8-9.12%E6%9B%B4%E6%96%B0/</link>
-    <pubDate>Sat, 12 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%90%BD%E5%8F%B6%E7%AE%97%E6%B3%95%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B8-9.12%E6%9B%B4%E6%96%B0/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+卡密：@luoyenb521</p>]]></description></item><item><title>三角洲落叶算法解密内核-9.12更新</title><link>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%90%BD%E5%8F%B6%E7%AE%97%E6%B3%95%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B8-9.12%E6%9B%B4%E6%96%B0/</link><pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%90%BD%E5%8F%B6%E7%AE%97%E6%B3%95%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B8-9.12%E6%9B%B4%E6%96%B0/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>三角洲落叶算法解密内核-9.12更新<br>
 无视三角洲加密坐标更新<br>
 内核陀螺仪漏打自瞄随意裸奔<br>
 内核模型掩体变色自研驱动<br>
 内置云更新<br>
-超低内存占用</p>]]></description>
-</item>
-<item>
-    <title>和平精英落叶容器直装30.0</title>
-    <link>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E8%90%BD%E5%8F%B6%E5%AE%B9%E5%99%A8%E7%9B%B4%E8%A3%8530.0/</link>
-    <pubDate>Sun, 30 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E8%90%BD%E5%8F%B6%E5%AE%B9%E5%99%A8%E7%9B%B4%E8%A3%8530.0/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+超低内存占用</p>]]></description></item><item><title>和平精英落叶容器直装30.0</title><link>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E8%90%BD%E5%8F%B6%E5%AE%B9%E5%99%A8%E7%9B%B4%E8%A3%8530.0/</link><pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E8%90%BD%E5%8F%B6%E5%AE%B9%E5%99%A8%E7%9B%B4%E8%A3%8530.0/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>和平精英落叶容器直装30.0</p>
 <p>😄落叶-8月30日更新内容<br>
 👀👀👀<br>
@@ -88,7 +45,4 @@
 ✔️公益卡密<br>
 LUOYEMOD4UWBCWK6AJZA2VSQ<br>
 ✔️公益卡密<br>
-LUOYE000GZTLEGRDJJXUJYX9</p>]]></description>
-</item>
-</channel>
-</rss>
+LUOYE000GZTLEGRDJJXUJYX9</p>]]></description></item></channel></rss>

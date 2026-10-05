@@ -1,21 +1,7 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>脏弹 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E8%84%8F%E5%BC%B9/</link>
-        <description>脏弹 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 24 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E8%84%8F%E5%BC%B9/" rel="self" type="application/rss+xml" /><item>
-    <title>DirtyBomb《脏弹》多功能辅助</title>
-    <link>https://7772027.xyz/dirtybomb%E8%84%8F%E5%BC%B9%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9/</link>
-    <pubDate>Thu, 24 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/dirtybomb%E8%84%8F%E5%BC%B9%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>脏弹 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E8%84%8F%E5%BC%B9/</link><description>脏弹 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E8%84%8F%E5%BC%B9/" rel="self" type="application/rss+xml"/><item><title>DirtyBomb《脏弹》多功能辅助</title><link>https://7772027.xyz/dirtybomb%E8%84%8F%E5%BC%B9%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9/</link><pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/dirtybomb%E8%84%8F%E5%BC%B9%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>DirtyBomb《脏弹》多功能辅助<br>
 使用方法 (无需注入器):<br>
 [<em>] 把 DLL 放进游戏 Win64 文件夹<br>
 [</em>] 给游戏设置 Steam 启动项:<br>
 WINEDLLOVERRIDES=&ldquo;version=n,b&rdquo; %command%<br>
-注意: 技能和ESP标签页不可用</p>]]></description>
-</item>
-</channel>
-</rss>
+注意: 技能和ESP标签页不可用</p>]]></description></item></channel></rss>

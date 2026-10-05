@@ -1,17 +1,3 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>轮回之兽 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E8%BD%AE%E5%9B%9E%E4%B9%8B%E5%85%BD/</link>
-        <description>轮回之兽 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 22 Aug 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E8%BD%AE%E5%9B%9E%E4%B9%8B%E5%85%BD/" rel="self" type="application/rss+xml" /><item>
-    <title>《轮回之兽》流川清凉Mod整合包v0.5</title>
-    <link>https://7772027.xyz/%E8%BD%AE%E5%9B%9E%E4%B9%8B%E5%85%BD%E6%B5%81%E5%B7%9D%E6%B8%85%E5%87%89mod%E6%95%B4%E5%90%88%E5%8C%85v0.5/</link>
-    <pubDate>Sat, 22 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E8%BD%AE%E5%9B%9E%E4%B9%8B%E5%85%BD%E6%B5%81%E5%B7%9D%E6%B8%85%E5%87%89mod%E6%95%B4%E5%90%88%E5%8C%85v0.5/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>轮回之兽 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E8%BD%AE%E5%9B%9E%E4%B9%8B%E5%85%BD/</link><description>轮回之兽 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E8%BD%AE%E5%9B%9E%E4%B9%8B%E5%85%BD/" rel="self" type="application/rss+xml"/><item><title>《轮回之兽》流川清凉Mod整合包v0.5</title><link>https://7772027.xyz/%E8%BD%AE%E5%9B%9E%E4%B9%8B%E5%85%BD%E6%B5%81%E5%B7%9D%E6%B8%85%E5%87%89mod%E6%95%B4%E5%90%88%E5%8C%85v0.5/</link><pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E8%BD%AE%E5%9B%9E%E4%B9%8B%E5%85%BD%E6%B5%81%E5%B7%9D%E6%B8%85%E5%87%89mod%E6%95%B4%E5%90%88%E5%8C%85v0.5/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>《轮回之兽》流川清凉Mod整合包v0.5<br>
-说明：之前下过整合包的全部删干净来使用最新版，修复了格挡闪退问题，以及更多新内容1：格挡窗口增加至0.6秒2：游戏内 按F6 开启作弊清单，可以自定义添加物品以及无敌 速度调整 秒杀功能3：小地图全探索内容显示（部分隐藏内容除外）4：加载存档后自动应用视野100视野在正常游戏和快速旅行中保持活跃F6 – 将视野降低5F7——将视野增加5F8 – 重置为FOV 100可调节范围为60至140在检测到过场动画时自动恢复游戏的原始视野过场动画后会自动回到视野1005：服装mod支持布料模块化，数字键890对应旗袍/束胸/内裤的开关，支持全裸</p>]]></description>
-</item>
-</channel>
-</rss>
+说明：之前下过整合包的全部删干净来使用最新版，修复了格挡闪退问题，以及更多新内容1：格挡窗口增加至0.6秒2：游戏内 按F6 开启作弊清单，可以自定义添加物品以及无敌 速度调整 秒杀功能3：小地图全探索内容显示（部分隐藏内容除外）4：加载存档后自动应用视野100视野在正常游戏和快速旅行中保持活跃F6 – 将视野降低5F7——将视野增加5F8 – 重置为FOV 100可调节范围为60至140在检测到过场动画时自动恢复游戏的原始视野过场动画后会自动回到视野1005：服装mod支持布料模块化，数字键890对应旗袍/束胸/内裤的开关，支持全裸</p>]]></description></item></channel></rss>

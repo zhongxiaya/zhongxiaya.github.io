@@ -1,28 +1,9 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>萤火突击 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB/</link>
-        <description>萤火突击 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 31 Aug 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB/" rel="self" type="application/rss+xml" /><item>
-    <title>萤火突击公益内核更新3.8</title>
-    <link>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B03.8/</link>
-    <pubDate>Mon, 31 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B03.8/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>萤火突击 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB/</link><description>萤火突击 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB/" rel="self" type="application/rss+xml"/><item><title>萤火突击公益内核更新3.8</title><link>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B03.8/</link><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B03.8/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>萤火突击公益内核更新3.8<br>
 适配国际服新版本560<br>
 可能修复国服漏绘制问题了</p>
 <h3 id="下载地址">下载地址：</h3>
-<p><a href="https://pan.baidu.com/s/1byQ0acspNZoR1netxmpX5A?pwd=8888" target="_blank" rel="noopener noreffer ">百度网盘-免费下载</a></p>]]></description>
-</item>
-<item>
-    <title>萤火突击公益BG裸奔追踪</title>
-    <link>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E5%85%AC%E7%9B%8Abg%E8%A3%B8%E5%A5%94%E8%BF%BD%E8%B8%AA/</link>
-    <pubDate>Wed, 26 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E5%85%AC%E7%9B%8Abg%E8%A3%B8%E5%A5%94%E8%BF%BD%E8%B8%AA/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p><a href="https://pan.baidu.com/s/1byQ0acspNZoR1netxmpX5A?pwd=8888" target="_blank" rel="noopener noreffer ">百度网盘-免费下载</a></p>]]></description></item><item><title>萤火突击公益BG裸奔追踪</title><link>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E5%85%AC%E7%9B%8Abg%E8%A3%B8%E5%A5%94%E8%BF%BD%E8%B8%AA/</link><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E5%85%AC%E7%9B%8Abg%E8%A3%B8%E5%A5%94%E8%BF%BD%E8%B8%AA/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>萤火突击公益BG裸奔追踪<br>
 优化部分驱动漏人<br>
 优化追踪圈圈拉小的时候追不到人的问题<br>
@@ -35,54 +16,22 @@
 新增防踢可以解决低等级账号被踢问题<br>
 公益下载链接:https://pan.quark.cn/s/5916a29a4f2c<br>
 公益卡密:<br>
-BGWDNBODAA90F06670EAB37A13231437</p>]]></description>
-</item>
-<item>
-    <title>萤火突击公益多功能内核3.7</title>
-    <link>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E5%85%AC%E7%9B%8A%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B83.7/</link>
-    <pubDate>Sat, 22 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E5%85%AC%E7%9B%8A%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B83.7/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+BGWDNBODAA90F06670EAB37A13231437</p>]]></description></item><item><title>萤火突击公益多功能内核3.7</title><link>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E5%85%AC%E7%9B%8A%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B83.7/</link><pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E5%85%AC%E7%9B%8A%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B83.7/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>萤火突击公益多功能内核3.7</p>
 <h3 id="下载地址">下载地址：</h3>
-<p><a href="https://pan.baidu.com/s/1byQ0acspNZoR1netxmpX5A?pwd=8888" target="_blank" rel="noopener noreffer ">百度网盘-免费下载</a></p>]]></description>
-</item>
-<item>
-    <title>萤火突击公益多功能内核8.19</title>
-    <link>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E5%85%AC%E7%9B%8A%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B88.19/</link>
-    <pubDate>Wed, 19 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E5%85%AC%E7%9B%8A%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B88.19/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p><a href="https://pan.baidu.com/s/1byQ0acspNZoR1netxmpX5A?pwd=8888" target="_blank" rel="noopener noreffer ">百度网盘-免费下载</a></p>]]></description></item><item><title>萤火突击公益多功能内核8.19</title><link>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E5%85%AC%E7%9B%8A%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B88.19/</link><pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E5%85%AC%E7%9B%8A%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B88.19/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>萤火突击公益多功能内核8.19<br>
 ◆更新日志:<br>
 ●新增国际服550版本<br>
 ●新增全部物资 已经dump出来的 有什么缺少的自己加<br>
 ◆卡密 随便输入<br>
-注 第一把没有物资属于正常现象</p>]]></description>
-</item>
-<item>
-    <title>萤火突击公益多功能内核8.19</title>
-    <link>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E5%85%AC%E7%9B%8A%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B88.19/</link>
-    <pubDate>Wed, 19 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E5%85%AC%E7%9B%8A%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B88.19/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+注 第一把没有物资属于正常现象</p>]]></description></item><item><title>萤火突击公益多功能内核8.19</title><link>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E5%85%AC%E7%9B%8A%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B88.19/</link><pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E5%85%AC%E7%9B%8A%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B88.19/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>萤火突击公益多功能内核8.19<br>
 ◆更新日志:<br>
 ●新增国际服550版本<br>
 ●新增全部物资 已经dump出来的 有什么缺少的自己加<br>
 ◆卡密 随便输入<br>
-注 第一把没有物资属于正常现象</p>]]></description>
-</item>
-<item>
-    <title>萤火突击KC公益内核辅助8.18</title>
-    <link>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BBkc%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.18/</link>
-    <pubDate>Tue, 18 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BBkc%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.18/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+注 第一把没有物资属于正常现象</p>]]></description></item><item><title>萤火突击KC公益内核辅助8.18</title><link>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BBkc%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.18/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BBkc%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.18/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>萤火突击KC公益内核辅助8.18<br>
 支持国服1.0.530 1.0.550 国际服1.0.50550</p>
 <p>KC萤火突击公益<br>
@@ -91,21 +40,10 @@ BGWDNBODAA90F06670EAB37A13231437</p>]]></description>
 更新不绘制人机 过滤没用队友 优化绘图 更新血量绘制<br>
 开镜无节点触摸自瞄(部分设备自瞄没效果)<br>
 自定义物资<br>
-卡密:KCVXX1O4U8A9L1NB</p>]]></description>
-</item>
-<item>
-    <title>萤火突击神人公益内核辅助8.18</title>
-    <link>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E7%A5%9E%E4%BA%BA%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.18/</link>
-    <pubDate>Tue, 18 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E7%A5%9E%E4%BA%BA%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.18/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+卡密:KCVXX1O4U8A9L1NB</p>]]></description></item><item><title>萤火突击神人公益内核辅助8.18</title><link>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E7%A5%9E%E4%BA%BA%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.18/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB%E7%A5%9E%E4%BA%BA%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.18/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>萤火突击神人公益内核辅助8.18</p>
 <p>◆更新日志:<br>
 ●新增国际服550版本<br>
 ●新增全部物资 已经dump出来的 有什么缺少的自己加<br>
 ◆卡密 随便输入<br>
-注 第一把没有物资属于正常现象</p>]]></description>
-</item>
-</channel>
-</rss>
+注 第一把没有物资属于正常现象</p>]]></description></item></channel></rss>

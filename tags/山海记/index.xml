@@ -1,20 +1,6 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>山海记 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E5%B1%B1%E6%B5%B7%E8%AE%B0/</link>
-        <description>山海记 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 18 Aug 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E5%B1%B1%E6%B5%B7%E8%AE%B0/" rel="self" type="application/rss+xml" /><item>
-    <title>0818山海记内置MOD菜单</title>
-    <link>https://7772027.xyz/0818%E5%B1%B1%E6%B5%B7%E8%AE%B0%E5%86%85%E7%BD%AEmod%E8%8F%9C%E5%8D%95/</link>
-    <pubDate>Tue, 18 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/0818%E5%B1%B1%E6%B5%B7%E8%AE%B0%E5%86%85%E7%BD%AEmod%E8%8F%9C%E5%8D%95/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>山海记 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E5%B1%B1%E6%B5%B7%E8%AE%B0/</link><description>山海记 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E5%B1%B1%E6%B5%B7%E8%AE%B0/" rel="self" type="application/rss+xml"/><item><title>0818山海记内置MOD菜单</title><link>https://7772027.xyz/0818%E5%B1%B1%E6%B5%B7%E8%AE%B0%E5%86%85%E7%BD%AEmod%E8%8F%9C%E5%8D%95/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/0818%E5%B1%B1%E6%B5%B7%E8%AE%B0%E5%86%85%E7%BD%AEmod%E8%8F%9C%E5%8D%95/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>0818山海记内置MOD菜单<br>
 功能:秒S，技能减CD<br>
 说明:修复副本进入失败的问题<br>
 主线倍攻检测，请勿开启。副本可开<br>
-自由开关，低调使用，进入会有个默认账号，删掉自己创建，或者你自己账号</p>]]></description>
-</item>
-</channel>
-</rss>
+自由开关，低调使用，进入会有个默认账号，删掉自己创建，或者你自己账号</p>]]></description></item></channel></rss>

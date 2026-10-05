@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>KC - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/kc/</link>
-        <description>KC - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 18 Aug 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/kc/" rel="self" type="application/rss+xml" /><item>
-    <title>萤火突击KC公益内核辅助8.18</title>
-    <link>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BBkc%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.18/</link>
-    <pubDate>Tue, 18 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BBkc%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.18/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>KC - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/kc/</link><description>KC - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/kc/" rel="self" type="application/rss+xml"/><item><title>萤火突击KC公益内核辅助8.18</title><link>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BBkc%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.18/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BBkc%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.18/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>萤火突击KC公益内核辅助8.18<br>
 支持国服1.0.530 1.0.550 国际服1.0.50550</p>
 <p>KC萤火突击公益<br>
@@ -18,7 +7,4 @@
 更新不绘制人机 过滤没用队友 优化绘图 更新血量绘制<br>
 开镜无节点触摸自瞄(部分设备自瞄没效果)<br>
 自定义物资<br>
-卡密:KCVXX1O4U8A9L1NB</p>]]></description>
-</item>
-</channel>
-</rss>
+卡密:KCVXX1O4U8A9L1NB</p>]]></description></item></channel></rss>

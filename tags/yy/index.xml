@@ -1,21 +1,7 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Yy - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/yy/</link>
-        <description>Yy - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 23 Aug 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/yy/" rel="self" type="application/rss+xml" /><item>
-    <title>和平精英YY追踪正式服追踪8.23</title>
-    <link>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1yy%E8%BF%BD%E8%B8%AA%E6%AD%A3%E5%BC%8F%E6%9C%8D%E8%BF%BD%E8%B8%AA8.23/</link>
-    <pubDate>Sun, 23 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1yy%E8%BF%BD%E8%B8%AA%E6%AD%A3%E5%BC%8F%E6%9C%8D%E8%BF%BD%E8%B8%AA8.23/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Yy - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/yy/</link><description>Yy - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 23 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/yy/" rel="self" type="application/rss+xml"/><item><title>和平精英YY追踪正式服追踪8.23</title><link>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1yy%E8%BF%BD%E8%B8%AA%E6%AD%A3%E5%BC%8F%E6%9C%8D%E8%BF%BD%E8%B8%AA8.23/</link><pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1yy%E8%BF%BD%E8%B8%AA%E6%AD%A3%E5%BC%8F%E6%9C%8D%E8%BF%BD%E8%B8%AA8.23/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>和平精英YY追踪正式服追踪8.23<br>
 更新日志<br>
 1.继续尝试修复某些设备注入几秒后闪退<br>
 2.修复高级人机显示异常<br>
 3.增加部分功能<br>
-4.解决绘图异常问题</p>]]></description>
-</item>
-</channel>
-</rss>
+4.解决绘图异常问题</p>]]></description></item></channel></rss>

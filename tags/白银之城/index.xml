@@ -1,17 +1,3 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>白银之城 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E7%99%BD%E9%93%B6%E4%B9%8B%E5%9F%8E/</link>
-        <description>白银之城 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 28 Aug 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E7%99%BD%E9%93%B6%E4%B9%8B%E5%9F%8E/" rel="self" type="application/rss+xml" /><item>
-    <title>《白银之城》二测本地一键端</title>
-    <link>https://7772027.xyz/%E7%99%BD%E9%93%B6%E4%B9%8B%E5%9F%8E%E4%BA%8C%E6%B5%8B%E6%9C%AC%E5%9C%B0%E4%B8%80%E9%94%AE%E7%AB%AF/</link>
-    <pubDate>Fri, 28 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E7%99%BD%E9%93%B6%E4%B9%8B%E5%9F%8E%E4%BA%8C%E6%B5%8B%E6%9C%AC%E5%9C%B0%E4%B8%80%E9%94%AE%E7%AB%AF/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>白银之城 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E7%99%BD%E9%93%B6%E4%B9%8B%E5%9F%8E/</link><description>白银之城 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E7%99%BD%E9%93%B6%E4%B9%8B%E5%9F%8E/" rel="self" type="application/rss+xml"/><item><title>《白银之城》二测本地一键端</title><link>https://7772027.xyz/%E7%99%BD%E9%93%B6%E4%B9%8B%E5%9F%8E%E4%BA%8C%E6%B5%8B%E6%9C%AC%E5%9C%B0%E4%B8%80%E9%94%AE%E7%AB%AF/</link><pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E7%99%BD%E9%93%B6%E4%B9%8B%E5%9F%8E%E4%BA%8C%E6%B5%8B%E6%9C%AC%E5%9C%B0%E4%B8%80%E9%94%AE%E7%AB%AF/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>《白银之城》二测本地一键端<br>
-说明:   基于老毛子开源项目 一键启动</p>]]></description>
-</item>
-</channel>
-</rss>
+说明:   基于老毛子开源项目 一键启动</p>]]></description></item></channel></rss>

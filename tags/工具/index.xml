@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>工具 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E5%B7%A5%E5%85%B7/</link>
-        <description>工具 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 21 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E5%B7%A5%E5%85%B7/" rel="self" type="application/rss+xml" /><item>
-    <title>LOL-Rank Analysis英雄联盟战绩查询工具2.0.1</title>
-    <link>https://7772027.xyz/lol-rank-analysis%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%88%98%E7%BB%A9%E6%9F%A5%E8%AF%A2%E5%B7%A5%E5%85%B72.0.1/</link>
-    <pubDate>Mon, 21 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/lol-rank-analysis%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%88%98%E7%BB%A9%E6%9F%A5%E8%AF%A2%E5%B7%A5%E5%85%B72.0.1/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>工具 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E5%B7%A5%E5%85%B7/</link><description>工具 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E5%B7%A5%E5%85%B7/" rel="self" type="application/rss+xml"/><item><title>LOL-Rank Analysis英雄联盟战绩查询工具2.0.1</title><link>https://7772027.xyz/lol-rank-analysis%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%88%98%E7%BB%A9%E6%9F%A5%E8%AF%A2%E5%B7%A5%E5%85%B72.0.1/</link><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/lol-rank-analysis%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%88%98%E7%BB%A9%E6%9F%A5%E8%AF%A2%E5%B7%A5%E5%85%B72.0.1/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>LOL-Rank Analysis英雄联盟战绩查询工具2.0.1<br>
 功能特点<br>
 战绩查询<br>
@@ -25,15 +14,7 @@ MVP 显示：快速识别大腿玩家。<br>
 自动接受：匹配成功后自动接受。<br>
 自动 BP：自动选择和禁用预设英雄。<br>
 使用教程<br>
-直接安装exe即可，运行工具后打开游戏客户端</p>]]></description>
-</item>
-<item>
-    <title>PC端AI公益自瞄辅助9.21</title>
-    <link>https://7772027.xyz/pc%E7%AB%AFai%E5%85%AC%E7%9B%8A%E8%87%AA%E7%9E%84%E8%BE%85%E5%8A%A99.21/</link>
-    <pubDate>Mon, 21 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/pc%E7%AB%AFai%E5%85%AC%E7%9B%8A%E8%87%AA%E7%9E%84%E8%BE%85%E5%8A%A99.21/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+直接安装exe即可，运行工具后打开游戏客户端</p>]]></description></item><item><title>PC端AI公益自瞄辅助9.21</title><link>https://7772027.xyz/pc%E7%AB%AFai%E5%85%AC%E7%9B%8A%E8%87%AA%E7%9E%84%E8%BE%85%E5%8A%A99.21/</link><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/pc%E7%AB%AFai%E5%85%AC%E7%9B%8A%E8%87%AA%E7%9E%84%E8%BE%85%E5%8A%A99.21/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>PC端AI公益自瞄辅助9.21<br>
 VEYRA AI V3.0 通过导入模型来实现自瞄效果<br>
 目前只支持云机<br>
@@ -43,15 +24,7 @@ PC端AI公益自瞄辅助<br>
 VEYRA AI V3.0 通过导入模型来实现自瞄效果<br>
 目前只支持云机<br>
 支持市面上大部分模型主打兼容性强<br>
-公益卡密VEYRA3.0</p>]]></description>
-</item>
-<item>
-    <title>LOL-Rank Analysis英雄联盟战绩查询工具v1.9.3</title>
-    <link>https://7772027.xyz/lol-rank-analysis%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%88%98%E7%BB%A9%E6%9F%A5%E8%AF%A2%E5%B7%A5%E5%85%B7v1.9.3/</link>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/lol-rank-analysis%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%88%98%E7%BB%A9%E6%9F%A5%E8%AF%A2%E5%B7%A5%E5%85%B7v1.9.3/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+公益卡密VEYRA3.0</p>]]></description></item><item><title>LOL-Rank Analysis英雄联盟战绩查询工具v1.9.3</title><link>https://7772027.xyz/lol-rank-analysis%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%88%98%E7%BB%A9%E6%9F%A5%E8%AF%A2%E5%B7%A5%E5%85%B7v1.9.3/</link><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/lol-rank-analysis%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%88%98%E7%BB%A9%E6%9F%A5%E8%AF%A2%E5%B7%A5%E5%85%B7v1.9.3/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>LOL-Rank Analysis英雄联盟战绩查询工具v1.9.3<br>
 🌈软件介绍<br>
 Rank Analysis 是一个基于 Riot 提供的 LCU API 开发的英雄联盟排位数据分析工具。致力于帮助玩家轻松查询战绩并进行深度对局分析。本项目使用 Tauri 2.0 构建，结合 Rust 的高性能与 Web 前端的灵活性，打造最精简、性能最好的战绩查询体验。<br>
@@ -69,15 +42,7 @@ MVP 显示：快速识别大腿玩家。<br>
 自动接受：匹配成功后自动接受。<br>
 自动 BP：自动选择和禁用预设英雄。<br>
 ❤️使用教程<br>
-直接安装exe即可，运行工具后打开游戏客户端</p>]]></description>
-</item>
-<item>
-    <title>英雄联盟LOL-Rank Analysis战绩查询工具v1.9.2</title>
-    <link>https://7772027.xyz/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9Flol-rank-analysis%E6%88%98%E7%BB%A9%E6%9F%A5%E8%AF%A2%E5%B7%A5%E5%85%B7v1.9.2/</link>
-    <pubDate>Tue, 08 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9Flol-rank-analysis%E6%88%98%E7%BB%A9%E6%9F%A5%E8%AF%A2%E5%B7%A5%E5%85%B7v1.9.2/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+直接安装exe即可，运行工具后打开游戏客户端</p>]]></description></item><item><title>英雄联盟LOL-Rank Analysis战绩查询工具v1.9.2</title><link>https://7772027.xyz/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9Flol-rank-analysis%E6%88%98%E7%BB%A9%E6%9F%A5%E8%AF%A2%E5%B7%A5%E5%85%B7v1.9.2/</link><pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9Flol-rank-analysis%E6%88%98%E7%BB%A9%E6%9F%A5%E8%AF%A2%E5%B7%A5%E5%85%B7v1.9.2/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>英雄联盟LOL-Rank Analysis战绩查询工具v1.9.2<br>
 软件介绍<br>
 Rank Analysis 是一个基于 Riot 提供的 LCU API 开发的英雄联盟排位数据分析工具。致力于帮助玩家轻松查询战绩并进行深度对局分析。本项目使用 Tauri 2.0 构建，结合 Rust 的高性能与 Web 前端的灵活性，打造最精简、性能最好的战绩查询体验。<br>
@@ -95,26 +60,10 @@ MVP 显示：快速识别大腿玩家。<br>
 自动接受：匹配成功后自动接受。<br>
 自动 BP：自动选择和禁用预设英雄。<br>
 ❤️使用教程<br>
-直接安装exe即可，运行工具后打开游戏客户端</p>]]></description>
-</item>
-<item>
-    <title>PC端游TT视觉AI自瞄辅助工具</title>
-    <link>https://7772027.xyz/pc%E7%AB%AF%E6%B8%B8tt%E8%A7%86%E8%A7%89ai%E8%87%AA%E7%9E%84%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/</link>
-    <pubDate>Tue, 01 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/pc%E7%AB%AF%E6%B8%B8tt%E8%A7%86%E8%A7%89ai%E8%87%AA%E7%9E%84%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+直接安装exe即可，运行工具后打开游戏客户端</p>]]></description></item><item><title>PC端游TT视觉AI自瞄辅助工具</title><link>https://7772027.xyz/pc%E7%AB%AF%E6%B8%B8tt%E8%A7%86%E8%A7%89ai%E8%87%AA%E7%9E%84%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/</link><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/pc%E7%AB%AF%E6%B8%B8tt%E8%A7%86%E8%A7%89ai%E8%87%AA%E7%9E%84%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>PC端游TT视觉AI自瞄辅助工具<br>
 软件支持YOLOv8 v11版本的ONNX格式模型，支持 CPU/GPU 推理、目标检测、目标追踪以及多种鼠标控制方式。<br>
-模型放在软件目录下，软件打开时即可自动读取。（或自行刷新读取）</p>]]></description>
-</item>
-<item>
-    <title>一键临时root整合安卓工具</title>
-    <link>https://7772027.xyz/%E4%B8%80%E9%94%AE%E4%B8%B4%E6%97%B6root%E6%95%B4%E5%90%88%E5%AE%89%E5%8D%93%E5%B7%A5%E5%85%B7/</link>
-    <pubDate>Mon, 31 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E4%B8%80%E9%94%AE%E4%B8%B4%E6%97%B6root%E6%95%B4%E5%90%88%E5%AE%89%E5%8D%93%E5%B7%A5%E5%85%B7/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+模型放在软件目录下，软件打开时即可自动读取。（或自行刷新读取）</p>]]></description></item><item><title>一键临时root整合安卓工具</title><link>https://7772027.xyz/%E4%B8%80%E9%94%AE%E4%B8%B4%E6%97%B6root%E6%95%B4%E5%90%88%E5%AE%89%E5%8D%93%E5%B7%A5%E5%85%B7/</link><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E4%B8%80%E9%94%AE%E4%B8%B4%E6%97%B6root%E6%95%B4%E5%90%88%E5%AE%89%E5%8D%93%E5%B7%A5%E5%85%B7/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>一键临时root整合安卓工具<br>
 全网最全的临时root<br>
 文件来自某安各位大佬<br>
@@ -123,56 +72,21 @@ MVP 显示：快速识别大腿玩家。<br>
 全网最全的临时root<br>
 文件来自某安各位大佬<br>
 基本覆盖了大部分主流机型<br>
-备用地址:https://drive.uc.cn/s/55d9c47bd74b4?public=1</p>]]></description>
-</item>
-<item>
-    <title>Apex-YOLO模型ai自瞄工具</title>
-    <link>https://7772027.xyz/apex-yolo%E6%A8%A1%E5%9E%8Bai%E8%87%AA%E7%9E%84%E5%B7%A5%E5%85%B7/</link>
-    <pubDate>Sun, 30 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/apex-yolo%E6%A8%A1%E5%9E%8Bai%E8%87%AA%E7%9E%84%E5%B7%A5%E5%85%B7/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
-<p>Apex-YOLO模型ai自瞄工具</p>]]></description>
-</item>
-<item>
-    <title>临时root [工具]</title>
-    <link>https://7772027.xyz/%E4%B8%B4%E6%97%B6root-%E5%B7%A5%E5%85%B7/</link>
-    <pubDate>Sat, 29 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E4%B8%B4%E6%97%B6root-%E5%B7%A5%E5%85%B7/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+备用地址:https://drive.uc.cn/s/55d9c47bd74b4?public=1</p>]]></description></item><item><title>Apex-YOLO模型ai自瞄工具</title><link>https://7772027.xyz/apex-yolo%E6%A8%A1%E5%9E%8Bai%E8%87%AA%E7%9E%84%E5%B7%A5%E5%85%B7/</link><pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/apex-yolo%E6%A8%A1%E5%9E%8Bai%E8%87%AA%E7%9E%84%E5%B7%A5%E5%85%B7/</guid><description>&lt;h3 id="更新日志">更新日志&lt;/h3>
+&lt;p>Apex-YOLO模型ai自瞄工具&lt;/p></description></item><item><title>临时root [工具]</title><link>https://7772027.xyz/%E4%B8%B4%E6%97%B6root-%E5%B7%A5%E5%85%B7/</link><pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E4%B8%B4%E6%97%B6root-%E5%B7%A5%E5%85%B7/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>临时root [工具]<br>
 ✅临时root只限其他设备比如-一加、iqoo<br>
 ✅工具是月虹提权工具1.3<br>
 ✅里面有提取包，可以试试<br>
-点我下载</p>]]></description>
-</item>
-<item>
-    <title>一键临时root工具8.27更新</title>
-    <link>https://7772027.xyz/%E4%B8%80%E9%94%AE%E4%B8%B4%E6%97%B6root%E5%B7%A5%E5%85%B78.27%E6%9B%B4%E6%96%B0/</link>
-    <pubDate>Thu, 27 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E4%B8%80%E9%94%AE%E4%B8%B4%E6%97%B6root%E5%B7%A5%E5%85%B78.27%E6%9B%B4%E6%96%B0/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+点我下载</p>]]></description></item><item><title>一键临时root工具8.27更新</title><link>https://7772027.xyz/%E4%B8%80%E9%94%AE%E4%B8%B4%E6%97%B6root%E5%B7%A5%E5%85%B78.27%E6%9B%B4%E6%96%B0/</link><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E4%B8%80%E9%94%AE%E4%B8%B4%E6%97%B6root%E5%B7%A5%E5%85%B78.27%E6%9B%B4%E6%96%B0/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>一键临时root工具8.27更新<br>
 来自某安大佬<br>
 本人IQOO 亲测可用</p>
 <p>一键临时root工具8.27更新<br>
 来自某安大佬<br>
 本人IQOO 亲测可用<br>
-备用地址:https://drive.uc.cn/s/37bc5857b3224?public=1</p>]]></description>
-</item>
-<item>
-    <title>阿飞环境工具商箱【开源】</title>
-    <link>https://7772027.xyz/%E9%98%BF%E9%A3%9E%E7%8E%AF%E5%A2%83%E5%B7%A5%E5%85%B7%E5%95%86%E7%AE%B1%E5%BC%80%E6%BA%90/</link>
-    <pubDate>Wed, 26 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E9%98%BF%E9%A3%9E%E7%8E%AF%E5%A2%83%E5%B7%A5%E5%85%B7%E5%95%86%E7%AE%B1%E5%BC%80%E6%BA%90/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+备用地址:https://drive.uc.cn/s/37bc5857b3224?public=1</p>]]></description></item><item><title>阿飞环境工具商箱【开源】</title><link>https://7772027.xyz/%E9%98%BF%E9%A3%9E%E7%8E%AF%E5%A2%83%E5%B7%A5%E5%85%B7%E5%95%86%E7%AE%B1%E5%BC%80%E6%BA%90/</link><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E9%98%BF%E9%A3%9E%E7%8E%AF%E5%A2%83%E5%B7%A5%E5%85%B7%E5%95%86%E7%AE%B1%E5%BC%80%E6%BA%90/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>阿飞环境工具商箱【开源】<br>
 放任意目录执行</p>
 <p>阿飞环境工具商箱【开源】<br>
-放任意目录执行</p>]]></description>
-</item>
-</channel>
-</rss>
+放任意目录执行</p>]]></description></item></channel></rss>

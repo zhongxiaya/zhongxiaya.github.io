@@ -1,18 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>重返未来 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E9%87%8D%E8%BF%94%E6%9C%AA%E6%9D%A5/</link>
-        <description>重返未来 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 27 Aug 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E9%87%8D%E8%BF%94%E6%9C%AA%E6%9D%A5/" rel="self" type="application/rss+xml" /><item>
-    <title>《重返未来：1999》v3.6.5本地单机GM版</title>
-    <link>https://7772027.xyz/%E9%87%8D%E8%BF%94%E6%9C%AA%E6%9D%A51999v3.6.5%E6%9C%AC%E5%9C%B0%E5%8D%95%E6%9C%BAgm%E7%89%88/</link>
-    <pubDate>Thu, 27 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E9%87%8D%E8%BF%94%E6%9C%AA%E6%9D%A51999v3.6.5%E6%9C%AC%E5%9C%B0%E5%8D%95%E6%9C%BAgm%E7%89%88/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>重返未来 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E9%87%8D%E8%BF%94%E6%9C%AA%E6%9D%A5/</link><description>重返未来 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E9%87%8D%E8%BF%94%E6%9C%AA%E6%9D%A5/" rel="self" type="application/rss+xml"/><item><title>《重返未来：1999》v3.6.5本地单机GM版</title><link>https://7772027.xyz/%E9%87%8D%E8%BF%94%E6%9C%AA%E6%9D%A51999v3.6.5%E6%9C%AC%E5%9C%B0%E5%8D%95%E6%9C%BAgm%E7%89%88/</link><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E9%87%8D%E8%BF%94%E6%9C%AA%E6%9D%A51999v3.6.5%E6%9C%AC%E5%9C%B0%E5%8D%95%E6%9C%BAgm%E7%89%88/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>《重返未来：1999》v3.6.5本地单机GM版<br>
 说明：本次更新存档+新的服务端修复登录失败问题<br>
-支持离线体验主要游戏内容，已实现主线剧情、角色与心相配置、自动战斗、队伍管理、物品装备、商店、共鸣、背景音乐、部分招募及GM功能。解压后即可启动客户端，GM指令可通过游戏内好友聊天框使用，适合本地测试与体验。</p>]]></description>
-</item>
-</channel>
-</rss>
+支持离线体验主要游戏内容，已实现主线剧情、角色与心相配置、自动战斗、队伍管理、物品装备、商店、共鸣、背景音乐、部分招募及GM功能。解压后即可启动客户端，GM指令可通过游戏内好友聊天框使用，适合本地测试与体验。</p>]]></description></item></channel></rss>

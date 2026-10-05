@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>神人 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E7%A5%9E%E4%BA%BA/</link>
-        <description>神人 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 14 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E7%A5%9E%E4%BA%BA/" rel="self" type="application/rss+xml" /><item>
-    <title>使命召唤神人三服内核更新9.14</title>
-    <link>https://7772027.xyz/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4%E7%A5%9E%E4%BA%BA%E4%B8%89%E6%9C%8D%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B09.14/</link>
-    <pubDate>Mon, 14 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4%E7%A5%9E%E4%BA%BA%E4%B8%89%E6%9C%8D%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B09.14/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>神人 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E7%A5%9E%E4%BA%BA/</link><description>神人 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 14 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E7%A5%9E%E4%BA%BA/" rel="self" type="application/rss+xml"/><item><title>使命召唤神人三服内核更新9.14</title><link>https://7772027.xyz/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4%E7%A5%9E%E4%BA%BA%E4%B8%89%E6%9C%8D%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B09.14/</link><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4%E7%A5%9E%E4%BA%BA%E4%B8%89%E6%9C%8D%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B09.14/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>使命召唤神人三服内核更新9.14<br>
 下载点我</p>
 <p>更新日志:<br>
@@ -17,30 +6,14 @@
 均有模型漏打等等 暂时未解密<br>
 游戏网盘https://drive.uc.cn/s/631910b4c9624?public=1<br>
 RUST修复领地柜遁地<br>
-其他游戏Bug反馈</p>]]></description>
-</item>
-<item>
-    <title>三角洲神人解密内核更新9.13</title>
-    <link>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E7%A5%9E%E4%BA%BA%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B09.13/</link>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E7%A5%9E%E4%BA%BA%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B09.13/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+其他游戏Bug反馈</p>]]></description></item><item><title>三角洲神人解密内核更新9.13</title><link>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E7%A5%9E%E4%BA%BA%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B09.13/</link><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E7%A5%9E%E4%BA%BA%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B09.13/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>三角洲神人解密内核更新9.13</p>
 <p>更新日志:<br>
 八宝粥更新解密 修复了过于不稳定的bug 删除断点<br>
 开启sh自动选择游戏进程 需要开启sh之后10s内打开要玩的服务器<br>
 RUST修复许多Bug<br>
 自行下载体验即可<br>
-游戏网盘 <a href="https://drive.uc.cn/s/631910b4c9624?public=1" target="_blank" rel="noopener noreffer ">https://drive.uc.cn/s/631910b4c9624?public=1</a></p>]]></description>
-</item>
-<item>
-    <title>失控进化RUST神人内核更新9.13</title>
-    <link>https://7772027.xyz/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96rust%E7%A5%9E%E4%BA%BA%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B09.13/</link>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96rust%E7%A5%9E%E4%BA%BA%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B09.13/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+游戏网盘 <a href="https://drive.uc.cn/s/631910b4c9624?public=1" target="_blank" rel="noopener noreffer ">https://drive.uc.cn/s/631910b4c9624?public=1</a></p>]]></description></item><item><title>失控进化RUST神人内核更新9.13</title><link>https://7772027.xyz/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96rust%E7%A5%9E%E4%BA%BA%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B09.13/</link><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96rust%E7%A5%9E%E4%BA%BA%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B09.13/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>失控进化RUST神人内核更新9.13<br>
 更新修复许多Bug</p>
 <p>更新日志:<br>
@@ -48,15 +21,7 @@ RUST修复许多Bug<br>
 开启sh自动选择游戏进程 需要开启sh之后10s内打开要玩的服务器<br>
 RUST修复许多Bug<br>
 自行下载体验即可<br>
-游戏网盘 <a href="https://drive.uc.cn/s/631910b4c9624?public=1" target="_blank" rel="noopener noreffer ">https://drive.uc.cn/s/631910b4c9624?public=1</a></p>]]></description>
-</item>
-<item>
-    <title>三角洲神人公益内核更新9.12</title>
-    <link>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E7%A5%9E%E4%BA%BA%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B09.12/</link>
-    <pubDate>Sat, 12 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E7%A5%9E%E4%BA%BA%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B09.12/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+游戏网盘 <a href="https://drive.uc.cn/s/631910b4c9624?public=1" target="_blank" rel="noopener noreffer ">https://drive.uc.cn/s/631910b4c9624?public=1</a></p>]]></description></item><item><title>三角洲神人公益内核更新9.12</title><link>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E7%A5%9E%E4%BA%BA%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B09.12/</link><pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E7%A5%9E%E4%BA%BA%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B09.12/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>三角洲神人公益内核更新9.12</p>
 <p>🥹三角洲行动神人公益内核9.12优化版<br>
 📣更新日志:<br>
@@ -67,15 +32,7 @@ RUST修复许多Bug<br>
 开启sh自动选择游戏进程 需要开启sh之后10s内打开要玩的服务器<br>
 📥下载链接:<br>
 <a href="https://www.123865.com/s/cYFvvd-W1Xwh" target="_blank" rel="noopener noreffer ">https://www.123865.com/s/cYFvvd-W1Xwh</a><br>
-💌标签:</p>]]></description>
-</item>
-<item>
-    <title>失控进化RUST神人内核更新9.12</title>
-    <link>https://7772027.xyz/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96rust%E7%A5%9E%E4%BA%BA%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B09.12/</link>
-    <pubDate>Sat, 12 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96rust%E7%A5%9E%E4%BA%BA%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B09.12/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+💌标签:</p>]]></description></item><item><title>失控进化RUST神人内核更新9.12</title><link>https://7772027.xyz/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96rust%E7%A5%9E%E4%BA%BA%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B09.12/</link><pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96rust%E7%A5%9E%E4%BA%BA%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B09.12/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>失控进化RUST神人内核更新9.12</p>
 <p>🥹三角洲行动神人公益内核9.12优化版<br>
 📣更新日志:<br>
@@ -86,80 +43,37 @@ RUST修复许多Bug<br>
 开启sh自动选择游戏进程 需要开启sh之后10s内打开要玩的服务器<br>
 📥下载链接:<br>
 <a href="https://www.123865.com/s/cYFvvd-W1Xwh" target="_blank" rel="noopener noreffer ">https://www.123865.com/s/cYFvvd-W1Xwh</a><br>
-💌标签:</p>]]></description>
-</item>
-<item>
-    <title>使命召唤神人内核更新辅助8.27</title>
-    <link>https://7772027.xyz/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4%E7%A5%9E%E4%BA%BA%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B0%E8%BE%85%E5%8A%A98.27/</link>
-    <pubDate>Thu, 27 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4%E7%A5%9E%E4%BA%BA%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B0%E8%BE%85%E5%8A%A98.27/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+💌标签:</p>]]></description></item><item><title>使命召唤神人内核更新辅助8.27</title><link>https://7772027.xyz/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4%E7%A5%9E%E4%BA%BA%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B0%E8%BE%85%E5%8A%A98.27/</link><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4%E7%A5%9E%E4%BA%BA%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B0%E8%BE%85%E5%8A%A98.27/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>使命召唤神人内核更新辅助8.27<br>
 下载点我</p>
 <p>◆更新日志:<br>
 ●默认开启解密 新增掩体漏打<br>
 ◆卡密 随便输入</p>
 <h3 id="下载地址">下载地址：</h3>
-<p><a href="https://pan.baidu.com/s/1byQ0acspNZoR1netxmpX5A?pwd=8888" target="_blank" rel="noopener noreffer ">百度网盘-免费下载</a></p>]]></description>
-</item>
-<item>
-    <title>失控进化RUST神人内核更新8.26</title>
-    <link>https://7772027.xyz/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96rust%E7%A5%9E%E4%BA%BA%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B08.26/</link>
-    <pubDate>Wed, 26 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96rust%E7%A5%9E%E4%BA%BA%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B08.26/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p><a href="https://pan.baidu.com/s/1byQ0acspNZoR1netxmpX5A?pwd=8888" target="_blank" rel="noopener noreffer ">百度网盘-免费下载</a></p>]]></description></item><item><title>失控进化RUST神人内核更新8.26</title><link>https://7772027.xyz/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96rust%E7%A5%9E%E4%BA%BA%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B08.26/</link><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96rust%E7%A5%9E%E4%BA%BA%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B08.26/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>失控进化RUST神人内核更新8.26</p>
 <p>◆更新日志:<br>
 ●适配国际服 国际服没检测<br>
 ●建议使用syscall去读 默认英文忘记改了 选择chinese即可<br>
-◆卡密随便输入</p>]]></description>
-</item>
-<item>
-    <title>使命召唤神人公益内核辅助8.25</title>
-    <link>https://7772027.xyz/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4%E7%A5%9E%E4%BA%BA%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.25/</link>
-    <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4%E7%A5%9E%E4%BA%BA%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.25/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+◆卡密随便输入</p>]]></description></item><item><title>使命召唤神人公益内核辅助8.25</title><link>https://7772027.xyz/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4%E7%A5%9E%E4%BA%BA%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.25/</link><pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4%E7%A5%9E%E4%BA%BA%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.25/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>使命召唤神人公益内核辅助8.25<br>
 下载点我</p>
 <p>◆更新日志:<br>
 ●更新版本号<br>
 ◆卡密 随便输入</p>
 <h3 id="下载地址">下载地址：</h3>
-<p><a href="https://pan.baidu.com/s/1byQ0acspNZoR1netxmpX5A?pwd=8888" target="_blank" rel="noopener noreffer ">百度网盘-免费下载</a></p>]]></description>
-</item>
-<item>
-    <title>三角洲神人公益内核8.24更新</title>
-    <link>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E7%A5%9E%E4%BA%BA%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B88.24%E6%9B%B4%E6%96%B0/</link>
-    <pubDate>Mon, 24 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E7%A5%9E%E4%BA%BA%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B88.24%E6%9B%B4%E6%96%B0/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p><a href="https://pan.baidu.com/s/1byQ0acspNZoR1netxmpX5A?pwd=8888" target="_blank" rel="noopener noreffer ">百度网盘-免费下载</a></p>]]></description></item><item><title>三角洲神人公益内核8.24更新</title><link>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E7%A5%9E%E4%BA%BA%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B88.24%E6%9B%B4%E6%96%B0/</link><pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E7%A5%9E%E4%BA%BA%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B88.24%E6%9B%B4%E6%96%B0/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>三角洲神人公益内核8.24更新</p>
 <p>◆更新日志:<br>
 ●修复自瞄无效果 修复骨骼朝向<br>
 ●适配台湾服解密<br>
 ◆卡密随便输入</p>
 <h3 id="下载地址">下载地址：</h3>
-<p><a href="https://pan.baidu.com/s/1byQ0acspNZoR1netxmpX5A?pwd=8888" target="_blank" rel="noopener noreffer ">百度网盘-免费下载</a></p>]]></description>
-</item>
-<item>
-    <title>失控进化RUST神人内核更新8.20</title>
-    <link>https://7772027.xyz/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96rust%E7%A5%9E%E4%BA%BA%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B08.20/</link>
-    <pubDate>Thu, 20 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96rust%E7%A5%9E%E4%BA%BA%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B08.20/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p><a href="https://pan.baidu.com/s/1byQ0acspNZoR1netxmpX5A?pwd=8888" target="_blank" rel="noopener noreffer ">百度网盘-免费下载</a></p>]]></description></item><item><title>失控进化RUST神人内核更新8.20</title><link>https://7772027.xyz/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96rust%E7%A5%9E%E4%BA%BA%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B08.20/</link><pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96rust%E7%A5%9E%E4%BA%BA%E5%86%85%E6%A0%B8%E6%9B%B4%E6%96%B08.20/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>失控进化RUST神人内核更新8.20</p>
 <p>◆更新日志:<br>
 ●修复部分开镜自瞄无效果<br>
 ●新增解密2 还原坐标算法<br>
 ●建议使用syscall去读<br>
 ◆卡密随便输入<br>
-有需要改进的评论 其他游戏有什么问题反馈也可以评论🙏</p>]]></description>
-</item>
-</channel>
-</rss>
+有需要改进的评论 其他游戏有什么问题反馈也可以评论🙏</p>]]></description></item></channel></rss>

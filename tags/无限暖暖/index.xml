@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>无限暖暖 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96/</link>
-        <description>无限暖暖 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 08 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96/" rel="self" type="application/rss+xml" /><item>
-    <title>无限暖暖Luna多功能辅助0.1.4</title>
-    <link>https://7772027.xyz/%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96luna%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A90.1.4/</link>
-    <pubDate>Tue, 08 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96luna%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A90.1.4/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>无限暖暖 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96/</link><description>无限暖暖 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 08 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96/" rel="self" type="application/rss+xml"/><item><title>无限暖暖Luna多功能辅助0.1.4</title><link>https://7772027.xyz/%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96luna%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A90.1.4/</link><pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96luna%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A90.1.4/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>无限暖暖Luna多功能辅助0.1.4<br>
 🌈使用教程:<br>
 以管理员方式运行Luna.exe，单击Locate Game<br>
@@ -40,15 +29,7 @@ ESP选项(ESP Options)<br>
 ❤️问题解决<br>
 1.打开菜单出现无响应问题，说明你电脑有帧率软件冲突了，例如微星小飞机，小黄鸭之类的软件。<br>
 2.遇到时间/数据问题：win+i，搜索时间，自动设置时间打开，还有立即同步点一下<br>
-3.登入失败问题：尝试开关加速器，实在不行下载爱加速挂广东线路即可</p>]]></description>
-</item>
-<item>
-    <title>无限暖暖Luna多功能辅助0.1.3</title>
-    <link>https://7772027.xyz/%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96luna%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A90.1.3/</link>
-    <pubDate>Sat, 05 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96luna%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A90.1.3/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+3.登入失败问题：尝试开关加速器，实在不行下载爱加速挂广东线路即可</p>]]></description></item><item><title>无限暖暖Luna多功能辅助0.1.3</title><link>https://7772027.xyz/%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96luna%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A90.1.3/</link><pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96luna%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A90.1.3/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>无限暖暖Luna多功能辅助0.1.3<br>
 使用教程:<br>
 以管理员方式运行Luna.exe，单击Locate Game<br>
@@ -79,7 +60,4 @@ ESP选项(ESP Options)<br>
 ❤️问题解决<br>
 1.打开菜单出现无响应问题，说明你电脑有帧率软件冲突了，例如微星小飞机，小黄鸭之类的软件。<br>
 2.遇到时间/数据问题：win+i，搜索时间，自动设置时间打开，还有立即同步点一下<br>
-3.登入失败问题：尝试开关加速器，实在不行下载爱加速挂广东线路即可</p>]]></description>
-</item>
-</channel>
-</rss>
+3.登入失败问题：尝试开关加速器，实在不行下载爱加速挂广东线路即可</p>]]></description></item></channel></rss>

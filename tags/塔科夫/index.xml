@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>塔科夫 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E5%A1%94%E7%A7%91%E5%A4%AB/</link>
-        <description>塔科夫 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 16 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E5%A1%94%E7%A7%91%E5%A4%AB/" rel="self" type="application/rss+xml" /><item>
-    <title>塔科夫PVE-TarkovAddons辅助v1.1.5.0.47426</title>
-    <link>https://7772027.xyz/%E5%A1%94%E7%A7%91%E5%A4%ABpve-tarkovaddons%E8%BE%85%E5%8A%A9v1.1.5.0.47426/</link>
-    <pubDate>Wed, 16 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E5%A1%94%E7%A7%91%E5%A4%ABpve-tarkovaddons%E8%BE%85%E5%8A%A9v1.1.5.0.47426/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>塔科夫 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E5%A1%94%E7%A7%91%E5%A4%AB/</link><description>塔科夫 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E5%A1%94%E7%A7%91%E5%A4%AB/" rel="self" type="application/rss+xml"/><item><title>塔科夫PVE-TarkovAddons辅助v1.1.5.0.47426</title><link>https://7772027.xyz/%E5%A1%94%E7%A7%91%E5%A4%ABpve-tarkovaddons%E8%BE%85%E5%8A%A9v1.1.5.0.47426/</link><pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E5%A1%94%E7%A7%91%E5%A4%ABpve-tarkovaddons%E8%BE%85%E5%8A%A9v1.1.5.0.47426/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>塔科夫PVE-TarkovAddons辅助v1.1.5.0.47426</p>
 <p>作弊语言：支持多语言，包含中文<br>
 功能：<br>
@@ -49,7 +38,4 @@ NPC、装备、本地玩家和武器透视着色<br>
 查看任务要求和具体子目标<br>
 选择已完成任务或特定的未完成条件<br>
 批量完成或跳过所选任务<br>
-教程：</p>]]></description>
-</item>
-</channel>
-</rss>
+教程：</p>]]></description></item></channel></rss>

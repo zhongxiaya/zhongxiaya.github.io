@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>路人娘电车 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E8%B7%AF%E4%BA%BA%E5%A8%98%E7%94%B5%E8%BD%A6/</link>
-        <description>路人娘电车 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 18 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E8%B7%AF%E4%BA%BA%E5%A8%98%E7%94%B5%E8%BD%A6/" rel="self" type="application/rss+xml" /><item>
-    <title>[L]路人娘电车辅助MobGirl Train Cheat</title>
-    <link>https://7772027.xyz/l%E8%B7%AF%E4%BA%BA%E5%A8%98%E7%94%B5%E8%BD%A6%E8%BE%85%E5%8A%A9mobgirl-train-cheat/</link>
-    <pubDate>Fri, 18 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/l%E8%B7%AF%E4%BA%BA%E5%A8%98%E7%94%B5%E8%BD%A6%E8%BE%85%E5%8A%A9mobgirl-train-cheat/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>路人娘电车 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E8%B7%AF%E4%BA%BA%E5%A8%98%E7%94%B5%E8%BD%A6/</link><description>路人娘电车 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 18 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E8%B7%AF%E4%BA%BA%E5%A8%98%E7%94%B5%E8%BD%A6/" rel="self" type="application/rss+xml"/><item><title>[L]路人娘电车辅助MobGirl Train Cheat</title><link>https://7772027.xyz/l%E8%B7%AF%E4%BA%BA%E5%A8%98%E7%94%B5%E8%BD%A6%E8%BE%85%E5%8A%A9mobgirl-train-cheat/</link><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/l%E8%B7%AF%E4%BA%BA%E5%A8%98%E7%94%B5%E8%BD%A6%E8%BE%85%E5%8A%A9mobgirl-train-cheat/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>[L]路人娘电车辅助MobGirl Train Cheat</p>
 <p>修改/外挂功能：<br>
 菜单F9开启，默认开启<br>
@@ -24,7 +13,4 @@
 关闭游戏，将下载的模组解压到BepInEx/plugins 文件夹里面<br>
 打开：<br>
 mobTrainMod.7z (5.26 KB)<br>
-所对应的客户端</p>]]></description>
-</item>
-</channel>
-</rss>
+所对应的客户端</p>]]></description></item></channel></rss>

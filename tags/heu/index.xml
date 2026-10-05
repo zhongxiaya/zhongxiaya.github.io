@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Heu - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/heu/</link>
-        <description>Heu - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 18 Aug 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/heu/" rel="self" type="application/rss+xml" /><item>
-    <title>和平精英heu断点追锁内核8.18</title>
-    <link>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1heu%E6%96%AD%E7%82%B9%E8%BF%BD%E9%94%81%E5%86%85%E6%A0%B88.18/</link>
-    <pubDate>Tue, 18 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1heu%E6%96%AD%E7%82%B9%E8%BF%BD%E9%94%81%E5%86%85%E6%A0%B88.18/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Heu - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/heu/</link><description>Heu - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/heu/" rel="self" type="application/rss+xml"/><item><title>和平精英heu断点追锁内核8.18</title><link>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1heu%E6%96%AD%E7%82%B9%E8%BF%BD%E9%94%81%E5%86%85%E6%A0%B88.18/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1heu%E6%96%AD%E7%82%B9%E8%BF%BD%E9%94%81%E5%86%85%E6%A0%B88.18/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>和平精英heu断点追锁内核8.18</p>
 <p>项目:和平精英<br>
 ————————————<br>
@@ -19,7 +8,4 @@
 ✅众多实用功能<br>
 ✅完全免费<br>
 ————————————<br>
-经过测试后发布该1.0版本</p>]]></description>
-</item>
-</channel>
-</rss>
+经过测试后发布该1.0版本</p>]]></description></item></channel></rss>

@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "D:/重要文件/7772027",
+	"sourceRoot": "/home/runner/work/7772027/7772027",
 	"sources": [
 		"themes/LoveIt/assets/css/style.scss",
 		"themes/LoveIt/assets/lib/modern-normalize/modern-normalize.css",

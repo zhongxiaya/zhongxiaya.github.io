@@ -1,28 +1,6 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>脚本 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E8%84%9A%E6%9C%AC/</link>
-        <description>脚本 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 28 Aug 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E8%84%9A%E6%9C%AC/" rel="self" type="application/rss+xml" /><item>
-    <title>传世内存脚本源码更新普攻和技能call</title>
-    <link>https://7772027.xyz/%E4%BC%A0%E4%B8%96%E5%86%85%E5%AD%98%E8%84%9A%E6%9C%AC%E6%BA%90%E7%A0%81%E6%9B%B4%E6%96%B0%E6%99%AE%E6%94%BB%E5%92%8C%E6%8A%80%E8%83%BDcall/</link>
-    <pubDate>Fri, 28 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E4%BC%A0%E4%B8%96%E5%86%85%E5%AD%98%E8%84%9A%E6%9C%AC%E6%BA%90%E7%A0%81%E6%9B%B4%E6%96%B0%E6%99%AE%E6%94%BB%E5%92%8C%E6%8A%80%E8%83%BDcall/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
-<p>传世内存脚本源码更新普攻和技能call</p>]]></description>
-</item>
-<item>
-    <title>泰拉瑞亚Terraria 1.4.5.7CE多功能脚本</title>
-    <link>https://7772027.xyz/%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9Aterraria-1.4.5.7ce%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%84%9A%E6%9C%AC/</link>
-    <pubDate>Wed, 26 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9Aterraria-1.4.5.7ce%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%84%9A%E6%9C%AC/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>脚本 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E8%84%9A%E6%9C%AC/</link><description>脚本 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E8%84%9A%E6%9C%AC/" rel="self" type="application/rss+xml"/><item><title>传世内存脚本源码更新普攻和技能call</title><link>https://7772027.xyz/%E4%BC%A0%E4%B8%96%E5%86%85%E5%AD%98%E8%84%9A%E6%9C%AC%E6%BA%90%E7%A0%81%E6%9B%B4%E6%96%B0%E6%99%AE%E6%94%BB%E5%92%8C%E6%8A%80%E8%83%BDcall/</link><pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E4%BC%A0%E4%B8%96%E5%86%85%E5%AD%98%E8%84%9A%E6%9C%AC%E6%BA%90%E7%A0%81%E6%9B%B4%E6%96%B0%E6%99%AE%E6%94%BB%E5%92%8C%E6%8A%80%E8%83%BDcall/</guid><description>&lt;h3 id="更新日志">更新日志&lt;/h3>
+&lt;p>传世内存脚本源码更新普攻和技能call&lt;/p></description></item><item><title>泰拉瑞亚Terraria 1.4.5.7CE多功能脚本</title><link>https://7772027.xyz/%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9Aterraria-1.4.5.7ce%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%84%9A%E6%9C%AC/</link><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9Aterraria-1.4.5.7ce%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%84%9A%E6%9C%AC/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>泰拉瑞亚Terraria 1.4.5.7CE多功能脚本<br>
 使用方法：<br>
 1.下载ce 7.4<br>
-2.双击打开 Terraria_1_4_5_7_Table_Ver_4.ct</p>]]></description>
-</item>
-</channel>
-</rss>
+2.双击打开 Terraria_1_4_5_7_Table_Ver_4.ct</p>]]></description></item></channel></rss>

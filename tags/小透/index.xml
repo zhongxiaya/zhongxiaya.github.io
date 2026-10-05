@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>小透 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E5%B0%8F%E9%80%8F/</link>
-        <description>小透 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 18 Aug 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E5%B0%8F%E9%80%8F/" rel="self" type="application/rss+xml" /><item>
-    <title>王牌战争小透工艺内核8.18</title>
-    <link>https://7772027.xyz/%E7%8E%8B%E7%89%8C%E6%88%98%E4%BA%89%E5%B0%8F%E9%80%8F%E5%B7%A5%E8%89%BA%E5%86%85%E6%A0%B88.18/</link>
-    <pubDate>Tue, 18 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E7%8E%8B%E7%89%8C%E6%88%98%E4%BA%89%E5%B0%8F%E9%80%8F%E5%B7%A5%E8%89%BA%E5%86%85%E6%A0%B88.18/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>小透 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E5%B0%8F%E9%80%8F/</link><description>小透 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E5%B0%8F%E9%80%8F/" rel="self" type="application/rss+xml"/><item><title>王牌战争小透工艺内核8.18</title><link>https://7772027.xyz/%E7%8E%8B%E7%89%8C%E6%88%98%E4%BA%89%E5%B0%8F%E9%80%8F%E5%B7%A5%E8%89%BA%E5%86%85%E6%A0%B88.18/</link><pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E7%8E%8B%E7%89%8C%E6%88%98%E4%BA%89%E5%B0%8F%E9%80%8F%E5%B7%A5%E8%89%BA%E5%86%85%E6%A0%B88.18/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>王牌战争小透工艺内核8.18</p>
 <p>本次更新<br>
 1.过检测(已绕过Xa5分钟拉闸)2.局内离线(服务器显示原地罚站提升一点稳定性)3.静默攻击(人物快刀)4.枪械模型大小5.刀距开关6.快速拆除(拳头)7.建筑旋转(有个小问题)8.自身角色大小9.自动拾取10.秒开秒关衣服美化(需要下载衣裳资源再去使用)11.锁定天气<br>
@@ -23,7 +12,4 @@
 Inject，libsocket.so这两个文件移到/data/local/tmp/目录给777<br>
 重要提示<br>
 注入完HOOK过检测时终端显示链接成功才行<br>
-移除模型范围等待优化</p>]]></description>
-</item>
-</channel>
-</rss>
+移除模型范围等待优化</p>]]></description></item></channel></rss>

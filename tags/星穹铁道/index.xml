@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>星穹铁道 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93/</link>
-        <description>星穹铁道 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 16 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93/" rel="self" type="application/rss+xml" /><item>
-    <title>星穹铁道ASA多功能辅助国服_国际服0.0.4</title>
-    <link>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93asa%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8D0.0.4/</link>
-    <pubDate>Wed, 16 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93asa%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8D0.0.4/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>星穹铁道 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93/</link><description>星穹铁道 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93/" rel="self" type="application/rss+xml"/><item><title>星穹铁道ASA多功能辅助国服_国际服0.0.4</title><link>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93asa%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8D0.0.4/</link><pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93asa%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8D0.0.4/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>星穹铁道ASA多功能辅助国服/国际服0.0.4<br>
 使用教程<br>
 1.首次使用asa，先打开你的游戏安装目录，例如E:\HoYoPlay\games\Star Rail Games，找到文件config.cfg删掉它，这一步主要是因为你开过pipsi或者alya保留下来的配置文件，asa的配置文<br>
@@ -26,15 +15,7 @@ Insert开关菜单<br>
 第一次可能不会加载，重启科技即可，在misc设置,如果乱码，在misc里面选自定义字体(Custom Font)即可<br>
 🍀问题解决<br>
 1.游戏画面卡死但有声音，删除游戏安装目录文件夹中的 config.cfg文件，这是因为其他科技的配置文件也是这个也是这个位置，冲突了<br>
-2.无菜单问题，如果左上角出现了FPS显示，说明是有菜单的，按insert出不来，只能说你对键盘知识一概不知道low iq user，不知组合键。如果左上角没FPS显示，要么你DLL位置没放对，或者版本没放对；要么就是电脑有一些帧率软件、AI插帧之类的图形软件冲突了</p>]]></description>
-</item>
-<item>
-    <title>星穹铁道三月七小助手v4.5.0</title>
-    <link>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E4%B8%89%E6%9C%88%E4%B8%83%E5%B0%8F%E5%8A%A9%E6%89%8Bv4.5.0/</link>
-    <pubDate>Tue, 08 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E4%B8%89%E6%9C%88%E4%B8%83%E5%B0%8F%E5%8A%A9%E6%89%8Bv4.5.0/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+2.无菜单问题，如果左上角出现了FPS显示，说明是有菜单的，按insert出不来，只能说你对键盘知识一概不知道low iq user，不知组合键。如果左上角没FPS显示，要么你DLL位置没放对，或者版本没放对；要么就是电脑有一些帧率软件、AI插帧之类的图形软件冲突了</p>]]></description></item><item><title>星穹铁道三月七小助手v4.5.0</title><link>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E4%B8%89%E6%9C%88%E4%B8%83%E5%B0%8F%E5%8A%A9%E6%89%8Bv4.5.0/</link><pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E4%B8%89%E6%9C%88%E4%B8%83%E5%B0%8F%E5%8A%A9%E6%89%8Bv4.5.0/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>星穹铁道三月七小助手v4.5.0<br>
 🌈功能简介<br>
 日常：清体力、每日实训、领取奖励、委托、锄大地<br>
@@ -56,15 +37,7 @@ Insert开关菜单<br>
 必须使用PC端 1920*1080 分辨率窗口或全屏运行游戏（不支持HDR）<br>
 模拟宇宙相关文档：https://moesnow.github.io/March7thAssistant/#/assets/docs/Tutorial<br>
 需要后台运行或多显示器可以尝试远程本地多用户桌面<br>
-📃下载地址:   蓝奏优享盘 / 夸克盘 / 123盘</p>]]></description>
-</item>
-<item>
-    <title>星穹铁道Jawir多功能辅助国服_国际服1.3.1</title>
-    <link>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93jawir%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8D1.3.1/</link>
-    <pubDate>Sun, 06 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93jawir%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8D1.3.1/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+📃下载地址:   蓝奏优享盘 / 夸克盘 / 123盘</p>]]></description></item><item><title>星穹铁道Jawir多功能辅助国服_国际服1.3.1</title><link>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93jawir%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8D1.3.1/</link><pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93jawir%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8D1.3.1/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>星穹铁道Jawir多功能辅助国服/国际服1.3.1<br>
 🌈说明:<br>
 1.先打开你的梯子，不管什么梯子，有Tun模式就行，关闭系统代理，一定要在打开科技之前挂上<br>
@@ -91,15 +64,7 @@ insert开关菜单<br>
 部分功能将在修复后陆续回归<br>
 1.3.1:<br>
 修复了注入失败问题<br>
-针对 PowerShell 无配置文件模式进行了优化</p>]]></description>
-</item>
-<item>
-    <title>星穹铁道Jawir多功能辅助1.3国服_国际服</title>
-    <link>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93jawir%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A91.3%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8D/</link>
-    <pubDate>Wed, 02 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93jawir%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A91.3%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8D/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+针对 PowerShell 无配置文件模式进行了优化</p>]]></description></item><item><title>星穹铁道Jawir多功能辅助1.3国服_国际服</title><link>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93jawir%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A91.3%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8D/</link><pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93jawir%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A91.3%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8D/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>星穹铁道Jawir多功能辅助1.3国服/国际服<br>
 🌈说明:<br>
 解压到桌面以管理员方式运行Jawir-HSR.exe<br>
@@ -123,15 +88,7 @@ insert开关菜单<br>
 基于新 SDK 重构<br>
 重新设计了新 UI<br>
 部分功能将在修复后陆续回归<br>
-📃下载地址:   夸克盘 / 蓝奏盘</p>]]></description>
-</item>
-<item>
-    <title>星穹铁道ASA多功能辅助国服_国际服v14</title>
-    <link>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93asa%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8Dv14/</link>
-    <pubDate>Sun, 30 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93asa%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8Dv14/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+📃下载地址:   夸克盘 / 蓝奏盘</p>]]></description></item><item><title>星穹铁道ASA多功能辅助国服_国际服v14</title><link>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93asa%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8Dv14/</link><pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93asa%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8Dv14/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>星穹铁道ASA多功能辅助国服/国际服v14<br>
 ✅使用教程<br>
 1.首次使用asa，先打开你的游戏安装目录，例如E:\HoYoPlay\games\Star Rail Games，找到文件config.cfg删掉它，这一步主要是因为你开过pipsi或者alya保留下来的配置文件，asa的配置文件也是这个命名和位置，读取这个配置文件，不匹配可能导致卡死或者闪退<br>
@@ -144,15 +101,7 @@ Insert开关菜单<br>
 第一次可能不会加载，重启科技即可，在misc设置,如果乱码，在misc里面选自定义字体(Custom Font)即可<br>
 🍀问题解决<br>
 1.游戏画面卡死但有声音，删除游戏安装目录文件夹中的 config.cfg文件，这是因为其他科技的配置文件也是这个也是这个位置，冲突了<br>
-2.无菜单问题，如果左上角出现了FPS显示，说明是有菜单的，按insert出不来，只能说你对键盘知识一概不知道low iq user，不知组合键。如果左上角没FPS显示，要么你DLL位置没放对，或者版本没放对；要么就是电脑有一些帧率软件、AI插帧之类的图形软件冲突了</p>]]></description>
-</item>
-<item>
-    <title>星穹铁道Pipsi多功能辅助国服_国际服1.5.1</title>
-    <link>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93pipsi%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8D1.5.1/</link>
-    <pubDate>Sun, 30 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93pipsi%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8D1.5.1/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+2.无菜单问题，如果左上角出现了FPS显示，说明是有菜单的，按insert出不来，只能说你对键盘知识一概不知道low iq user，不知组合键。如果左上角没FPS显示，要么你DLL位置没放对，或者版本没放对；要么就是电脑有一些帧率软件、AI插帧之类的图形软件冲突了</p>]]></description></item><item><title>星穹铁道Pipsi多功能辅助国服_国际服1.5.1</title><link>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93pipsi%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8D1.5.1/</link><pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93pipsi%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8D1.5.1/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>星穹铁道Pipsi多功能辅助国服/国际服1.5.1<br>
 使用教程<br>
 已亲测无毒<br>
@@ -170,25 +119,9 @@ Insert开关菜单<br>
 👍更新日志<br>
 1.5.1:<br>
 已更新至游戏新版本 4.5.0<br>
-适配国服</p>]]></description>
-</item>
-<item>
-    <title>《崩坏：星穹铁道》v4.5 绅士美化Mod整合包</title>
-    <link>https://7772027.xyz/%E5%B4%A9%E5%9D%8F%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93v4.5-%E7%BB%85%E5%A3%AB%E7%BE%8E%E5%8C%96mod%E6%95%B4%E5%90%88%E5%8C%85/</link>
-    <pubDate>Sat, 29 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E5%B4%A9%E5%9D%8F%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93v4.5-%E7%BB%85%E5%A3%AB%E7%BE%8E%E5%8C%96mod%E6%95%B4%E5%90%88%E5%8C%85/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+适配国服</p>]]></description></item><item><title>《崩坏：星穹铁道》v4.5 绅士美化Mod整合包</title><link>https://7772027.xyz/%E5%B4%A9%E5%9D%8F%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93v4.5-%E7%BB%85%E5%A3%AB%E7%BE%8E%E5%8C%96mod%E6%95%B4%E5%90%88%E5%8C%85/</link><pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E5%B4%A9%E5%9D%8F%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93v4.5-%E7%BB%85%E5%A3%AB%E7%BE%8E%E5%8C%96mod%E6%95%B4%E5%90%88%E5%8C%85/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>《崩坏：星穹铁道》v4.5 绅士美化Mod整合包<br>
-🙂说明：新增“水鸟-SP知更鸟”模组及多款角色清凉美化内容，支持反虚化效果。装扮可在游戏内实时切换，无需反复退出或重启，使用更方便。</p>]]></description>
-</item>
-<item>
-    <title>星穹铁道三月七小助手v4.5.0</title>
-    <link>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E4%B8%89%E6%9C%88%E4%B8%83%E5%B0%8F%E5%8A%A9%E6%89%8Bv4.5.0/</link>
-    <pubDate>Sat, 29 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E4%B8%89%E6%9C%88%E4%B8%83%E5%B0%8F%E5%8A%A9%E6%89%8Bv4.5.0/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+🙂说明：新增“水鸟-SP知更鸟”模组及多款角色清凉美化内容，支持反虚化效果。装扮可在游戏内实时切换，无需反复退出或重启，使用更方便。</p>]]></description></item><item><title>星穹铁道三月七小助手v4.5.0</title><link>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E4%B8%89%E6%9C%88%E4%B8%83%E5%B0%8F%E5%8A%A9%E6%89%8Bv4.5.0/</link><pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E4%B8%89%E6%9C%88%E4%B8%83%E5%B0%8F%E5%8A%A9%E6%89%8Bv4.5.0/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>星穹铁道三月七小助手v4.5.0<br>
 🌈功能简介<br>
 日常：清体力、每日实训、领取奖励、委托、锄大地<br>
@@ -218,15 +151,7 @@ Insert开关菜单<br>
 必须使用PC端 1920*1080 分辨率窗口或全屏运行游戏（不支持HDR）<br>
 模拟宇宙相关文档：https://moesnow.github.io/March7thAssistant/#/assets/docs/Tutorial<br>
 需要后台运行或多显示器可以尝试远程本地多用户桌面<br>
-蓝奏优享盘 / 夸克盘 / 123盘</p>]]></description>
-</item>
-<item>
-    <title>星穹铁道Alya多功能辅助国服_国际服0.1.9</title>
-    <link>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93alya%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8D0.1.9/</link>
-    <pubDate>Thu, 27 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93alya%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8D0.1.9/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+蓝奏优享盘 / 夸克盘 / 123盘</p>]]></description></item><item><title>星穹铁道Alya多功能辅助国服_国际服0.1.9</title><link>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93alya%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8D0.1.9/</link><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93alya%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E5%9B%BD%E6%9C%8D_%E5%9B%BD%E9%99%85%E6%9C%8D0.1.9/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>星穹铁道Alya多功能辅助国服/国际服0.1.9<br>
 🌈说明:<br>
 解压到桌面<br>
@@ -258,15 +183,7 @@ insert开关菜单<br>
 自动聊天(Auto Chat)<br>
 视觉(Visuals):<br>
 反虚化(Peeking)<br>
-透视(ESP)</p>]]></description>
-</item>
-<item>
-    <title>星穹铁道Alya多功能辅助0.1.8暂时仅国际服</title>
-    <link>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93alya%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A90.1.8%E6%9A%82%E6%97%B6%E4%BB%85%E5%9B%BD%E9%99%85%E6%9C%8D/</link>
-    <pubDate>Wed, 26 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93alya%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A90.1.8%E6%9A%82%E6%97%B6%E4%BB%85%E5%9B%BD%E9%99%85%E6%9C%8D/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+透视(ESP)</p>]]></description></item><item><title>星穹铁道Alya多功能辅助0.1.8暂时仅国际服</title><link>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93alya%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A90.1.8%E6%9A%82%E6%97%B6%E4%BB%85%E5%9B%BD%E9%99%85%E6%9C%8D/</link><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93alya%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A90.1.8%E6%9A%82%E6%97%B6%E4%BB%85%E5%9B%BD%E9%99%85%E6%9C%8D/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>星穹铁道Alya多功能辅助0.1.8暂时仅国际服<br>
 说明:<br>
 解压到桌面<br>
@@ -294,7 +211,4 @@ insert开关菜单<br>
 自动聊天(Auto Chat)<br>
 视觉(Visuals):<br>
 反虚化(Peeking)<br>
-透视(ESP)</p>]]></description>
-</item>
-</channel>
-</rss>
+透视(ESP)</p>]]></description></item></channel></rss>

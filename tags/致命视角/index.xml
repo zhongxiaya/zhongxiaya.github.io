@@ -1,43 +1,16 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>致命视角 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92/</link>
-        <description>致命视角 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 20 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92/" rel="self" type="application/rss+xml" /><item>
-    <title>Bodycam致命视角Mewcam内部辅助v0.4b</title>
-    <link>https://7772027.xyz/bodycam%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92mewcam%E5%86%85%E9%83%A8%E8%BE%85%E5%8A%A9v0.4b/</link>
-    <pubDate>Sun, 20 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/bodycam%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92mewcam%E5%86%85%E9%83%A8%E8%BE%85%E5%8A%A9v0.4b/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>致命视角 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92/</link><description>致命视角 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 20 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92/" rel="self" type="application/rss+xml"/><item><title>Bodycam致命视角Mewcam内部辅助v0.4b</title><link>https://7772027.xyz/bodycam%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92mewcam%E5%86%85%E9%83%A8%E8%BE%85%E5%8A%A9v0.4b/</link><pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/bodycam%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92mewcam%E5%86%85%E9%83%A8%E8%BE%85%E5%8A%A9v0.4b/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>Bodycam致命视角Mewcam内部辅助v0.4b<br>
 r3(连跳、解锁全部、生成无人机、Lua 支持)<br>
 使用方法<br>
 1.启动游戏【PS.游戏不能设置成全屏】<br>
-2.使用影子注入器[x64]，注入到游戏</p>]]></description>
-</item>
-<item>
-    <title>Bodycam致命视角Chudware内部免费辅助工具v5</title>
-    <link>https://7772027.xyz/bodycam%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92chudware%E5%86%85%E9%83%A8%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7v5/</link>
-    <pubDate>Wed, 16 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/bodycam%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92chudware%E5%86%85%E9%83%A8%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7v5/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+2.使用影子注入器[x64]，注入到游戏</p>]]></description></item><item><title>Bodycam致命视角Chudware内部免费辅助工具v5</title><link>https://7772027.xyz/bodycam%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92chudware%E5%86%85%E9%83%A8%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7v5/</link><pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/bodycam%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92chudware%E5%86%85%E9%83%A8%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7v5/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>Bodycam致命视角Chudware内部免费辅助工具v5</p>
 <p>使用说明：<br>
 1.启动游戏<br>
 2.大厅界面打开 注入器 将下载的DLL文件注入到游戏进程即可。<br>
 功能翻译：<br>
 战斗（Combat）<br>
-瞄准辅助（Aimbot）</p>]]></description>
-</item>
-<item>
-    <title>Bodycam丨Mewcam内部透视自喵多功能辅助v0.4b r1</title>
-    <link>https://7772027.xyz/bodycam%E4%B8%A8mewcam%E5%86%85%E9%83%A8%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9v0.4b-r1/</link>
-    <pubDate>Mon, 14 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/bodycam%E4%B8%A8mewcam%E5%86%85%E9%83%A8%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9v0.4b-r1/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+瞄准辅助（Aimbot）</p>]]></description></item><item><title>Bodycam丨Mewcam内部透视自喵多功能辅助v0.4b r1</title><link>https://7772027.xyz/bodycam%E4%B8%A8mewcam%E5%86%85%E9%83%A8%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9v0.4b-r1/</link><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/bodycam%E4%B8%A8mewcam%E5%86%85%E9%83%A8%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9v0.4b-r1/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>Bodycam丨Mewcam内部透视自喵多功能辅助v0.4b r1<br>
 功能列表<br>
 自瞄 | 静默瞄准 | 自动扳机 | 透视 | Chams 着色透视  移动<br>
@@ -50,47 +23,20 @@ r3(连跳、解锁全部、生成无人机、Lua 支持)<br>
 使用说明：<br>
 1.启动游戏<br>
 2.大厅界面打开 注入器 注入即可。<br>
-（连跳、全解锁、生成无人机）</p>]]></description>
-</item>
-<item>
-    <title>Bodycam致命视角内部透视自喵无后座免费辅助</title>
-    <link>https://7772027.xyz/bodycam%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92%E5%86%85%E9%83%A8%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E6%97%A0%E5%90%8E%E5%BA%A7%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9/</link>
-    <pubDate>Mon, 14 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/bodycam%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92%E5%86%85%E9%83%A8%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E6%97%A0%E5%90%8E%E5%BA%A7%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+（连跳、全解锁、生成无人机）</p>]]></description></item><item><title>Bodycam致命视角内部透视自喵无后座免费辅助</title><link>https://7772027.xyz/bodycam%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92%E5%86%85%E9%83%A8%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E6%97%A0%E5%90%8E%E5%BA%A7%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9/</link><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/bodycam%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92%E5%86%85%E9%83%A8%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E6%97%A0%E5%90%8E%E5%BA%A7%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>Bodycam致命视角内部透视自喵无后座免费辅助<br>
 使用说明<br>
 1.启动游戏<br>
 2.大厅界面打开 注入器 将下载的DLL文件注入到游戏进程“Bodycam-Win64-Shipping.exe”即可。<br>
-菜单键：Ins</p>]]></description>
-</item>
-<item>
-    <title>致命视角Bodycam-Chudware内部免费辅助工具</title>
-    <link>https://7772027.xyz/%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92bodycam-chudware%E5%86%85%E9%83%A8%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/</link>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92bodycam-chudware%E5%86%85%E9%83%A8%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+菜单键：Ins</p>]]></description></item><item><title>致命视角Bodycam-Chudware内部免费辅助工具</title><link>https://7772027.xyz/%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92bodycam-chudware%E5%86%85%E9%83%A8%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/</link><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92bodycam-chudware%E5%86%85%E9%83%A8%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>致命视角Bodycam-Chudware内部免费辅助工具<br>
 使用说明<br>
 1.启动游戏<br>
-2.大厅界面打开 注入器 将下载的DLL文件注入到游戏进程即可</p>]]></description>
-</item>
-<item>
-    <title>致命视角Bodycam（BCVision）内置多种功能</title>
-    <link>https://7772027.xyz/%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92bodycambcvision%E5%86%85%E7%BD%AE%E5%A4%9A%E7%A7%8D%E5%8A%9F%E8%83%BD/</link>
-    <pubDate>Sun, 13 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92bodycambcvision%E5%86%85%E7%BD%AE%E5%A4%9A%E7%A7%8D%E5%8A%9F%E8%83%BD/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+2.大厅界面打开 注入器 将下载的DLL文件注入到游戏进程即可</p>]]></description></item><item><title>致命视角Bodycam（BCVision）内置多种功能</title><link>https://7772027.xyz/%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92bodycambcvision%E5%86%85%E7%BD%AE%E5%A4%9A%E7%A7%8D%E5%8A%9F%E8%83%BD/</link><pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E8%87%B4%E5%91%BD%E8%A7%86%E8%A7%92bodycambcvision%E5%86%85%E7%BD%AE%E5%A4%9A%E7%A7%8D%E5%8A%9F%E8%83%BD/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>致命视角Bodycam（BCVision）内置多种功能<br>
 （自动更新、自动瞄准、静音瞄准、透视等功能）</p>
 <p>使用说明：<br>
 1.启动游戏<br>
 2.大厅界面打开 注入器 将下载的DLL文件注入到游戏即可。<br>
 功能翻译：<br>
-瞄准辅助（Aimbot）</p>]]></description>
-</item>
-</channel>
-</rss>
+瞄准辅助（Aimbot）</p>]]></description></item></channel></rss>

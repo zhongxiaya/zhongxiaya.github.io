@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>泰坦陨落2 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E6%B3%B0%E5%9D%A6%E9%99%A8%E8%90%BD2/</link>
-        <description>泰坦陨落2 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 27 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E6%B3%B0%E5%9D%A6%E9%99%A8%E8%90%BD2/" rel="self" type="application/rss+xml" /><item>
-    <title>【Titanfall 2】泰坦陨落2内部多功能辅助汉化版</title>
-    <link>https://7772027.xyz/titanfall-2%E6%B3%B0%E5%9D%A6%E9%99%A8%E8%90%BD2%E5%86%85%E9%83%A8%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E6%B1%89%E5%8C%96%E7%89%88/</link>
-    <pubDate>Sun, 27 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/titanfall-2%E6%B3%B0%E5%9D%A6%E9%99%A8%E8%90%BD2%E5%86%85%E9%83%A8%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E6%B1%89%E5%8C%96%E7%89%88/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>泰坦陨落2 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E6%B3%B0%E5%9D%A6%E9%99%A8%E8%90%BD2/</link><description>泰坦陨落2 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 27 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E6%B3%B0%E5%9D%A6%E9%99%A8%E8%90%BD2/" rel="self" type="application/rss+xml"/><item><title>【Titanfall 2】泰坦陨落2内部多功能辅助汉化版</title><link>https://7772027.xyz/titanfall-2%E6%B3%B0%E5%9D%A6%E9%99%A8%E8%90%BD2%E5%86%85%E9%83%A8%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E6%B1%89%E5%8C%96%E7%89%88/</link><pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/titanfall-2%E6%B3%B0%E5%9D%A6%E9%99%A8%E8%90%BD2%E5%86%85%E9%83%A8%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E6%B1%89%E5%8C%96%E7%89%88/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>【Titanfall 2】泰坦陨落2内部多功能辅助汉化版<br>
 游戏无反检测<br>
 配置文件位置：C:\Users\用户名\AppData\Local\RM11 Configs<br>
@@ -19,7 +8,4 @@
 使用方法<br>
 1.启动游戏<br>
 2.打开影子注入器[x64]，选择要注入的DLL<br>
-3.注入到游戏</p>]]></description>
-</item>
-</channel>
-</rss>
+3.注入到游戏</p>]]></description></item></channel></rss>

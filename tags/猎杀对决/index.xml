@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>猎杀对决 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E7%8C%8E%E6%9D%80%E5%AF%B9%E5%86%B3/</link>
-        <description>猎杀对决 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 30 Aug 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E7%8C%8E%E6%9D%80%E5%AF%B9%E5%86%B3/" rel="self" type="application/rss+xml" /><item>
-    <title>猎杀对决公益AMD-独家漏打离线模型辅助</title>
-    <link>https://7772027.xyz/%E7%8C%8E%E6%9D%80%E5%AF%B9%E5%86%B3%E5%85%AC%E7%9B%8Aamd-%E7%8B%AC%E5%AE%B6%E6%BC%8F%E6%89%93%E7%A6%BB%E7%BA%BF%E6%A8%A1%E5%9E%8B%E8%BE%85%E5%8A%A9/</link>
-    <pubDate>Sun, 30 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E7%8C%8E%E6%9D%80%E5%AF%B9%E5%86%B3%E5%85%AC%E7%9B%8Aamd-%E7%8B%AC%E5%AE%B6%E6%BC%8F%E6%89%93%E7%A6%BB%E7%BA%BF%E6%A8%A1%E5%9E%8B%E8%BE%85%E5%8A%A9/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>猎杀对决 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E7%8C%8E%E6%9D%80%E5%AF%B9%E5%86%B3/</link><description>猎杀对决 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E7%8C%8E%E6%9D%80%E5%AF%B9%E5%86%B3/" rel="self" type="application/rss+xml"/><item><title>猎杀对决公益AMD-独家漏打离线模型辅助</title><link>https://7772027.xyz/%E7%8C%8E%E6%9D%80%E5%AF%B9%E5%86%B3%E5%85%AC%E7%9B%8Aamd-%E7%8B%AC%E5%AE%B6%E6%BC%8F%E6%89%93%E7%A6%BB%E7%BA%BF%E6%A8%A1%E5%9E%8B%E8%BE%85%E5%8A%A9/</link><pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E7%8C%8E%E6%9D%80%E5%AF%B9%E5%86%B3%E5%85%AC%E7%9B%8Aamd-%E7%8B%AC%E5%AE%B6%E6%BC%8F%E6%89%93%E7%A6%BB%E7%BA%BF%E6%A8%A1%E5%9E%8B%E8%BE%85%E5%8A%A9/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>猎杀对决公益AMD-独家漏打离线模型辅助</p>
 <p>比市面上卖的功能还多<br>
 最新版版发布1.7<br>
@@ -21,7 +10,4 @@
 6.精简绘制ui界面，所有绘制分类嵌套细化调参<br>
 7.优化绘制掉帧问题<br>
 9.适配离线模型<br>
-8.新增双转卡密输入适配性</p>]]></description>
-</item>
-</channel>
-</rss>
+8.新增双转卡密输入适配性</p>]]></description></item></channel></rss>

@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Dq - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/dq/</link>
-        <description>Dq - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 02 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/dq/" rel="self" type="application/rss+xml" /><item>
-    <title>暗区突围dq多功能内核9.2</title>
-    <link>https://7772027.xyz/%E6%9A%97%E5%8C%BA%E7%AA%81%E5%9B%B4dq%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B89.2/</link>
-    <pubDate>Wed, 02 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E6%9A%97%E5%8C%BA%E7%AA%81%E5%9B%B4dq%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B89.2/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Dq - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/dq/</link><description>Dq - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 02 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/dq/" rel="self" type="application/rss+xml"/><item><title>暗区突围dq多功能内核9.2</title><link>https://7772027.xyz/%E6%9A%97%E5%8C%BA%E7%AA%81%E5%9B%B4dq%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B89.2/</link><pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E6%9A%97%E5%8C%BA%E7%AA%81%E5%9B%B4dq%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B89.2/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>暗区突围dq多功能内核9.2<br>
 适配新赛季</p>
 <p>支持游戏:<br>
@@ -19,7 +8,4 @@
 无畏契约&ndash;支持<br>
 几乎支持所有热门游戏<br>
 卡密: DQTTUUYBEBFE<br>
-DQKSTLFWSFGT</p>]]></description>
-</item>
-</channel>
-</rss>
+DQKSTLFWSFGT</p>]]></description></item></channel></rss>

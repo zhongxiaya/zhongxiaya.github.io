@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Fuzz - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/fuzz/</link>
-        <description>Fuzz - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 04 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/fuzz/" rel="self" type="application/rss+xml" /><item>
-    <title>无畏契约fuzz多功能内核3.0</title>
-    <link>https://7772027.xyz/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6fuzz%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B83.0/</link>
-    <pubDate>Fri, 04 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6fuzz%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B83.0/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Fuzz - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/fuzz/</link><description>Fuzz - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 04 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/fuzz/" rel="self" type="application/rss+xml"/><item><title>无畏契约fuzz多功能内核3.0</title><link>https://7772027.xyz/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6fuzz%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B83.0/</link><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6fuzz%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B83.0/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>无畏契约fuzz多功能内核3.0</p>
 <p>🚀 New Update #Valorant<br>
 Valorant Update:<br>
@@ -17,7 +6,4 @@ Valorant Update:<br>
 ✔️修复无解密全图失效 优化解密4速度和逻辑<br>
 公益卡密随便输入即可<br>
 闪框自行设置切换算法解密<br>
-需要777权限运行</p>]]></description>
-</item>
-</channel>
-</rss>
+需要777权限运行</p>]]></description></item></channel></rss>

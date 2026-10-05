@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>沐岑 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E6%B2%90%E5%B2%91/</link>
-        <description>沐岑 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E6%B2%90%E5%B2%91/" rel="self" type="application/rss+xml" /><item>
-    <title>PUBG沐岑国体追踪15.3</title>
-    <link>https://7772027.xyz/pubg%E6%B2%90%E5%B2%91%E5%9B%BD%E4%BD%93%E8%BF%BD%E8%B8%AA15.3/</link>
-    <pubDate>Tue, 25 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/pubg%E6%B2%90%E5%B2%91%E5%9B%BD%E4%BD%93%E8%BF%BD%E8%B8%AA15.3/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>沐岑 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E6%B2%90%E5%B2%91/</link><description>沐岑 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E6%B2%90%E5%B2%91/" rel="self" type="application/rss+xml"/><item><title>PUBG沐岑国体追踪15.3</title><link>https://7772027.xyz/pubg%E6%B2%90%E5%B2%91%E5%9B%BD%E4%BD%93%E8%BF%BD%E8%B8%AA15.3/</link><pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/pubg%E6%B2%90%E5%B2%91%E5%9B%BD%E4%BD%93%E8%BF%BD%E8%B8%AA15.3/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>PUBG沐岑国体追踪15.3<br>
 已适配最新国体4.6.2版本<br>
 支持国体(64)位</p>
@@ -21,7 +10,4 @@
 ⏺坐标飞天    ⏺坐标传送<br>
 ⏺枪口漏打    ⏺枪口路飞<br>
 ⏺内置防闪    ⏺探头路飞<br>
-⏺基础功能    ⏺自动闪镜</p>]]></description>
-</item>
-</channel>
-</rss>
+⏺基础功能    ⏺自动闪镜</p>]]></description></item></channel></rss>

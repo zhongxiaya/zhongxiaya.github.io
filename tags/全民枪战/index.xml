@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>全民枪战 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E5%85%A8%E6%B0%91%E6%9E%AA%E6%88%98/</link>
-        <description>全民枪战 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 19 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E5%85%A8%E6%B0%91%E6%9E%AA%E6%88%98/" rel="self" type="application/rss+xml" /><item>
-    <title>全民枪战多功能辅助插件</title>
-    <link>https://7772027.xyz/%E5%85%A8%E6%B0%91%E6%9E%AA%E6%88%98%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E6%8F%92%E4%BB%B6/</link>
-    <pubDate>Sat, 19 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E5%85%A8%E6%B0%91%E6%9E%AA%E6%88%98%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E6%8F%92%E4%BB%B6/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>全民枪战 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E5%85%A8%E6%B0%91%E6%9E%AA%E6%88%98/</link><description>全民枪战 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 19 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E5%85%A8%E6%B0%91%E6%9E%AA%E6%88%98/" rel="self" type="application/rss+xml"/><item><title>全民枪战多功能辅助插件</title><link>https://7772027.xyz/%E5%85%A8%E6%B0%91%E6%9E%AA%E6%88%98%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E6%8F%92%E4%BB%B6/</link><pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E5%85%A8%E6%B0%91%E6%9E%AA%E6%88%98%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9%E6%8F%92%E4%BB%B6/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>全民枪战多功能辅助插件</p>
 <p>全民枪战多功能辅助插件<br>
 功能有绘制，弹道追踪，子弹落点追踪(可全图无视掩体)<br>
@@ -18,7 +7,4 @@
 框架用户需要用注入so工具来注入到游戏中，另外还要过框架环境<br>
 下载:<br>
 <a href="https://wwbxg.lanzouq.com/b0syz24cb" target="_blank" rel="noopener noreffer ">https://wwbxg.lanzouq.com/b0syz24cb</a><br>
-密码:3460</p>]]></description>
-</item>
-</channel>
-</rss>
+密码:3460</p>]]></description></item></channel></rss>

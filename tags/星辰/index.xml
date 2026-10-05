@@ -1,21 +1,7 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>星辰 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E6%98%9F%E8%BE%B0/</link>
-        <description>星辰 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 24 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E6%98%9F%E8%BE%B0/" rel="self" type="application/rss+xml" /><item>
-    <title>三角洲星辰公益解密内核1.1.2</title>
-    <link>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E6%98%9F%E8%BE%B0%E5%85%AC%E7%9B%8A%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B81.1.2/</link>
-    <pubDate>Thu, 24 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E6%98%9F%E8%BE%B0%E5%85%AC%E7%9B%8A%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B81.1.2/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>星辰 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E6%98%9F%E8%BE%B0/</link><description>星辰 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E6%98%9F%E8%BE%B0/" rel="self" type="application/rss+xml"/><item><title>三角洲星辰公益解密内核1.1.2</title><link>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E6%98%9F%E8%BE%B0%E5%85%AC%E7%9B%8A%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B81.1.2/</link><pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E4%B8%89%E8%A7%92%E6%B4%B2%E6%98%9F%E8%BE%B0%E5%85%AC%E7%9B%8A%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B81.1.2/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>三角洲星辰公益解密内核1.1.2</p>
 <p>修复解密卡顿发热<br>
 修复部分4系用户无法使用<br>
 新增容器文字/视图切换<br>
 遇到任何问题的 请把/data/local/tmp/astra_debug.log发给我 带上你的设备型号 内核版本 系统版本 不然仅凭一句话我没办法修复 不发日志反馈问题一律无视 有什么好的功能建议都可以提<br>
-邀请码：@astradfm</p>]]></description>
-</item>
-</channel>
-</rss>
+邀请码：@astradfm</p>]]></description></item></channel></rss>

@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>TSHI - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/tshi/</link>
-        <description>TSHI - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 23 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/tshi/" rel="self" type="application/rss+xml" /><item>
-    <title>迷你枪战TSHI多功能内核2.1</title>
-    <link>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98tshi%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B82.1/</link>
-    <pubDate>Wed, 23 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98tshi%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B82.1/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>TSHI - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/tshi/</link><description>TSHI - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 23 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/tshi/" rel="self" type="application/rss+xml"/><item><title>迷你枪战TSHI多功能内核2.1</title><link>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98tshi%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B82.1/</link><pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98tshi%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B82.1/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>迷你枪战TSHI多功能内核2.1</p>
 <p>TSHI高能英雄内核2.2.sh<br>
 🎉公益卡密：TSHI666<br>
@@ -17,15 +6,7 @@
 1️⃣.优化PhysX模型露打<br>
 ⚠️注意事项：<br>
 1️⃣.硬件断点追只支持TWT驱动<br>
-2️⃣.模型露打只需要开自瞄页的模型露打就行了没必要开绘制页的模型渲染不然会很卡</p>]]></description>
-</item>
-<item>
-    <title>迷你枪战TSHI多功能内核2.0</title>
-    <link>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98tshi%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B82.0/</link>
-    <pubDate>Tue, 22 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98tshi%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B82.0/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+2️⃣.模型露打只需要开自瞄页的模型露打就行了没必要开绘制页的模型渲染不然会很卡</p>]]></description></item><item><title>迷你枪战TSHI多功能内核2.0</title><link>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98tshi%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B82.0/</link><pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98tshi%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B82.0/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>迷你枪战TSHI多功能内核2.0<br>
 更新内容：<br>
 1️⃣.优化模型渲染<br>
@@ -39,15 +20,7 @@
 3️⃣.增加汇编追踪4系可直接使用<br>
 🥰注意事项：<br>
 1️⃣.硬件断点追踪只支持TWT驱动<br>
-2️⃣.追踪如果没效果就在游戏内重新执行一次就行</p>]]></description>
-</item>
-<item>
-    <title>迷你枪战TSHI多功能内核1.2</title>
-    <link>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98tshi%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B81.2/</link>
-    <pubDate>Mon, 21 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98tshi%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B81.2/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+2️⃣.追踪如果没效果就在游戏内重新执行一次就行</p>]]></description></item><item><title>迷你枪战TSHI多功能内核1.2</title><link>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98tshi%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B81.2/</link><pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98tshi%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B81.2/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>迷你枪战TSHI多功能内核1.2<br>
 更新内容：<br>
 1.修复自瞄与追踪延迟人物<br>
@@ -60,30 +33,14 @@
 🥰注意事项：<br>
 1️⃣.硬件断点追只支持TWT驱动<br>
 2️⃣.只需要开模型露打就行了不需要开模型渲染<br>
-3️⃣.追踪没效果的重新在游戏执行一次就行了</p>]]></description>
-</item>
-<item>
-    <title>迷你枪战TSHI多功能内核1.1</title>
-    <link>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98tshi%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B81.1/</link>
-    <pubDate>Sun, 20 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98tshi%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B81.1/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+3️⃣.追踪没效果的重新在游戏执行一次就行了</p>]]></description></item><item><title>迷你枪战TSHI多功能内核1.1</title><link>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98tshi%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B81.1/</link><pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98tshi%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B81.1/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>迷你枪战TSHI多功能内核1.1<br>
 本次更新内容：<br>
 1️⃣.重写绘制逻辑<br>
 2️⃣.增加PhysX模型<br>
 3️⃣.增加PhysX模型露打<br>
 4️⃣.修复硬件断点追踪腰射扩散<br>
-5️⃣.修复摸金物资绘制颜色分辨错误与一局结束没效果</p>]]></description>
-</item>
-<item>
-    <title>香肠派对TSHI免费内核1.7</title>
-    <link>https://7772027.xyz/%E9%A6%99%E8%82%A0%E6%B4%BE%E5%AF%B9tshi%E5%85%8D%E8%B4%B9%E5%86%85%E6%A0%B81.7/</link>
-    <pubDate>Thu, 17 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E9%A6%99%E8%82%A0%E6%B4%BE%E5%AF%B9tshi%E5%85%8D%E8%B4%B9%E5%86%85%E6%A0%B81.7/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+5️⃣.修复摸金物资绘制颜色分辨错误与一局结束没效果</p>]]></description></item><item><title>香肠派对TSHI免费内核1.7</title><link>https://7772027.xyz/%E9%A6%99%E8%82%A0%E6%B4%BE%E5%AF%B9tshi%E5%85%8D%E8%B4%B9%E5%86%85%E6%A0%B81.7/</link><pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E9%A6%99%E8%82%A0%E6%B4%BE%E5%AF%B9tshi%E5%85%8D%E8%B4%B9%E5%86%85%E6%A0%B81.7/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>香肠派对TSHI免费内核1.7</p>
 <p>🥹香肠派对手游TSHI公益内核1.7<br>
 📣更新日志:<br>
@@ -95,29 +52,13 @@
 <a href="https://www.123865.com/s/cYFvvd-W1Xwh" target="_blank" rel="noopener noreffer ">https://www.123865.com/s/cYFvvd-W1Xwh</a><br>
 ✅公益卡密:<br>
 TSHI666<br>
-💌标签:</p>]]></description>
-</item>
-<item>
-    <title>迷你枪战TSHI多功能内核</title>
-    <link>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98tshi%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B8/</link>
-    <pubDate>Tue, 15 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98tshi%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B8/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+💌标签:</p>]]></description></item><item><title>迷你枪战TSHI多功能内核</title><link>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98tshi%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B8/</link><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98tshi%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%86%85%E6%A0%B8/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>迷你枪战TSHI多功能内核<br>
 功能介绍：<br>
 1.人物绘制一应俱全多种样式<br>
 2.摸金物资绘制与箱子绘制<br>
 3.内存.触摸.模块陀螺仪.无模块陀螺仪一共4种自瞄<br>
-4.硬件断点追踪</p>]]></description>
-</item>
-<item>
-    <title>香肠派对TSHI内核1.6</title>
-    <link>https://7772027.xyz/%E9%A6%99%E8%82%A0%E6%B4%BE%E5%AF%B9tshi%E5%86%85%E6%A0%B81.6/</link>
-    <pubDate>Tue, 15 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E9%A6%99%E8%82%A0%E6%B4%BE%E5%AF%B9tshi%E5%86%85%E6%A0%B81.6/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+4.硬件断点追踪</p>]]></description></item><item><title>香肠派对TSHI内核1.6</title><link>https://7772027.xyz/%E9%A6%99%E8%82%A0%E6%B4%BE%E5%AF%B9tshi%E5%86%85%E6%A0%B81.6/</link><pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E9%A6%99%E8%82%A0%E6%B4%BE%E5%AF%B9tshi%E5%86%85%E6%A0%B81.6/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>香肠派对TSHI内核1.6<br>
 本次更新内容：<br>
 1.优化雷达样式<br>
@@ -125,7 +66,4 @@ TSHI666<br>
 先行服应该已经更新没效果正常</p>
 <p>陀螺仪自瞄模块.zip<br>
 注意事项：<br>
-如果你刷了这个模块陀螺仪自瞄还是没效果请刷入陀螺仪依赖</p>]]></description>
-</item>
-</channel>
-</rss>
+如果你刷了这个模块陀螺仪自瞄还是没效果请刷入陀螺仪依赖</p>]]></description></item></channel></rss>

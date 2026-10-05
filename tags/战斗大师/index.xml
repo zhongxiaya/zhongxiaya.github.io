@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>战斗大师 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E6%88%98%E6%96%97%E5%A4%A7%E5%B8%88/</link>
-        <description>战斗大师 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 16 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E6%88%98%E6%96%97%E5%A4%A7%E5%B8%88/" rel="self" type="application/rss+xml" /><item>
-    <title>Combat Master《战斗大师》解锁全部资源</title>
-    <link>https://7772027.xyz/combat-master%E6%88%98%E6%96%97%E5%A4%A7%E5%B8%88%E8%A7%A3%E9%94%81%E5%85%A8%E9%83%A8%E8%B5%84%E6%BA%90/</link>
-    <pubDate>Wed, 16 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/combat-master%E6%88%98%E6%96%97%E5%A4%A7%E5%B8%88%E8%A7%A3%E9%94%81%E5%85%A8%E9%83%A8%E8%B5%84%E6%BA%90/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>战斗大师 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E6%88%98%E6%96%97%E5%A4%A7%E5%B8%88/</link><description>战斗大师 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E6%88%98%E6%96%97%E5%A4%A7%E5%B8%88/" rel="self" type="application/rss+xml"/><item><title>Combat Master《战斗大师》解锁全部资源</title><link>https://7772027.xyz/combat-master%E6%88%98%E6%96%97%E5%A4%A7%E5%B8%88%E8%A7%A3%E9%94%81%E5%85%A8%E9%83%A8%E8%B5%84%E6%BA%90/</link><pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/combat-master%E6%88%98%E6%96%97%E5%A4%A7%E5%B8%88%E8%A7%A3%E9%94%81%E5%85%A8%E9%83%A8%E8%B5%84%E6%BA%90/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>Combat Master《战斗大师》解锁全部资源</p>
 <p>我学习 C++ 和游戏内存时做的一个简易外部「解锁全部」工具<br>
 功能：<br>
@@ -28,7 +17,4 @@
 枪械配件<br>
 迷彩<br>
 细节颜色<br>
-使用方法：</p>]]></description>
-</item>
-</channel>
-</rss>
+使用方法：</p>]]></description></item></channel></rss>

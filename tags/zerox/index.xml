@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Zerox - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/zerox/</link>
-        <description>Zerox - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 26 Aug 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/zerox/" rel="self" type="application/rss+xml" /><item>
-    <title>高能英雄ZeroX多功能辅助8.26更新</title>
-    <link>https://7772027.xyz/%E9%AB%98%E8%83%BD%E8%8B%B1%E9%9B%84zerox%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A98.26%E6%9B%B4%E6%96%B0/</link>
-    <pubDate>Wed, 26 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E9%AB%98%E8%83%BD%E8%8B%B1%E9%9B%84zerox%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A98.26%E6%9B%B4%E6%96%B0/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Zerox - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/zerox/</link><description>Zerox - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/zerox/" rel="self" type="application/rss+xml"/><item><title>高能英雄ZeroX多功能辅助8.26更新</title><link>https://7772027.xyz/%E9%AB%98%E8%83%BD%E8%8B%B1%E9%9B%84zerox%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A98.26%E6%9B%B4%E6%96%B0/</link><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E9%AB%98%E8%83%BD%E8%8B%B1%E9%9B%84zerox%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A98.26%E6%9B%B4%E6%96%B0/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>高能英雄ZeroX多功能辅助8.26更新</p>
 <p>免费版-无需卡密-直接登录:<br>
 适配：卡拉彼丘 高能英雄 远光84<br>
@@ -20,15 +9,7 @@ App 内启动<br>
 LSPosed 内开启<br>
 需自配防封<br>
 KPM模块[App设置内导出]:<br>
-兼容：5.15、6.1、6.6、6.12、6.18</p>]]></description>
-</item>
-<item>
-    <title>卡拉彼丘zero内核辅助8.26更新</title>
-    <link>https://7772027.xyz/%E5%8D%A1%E6%8B%89%E5%BD%BC%E4%B8%98zero%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.26%E6%9B%B4%E6%96%B0/</link>
-    <pubDate>Wed, 26 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E5%8D%A1%E6%8B%89%E5%BD%BC%E4%B8%98zero%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.26%E6%9B%B4%E6%96%B0/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+兼容：5.15、6.1、6.6、6.12、6.18</p>]]></description></item><item><title>卡拉彼丘zero内核辅助8.26更新</title><link>https://7772027.xyz/%E5%8D%A1%E6%8B%89%E5%BD%BC%E4%B8%98zero%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.26%E6%9B%B4%E6%96%B0/</link><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E5%8D%A1%E6%8B%89%E5%BD%BC%E4%B8%98zero%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.26%E6%9B%B4%E6%96%B0/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>卡拉彼丘zero内核辅助8.26更新</p>
 <p>免费版-无需卡密-直接登录:<br>
 适配：卡拉彼丘 高能英雄 远光84<br>
@@ -39,7 +20,4 @@ App 内启动<br>
 LSPosed 内开启<br>
 需自配防封<br>
 KPM模块[App设置内导出]:<br>
-兼容：5.15、6.1、6.6、6.12、6.18</p>]]></description>
-</item>
-</channel>
-</rss>
+兼容：5.15、6.1、6.6、6.12、6.18</p>]]></description></item></channel></rss>

@@ -1,30 +1,11 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>无名 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E6%97%A0%E5%90%8D/</link>
-        <description>无名 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 10 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E6%97%A0%E5%90%8D/" rel="self" type="application/rss+xml" /><item>
-    <title>王者荣耀无名公益内核v2.5</title>
-    <link>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8v2.5/</link>
-    <pubDate>Thu, 10 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8v2.5/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>无名 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E6%97%A0%E5%90%8D/</link><description>无名 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 10 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E6%97%A0%E5%90%8D/" rel="self" type="application/rss+xml"/><item><title>王者荣耀无名公益内核v2.5</title><link>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8v2.5/</link><pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8v2.5/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>王者荣耀无名公益内核v2.5<br>
 优化UI界面展示<br>
 优化启动交互为UI界面选择驱动设置<br>
 新增灵动岛开关悬浮<br>
 新增内存HOOK帧指令换装<br>
 可做到不开商店一帧换装<br>
-修复安卓17无法使用问题</p>]]></description>
-</item>
-<item>
-    <title>王者荣耀无名公益内核v2.4</title>
-    <link>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8v2.4/</link>
-    <pubDate>Wed, 09 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8v2.4/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+修复安卓17无法使用问题</p>]]></description></item><item><title>王者荣耀无名公益内核v2.4</title><link>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8v2.4/</link><pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8v2.4/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>王者荣耀无名公益内核v2.4</p>
 <p>优化了启动交互自动保存<br>
 无需每次输入<br>
@@ -36,60 +17,28 @@
 优化了一些读取上的逻辑<br>
 网盘下载:https://drive.uc.cn/s/6ced3968c1064?public=1<br>
 驱动在网盘里面<br>
-卡密@WMING666</p>]]></description>
-</item>
-<item>
-    <title>王者荣耀无名内核v1.8</title>
-    <link>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%86%85%E6%A0%B8v1.8/</link>
-    <pubDate>Sat, 05 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%86%85%E6%A0%B8v1.8/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+卡密@WMING666</p>]]></description></item><item><title>王者荣耀无名内核v1.8</title><link>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%86%85%E6%A0%B8v1.8/</link><pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%86%85%E6%A0%B8v1.8/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>王者荣耀无名内核v1.8</p>
 <p>彻底修复查询反转与跳主页bug<br>
 优化地图上下调整增加到500<br>
 优化自瞄逻辑尝试修复偶尔失效与异常准度问题<br>
 稍微增加野怪地图计时大小<br>
 使用查询时需要自己预选一下或者队友预选一下<br>
-这样基本刚进入bp阶段就查完了</p>]]></description>
-</item>
-<item>
-    <title>王者荣耀无名内核v2.0</title>
-    <link>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%86%85%E6%A0%B8v2.0/</link>
-    <pubDate>Sat, 05 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%86%85%E6%A0%B8v2.0/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+这样基本刚进入bp阶段就查完了</p>]]></description></item><item><title>王者荣耀无名内核v2.0</title><link>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%86%85%E6%A0%B8v2.0/</link><pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%86%85%E6%A0%B8v2.0/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>王者荣耀无名内核v2.0<br>
 彻底修复查询反转与跳主页bug<br>
 优化地图上下调整增加到500<br>
 优化自瞄逻辑尝试修复偶尔失效与异常准度问题<br>
 稍微增加野怪地图计时大小<br>
 使用查询时需要自己预选一下或者队友预选一下<br>
-这样基本刚进入bp阶段就查完了</p>]]></description>
-</item>
-<item>
-    <title>王者荣耀无名内核v2.1</title>
-    <link>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%86%85%E6%A0%B8v2.1/</link>
-    <pubDate>Sat, 05 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%86%85%E6%A0%B8v2.1/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+这样基本刚进入bp阶段就查完了</p>]]></description></item><item><title>王者荣耀无名内核v2.1</title><link>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%86%85%E6%A0%B8v2.1/</link><pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%86%85%E6%A0%B8v2.1/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>王者荣耀无名内核v2.1<br>
 修复巅峰查询有时查询不到<br>
 移除4指开关悬浮<br>
 无解密<br>
 稍微调整了一下bp查询绘制显示<br>
 恢复了上版本自瞄<br>
-修复上帝无法使用</p>]]></description>
-</item>
-<item>
-    <title>王者荣耀无名内核v1.6</title>
-    <link>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%86%85%E6%A0%B8v1.6/</link>
-    <pubDate>Thu, 03 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%86%85%E6%A0%B8v1.6/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+修复上帝无法使用</p>]]></description></item><item><title>王者荣耀无名内核v1.6</title><link>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%86%85%E6%A0%B8v1.6/</link><pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%86%85%E6%A0%B8v1.6/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>王者荣耀无名内核v1.6</p>
 <p>修复顶上技能漏视野不绘<br>
 修复部分人顶上技能漏人<br>
@@ -108,15 +57,7 @@
 修复自动换装开启悬浮点击也会触发问题<br>
 优化触摸方案隐蔽性<br>
 此版本强制更新<br>
-卡密@WMING666</p>]]></description>
-</item>
-<item>
-    <title>王者荣耀无名公益无解密内核</title>
-    <link>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%85%AC%E7%9B%8A%E6%97%A0%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B8/</link>
-    <pubDate>Tue, 01 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%85%AC%E7%9B%8A%E6%97%A0%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B8/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+卡密@WMING666</p>]]></description></item><item><title>王者荣耀无名公益无解密内核</title><link>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%85%AC%E7%9B%8A%E6%97%A0%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B8/</link><pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E5%85%AC%E7%9B%8A%E6%97%A0%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B8/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>王者荣耀无名公益无解密内核</p>
 <p>王者荣耀无名公益无解密内核<br>
 最稳泉水上帝，解锁局内165hz<br>
@@ -128,15 +69,7 @@
 巅峰排位BP查询真实游戏id段位巅峰分数<br>
 驱动支持<br>
 TwT · Paradise4.1 · Paradise5.9  · RTdev · RThook · ditpro<br>
-卡密：@WMING666</p>]]></description>
-</item>
-<item>
-    <title>王者荣耀无名绘制自瞄内核1.3</title>
-    <link>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E7%BB%98%E5%88%B6%E8%87%AA%E7%9E%84%E5%86%85%E6%A0%B81.3/</link>
-    <pubDate>Thu, 27 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E7%BB%98%E5%88%B6%E8%87%AA%E7%9E%84%E5%86%85%E6%A0%B81.3/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+卡密：@WMING666</p>]]></description></item><item><title>王者荣耀无名绘制自瞄内核1.3</title><link>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E7%BB%98%E5%88%B6%E8%87%AA%E7%9E%84%E5%86%85%E6%A0%B81.3/</link><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%97%A0%E5%90%8D%E7%BB%98%E5%88%B6%E8%87%AA%E7%9E%84%E5%86%85%E6%A0%B81.3/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>王者荣耀无名绘制自瞄内核1.3</p>
 <p>功能<br>
 地图头像  人物方框  方框技能计时<br>
@@ -159,7 +92,4 @@ TwT · Paradise4.1 · Paradise5.9  · RTdev · RThook · ditpro<br>
 驱动支持<br>
 TwT · Paradise4.1 · Paradise5.9 · LQ · RTdev · RThook · ditpro<br>
 自带小地图钳制不会出现偏头像问题<br>
-卡密@BWGZSNT</p>]]></description>
-</item>
-</channel>
-</rss>
+卡密@BWGZSNT</p>]]></description></item></channel></rss>

@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>ER - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/er/</link>
-        <description>ER - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 28 Aug 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/er/" rel="self" type="application/rss+xml" /><item>
-    <title>PUBG-ER公益内核辅助8.28更新</title>
-    <link>https://7772027.xyz/pubg-er%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.28%E6%9B%B4%E6%96%B0/</link>
-    <pubDate>Fri, 28 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/pubg-er%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.28%E6%9B%B4%E6%96%B0/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>ER - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/er/</link><description>ER - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/er/" rel="self" type="application/rss+xml"/><item><title>PUBG-ER公益内核辅助8.28更新</title><link>https://7772027.xyz/pubg-er%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.28%E6%9B%B4%E6%96%B0/</link><pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/pubg-er%E5%85%AC%E7%9B%8A%E5%86%85%E6%A0%B8%E8%BE%85%E5%8A%A98.28%E6%9B%B4%E6%96%B0/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>PUBG-ER公益内核辅助8.28更新</p>
 <p>更新日志:<br>
 1.添加了高斯模糊(安卓12以下不支持)<br>
@@ -21,7 +10,4 @@
 7.修复了大多数设备频繁掉后台的问题<br>
 8.增加了人机和真人的颜色配置<br>
 9.增加了无模块陀螺仪自瞄(没有效果就是设备不支持，别78问我了)<br>
-10.修复了多选按钮无法保存的问题</p>]]></description>
-</item>
-</channel>
-</rss>
+10.修复了多选按钮无法保存的问题</p>]]></description></item></channel></rss>

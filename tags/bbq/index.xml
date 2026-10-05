@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>BBQ - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/bbq/</link>
-        <description>BBQ - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 31 Aug 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/bbq/" rel="self" type="application/rss+xml" /><item>
-    <title>PC鹅鸭杀BBQ多功能辅助v1.8.8</title>
-    <link>https://7772027.xyz/pc%E9%B9%85%E9%B8%AD%E6%9D%80bbq%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9v1.8.8/</link>
-    <pubDate>Mon, 31 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/pc%E9%B9%85%E9%B8%AD%E6%9D%80bbq%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9v1.8.8/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>BBQ - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/bbq/</link><description>BBQ - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/bbq/" rel="self" type="application/rss+xml"/><item><title>PC鹅鸭杀BBQ多功能辅助v1.8.8</title><link>https://7772027.xyz/pc%E9%B9%85%E9%B8%AD%E6%9D%80bbq%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9v1.8.8/</link><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/pc%E9%B9%85%E9%B8%AD%E6%9D%80bbq%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A9v1.8.8/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>PC鹅鸭杀BBQ多功能辅助v1.8.8<br>
 更新内容<br>
 增加-显示死亡信息类型</p>
@@ -46,15 +35,7 @@ Windows 11驱动无法安装修复：<br>
 关闭微软易受攻击驱动程序列表.zip<br>
 如果没有效果，解决办法:<br>
 您需要重新安装Windows 11 22H2_22621.754(2022年10月)，然后通过系统中的Windows update更新到最新版本。<br>
-(此方法没有修补易受攻击的驱动程序)</p>]]></description>
-</item>
-<item>
-    <title>PC端-鹅鸭杀BBQ多功能辅助1.8.7</title>
-    <link>https://7772027.xyz/pc%E7%AB%AF-%E9%B9%85%E9%B8%AD%E6%9D%80bbq%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A91.8.7/</link>
-    <pubDate>Sun, 30 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/pc%E7%AB%AF-%E9%B9%85%E9%B8%AD%E6%9D%80bbq%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A91.8.7/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+(此方法没有修补易受攻击的驱动程序)</p>]]></description></item><item><title>PC端-鹅鸭杀BBQ多功能辅助1.8.7</title><link>https://7772027.xyz/pc%E7%AB%AF-%E9%B9%85%E9%B8%AD%E6%9D%80bbq%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A91.8.7/</link><pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/pc%E7%AB%AF-%E9%B9%85%E9%B8%AD%E6%9D%80bbq%E5%A4%9A%E5%8A%9F%E8%83%BD%E8%BE%85%E5%8A%A91.8.7/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>PC端-鹅鸭杀BBQ多功能辅助1.8.7<br>
 更新内容<br>
 匹配新版本</p>
@@ -91,7 +72,4 @@ Windows 11驱动无法安装修复：<br>
 关闭微软易受攻击驱动程序列表.zip<br>
 如果没有效果，解决办法:<br>
 您需要重新安装Windows 11 22H2_22621.754(2022年10月)，然后通过系统中的Windows update更新到最新版本。<br>
-(此方法没有修补易受攻击的驱动程序)</p>]]></description>
-</item>
-</channel>
-</rss>
+(此方法没有修补易受攻击的驱动程序)</p>]]></description></item></channel></rss>

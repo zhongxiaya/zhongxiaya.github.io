@@ -1,36 +1,14 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>TYR - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/tyr/</link>
-        <description>TYR - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 14 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/tyr/" rel="self" type="application/rss+xml" /><item>
-    <title>Tyr内部透视自喵免费辅助v1.1</title>
-    <link>https://7772027.xyz/tyr%E5%86%85%E9%83%A8%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9v1.1/</link>
-    <pubDate>Mon, 14 Sep 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/tyr%E5%86%85%E9%83%A8%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9v1.1/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Tyr - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/tyr/</link><description>Tyr - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 14 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/tyr/" rel="self" type="application/rss+xml"/><item><title>Tyr内部透视自喵免费辅助v1.1</title><link>https://7772027.xyz/tyr%E5%86%85%E9%83%A8%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9v1.1/</link><pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/tyr%E5%86%85%E9%83%A8%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A9v1.1/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>Tyr内部透视自喵免费辅助v1.1</p>
 <p>使用说明：<br>
 1.启动游戏<br>
 2.大厅界面打开 注入器 将其注入TyrClient-Win64-Shipping.exe即可。<br>
 问题：<br>
 透视功能仅在敌人出现在屏幕上或被检测到时才会显示他们的身影，这意味着服务器也只会在敌人真正可见时才发送相关数据，因此不可能出现穿墙作弊的情况。<br>
-瞄准辅助在狙击模式下无法使用。</p>]]></description>
-</item>
-<item>
-    <title>Tyr内部透视自喵免费辅助8.21</title>
-    <link>https://7772027.xyz/tyr%E5%86%85%E9%83%A8%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A98.21/</link>
-    <pubDate>Fri, 21 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/tyr%E5%86%85%E9%83%A8%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A98.21/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+瞄准辅助在狙击模式下无法使用。</p>]]></description></item><item><title>Tyr内部透视自喵免费辅助8.21</title><link>https://7772027.xyz/tyr%E5%86%85%E9%83%A8%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A98.21/</link><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/tyr%E5%86%85%E9%83%A8%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E5%85%8D%E8%B4%B9%E8%BE%85%E5%8A%A98.21/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>Tyr内部透视自喵免费辅助8.21<br>
 使用说明：<br>
 1.启动游戏<br>
 2.大厅界面打开 注入器 注入即可。</p>
 <h3 id="下载地址">下载地址：</h3>
-<p><a href="https://drive.uc.cn/s/47e00ea6a5874" target="_blank" rel="noopener noreffer ">UC网盘-免费下载</a></p>]]></description>
-</item>
-</channel>
-</rss>
+<p><a href="https://drive.uc.cn/s/47e00ea6a5874" target="_blank" rel="noopener noreffer ">UC网盘-免费下载</a></p>]]></description></item></channel></rss>

@@ -1,15 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>驱动 - 分类 - 7772027.xyz</title>
-        <link>https://7772027.xyz/categories/%E9%A9%B1%E5%8A%A8/</link>
-        <description>驱动 - 分类 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 01 Jan 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/categories/%E9%A9%B1%E5%8A%A8/" rel="self" type="application/rss+xml" /><item>
-    <title>驱动合集</title>
-    <link>https://7772027.xyz/%E9%A9%B1%E5%8A%A8%E5%90%88%E9%9B%86/</link>
-    <pubDate>Thu, 01 Jan 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E9%A9%B1%E5%8A%A8%E5%90%88%E9%9B%86/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志：</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>驱动 - 分类 - 7772027.xyz</title><link>https://7772027.xyz/categories/%E9%A9%B1%E5%8A%A8/</link><description>驱动 - 分类 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/categories/%E9%A9%B1%E5%8A%A8/" rel="self" type="application/rss+xml"/><item><title>驱动合集</title><link>https://7772027.xyz/%E9%A9%B1%E5%8A%A8%E5%90%88%E9%9B%86/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/%E9%A9%B1%E5%8A%A8%E5%90%88%E9%9B%86/</guid><description><![CDATA[<h3 id="更新日志">更新日志：</h3>
 <ul>
 <li>
 <p>下载地址内包含</p>
@@ -27,7 +16,4 @@
 <h3 id="下载地址">下载地址</h3>
 <ul>
 <li><a href="https://pan.quark.cn/s/1e048d87cce1" target="_blank" rel="noopener noreffer ">夸克网盘</a></li>
-</ul>]]></description>
-</item>
-</channel>
-</rss>
+</ul>]]></description></item></channel></rss>

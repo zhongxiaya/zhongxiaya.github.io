@@ -1,21 +1,7 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>优化 - 标签 - 7772027.xyz</title>
-        <link>https://7772027.xyz/tags/%E4%BC%98%E5%8C%96/</link>
-        <description>优化 - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 29 Aug 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E4%BC%98%E5%8C%96/" rel="self" type="application/rss+xml" /><item>
-    <title>PC三角洲行动帧率优化工具</title>
-    <link>https://7772027.xyz/pc%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%E5%B8%A7%E7%8E%87%E4%BC%98%E5%8C%96%E5%B7%A5%E5%85%B7/</link>
-    <pubDate>Sat, 29 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/pc%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%E5%B8%A7%E7%8E%87%E4%BC%98%E5%8C%96%E5%B7%A5%E5%85%B7/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>优化 - 标签 - 7772027.xyz</title><link>https://7772027.xyz/tags/%E4%BC%98%E5%8C%96/</link><description>优化 - 标签 - 7772027.xyz</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E4%BC%98%E5%8C%96/" rel="self" type="application/rss+xml"/><item><title>PC三角洲行动帧率优化工具</title><link>https://7772027.xyz/pc%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%E5%B8%A7%E7%8E%87%E4%BC%98%E5%8C%96%E5%B7%A5%E5%85%B7/</link><pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate><author>7772027.xyz</author><guid>https://7772027.xyz/pc%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%E5%B8%A7%E7%8E%87%E4%BC%98%E5%8C%96%E5%B7%A5%E5%85%B7/</guid><description><![CDATA[<h3 id="更新日志">更新日志</h3>
 <p>PC三角洲行动帧率优化工具<br>
 介绍说明<br>
 35 项优化 / 体检 / 修复能力<br>
 3 套内置方案 + 自定义方案<br>
 按项目精确复原<br>
-不修改游戏目录</p>]]></description>
-</item>
-</channel>
-</rss>
+不修改游戏目录</p>]]></description></item></channel></rss>
