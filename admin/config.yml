@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: zhongxiashiliu/yingshi
+  repo: zhongxiaya/7772027
   branch: main
   # ↓↓↓ 部署完 Cloudflare 授权代理后，把这行换成你的 Worker 地址（结尾不要加 /auth）
   base_url: https://cms-auth-7772027.workers.dev
