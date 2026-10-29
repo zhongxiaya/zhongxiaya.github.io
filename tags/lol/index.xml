@@ -1,7 +1,25 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Lol - 标签 - 7772027.xyz</title>
-        <link>http://127.0.0.1:1313/tags/lol/</link>
+        <link>https://7772027.xyz/tags/lol/</link>
         <description>Lol - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://127.0.0.1:1313/tags/lol/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 29 Oct 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/lol/" rel="self" type="application/rss+xml" /><item>
+    <title>lolm英雄联盟LV公益解密内核1.8</title>
+    <link>https://7772027.xyz/lolm%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9Flv%E5%85%AC%E7%9B%8A%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B81.8/</link>
+    <pubDate>Thu, 29 Oct 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/lolm%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9Flv%E5%85%AC%E7%9B%8A%E8%A7%A3%E5%AF%86%E5%86%85%E6%A0%B81.8/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>lolm英雄联盟LV公益解密内核1.8<br>
+10月29日更新：</p>
+<ul>
+<li>新增：twt内核支持断点上帝，相册不在加载png图片，敌方增加回城显示</li>
+<li>兼容：支持6.6内核及新系列，适配7.3赛季</li>
+</ul>
+<p>英雄联盟手游【Lv】内核1.8 🎮<br>
+UC网盘：https://drive.uc.cn/s/c81664887bf34<br>
+激活码：LV520A<br>
+10月29日更新：</p>]]></description>
+</item>
+</channel>
 </rss>

@@ -33,21 +33,5 @@
 注意：本次更新为强制更新<br>
 注意事项：部分机型驱动读取可能没效果请切换其他驱动或者使用纯C读取，内存功能只适配正式服</p>]]></description>
 </item>
-<item>
-    <title>香肠派对Zevlor工艺内核1.2</title>
-    <link>https://7772027.xyz/%E9%A6%99%E8%82%A0%E6%B4%BE%E5%AF%B9zevlor%E5%B7%A5%E8%89%BA%E5%86%85%E6%A0%B81.2_1/</link>
-    <pubDate>Fri, 21 Aug 2026 00:00:00 &#43;0000</pubDate>
-    <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E9%A6%99%E8%82%A0%E6%B4%BE%E5%AF%B9zevlor%E5%B7%A5%E8%89%BA%E5%86%85%E6%A0%B81.2_1/</guid>
-    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
-<p>香肠派对Zevlor工艺内核1.2</p>
-<p>香肠Zevlor内核1.2.sh<br>
-本次更新：<br>
-增加探头打头功能<br>
-优化了手持图片的武器图片<br>
-修复了一些武器名称错误不绘制<br>
-注意：本次更新为强制更新<br>
-注意事项：部分机型驱动读取可能没效果请切换其他驱动或者使用纯C读取，内存功能只适配正式服</p>]]></description>
-</item>
 </channel>
 </rss>

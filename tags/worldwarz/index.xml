@@ -1,0 +1,20 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>WorldWarZ - 标签 - 7772027.xyz</title>
+        <link>https://7772027.xyz/tags/worldwarz/</link>
+        <description>WorldWarZ - 标签 - 7772027.xyz</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 25 Oct 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/worldwarz/" rel="self" type="application/rss+xml" /><item>
+    <title>《World War Z》透视自喵追踪多功能免费修改器10.25</title>
+    <link>https://7772027.xyz/world-war-z%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E8%BF%BD%E8%B8%AA%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%85%8D%E8%B4%B9%E4%BF%AE%E6%94%B9%E5%99%A810.25/</link>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/world-war-z%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E8%BF%BD%E8%B8%AA%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%85%8D%E8%B4%B9%E4%BF%AE%E6%94%B9%E5%99%A810.25/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>《World War Z》透视自喵追踪多功能免费修改器10.25<br>
+使用方法<br>
+将 WWZInjector.exe 和 WWZOverlay.dll 放在同一文件夹中。启动游戏后运行注入器（加载完成后窗口会自动关闭；如果无法打开游戏，请以管理员身份运行）。INSERT = 打开菜单，END = 卸载。将鼠标悬停在任意选项上可查看简短说明。设置会保存到配置文件中。无需安装 C++ 运行库。<br>
+按键绑定 — 所有可开关功能都可以在 Config &gt; Keybinds 中绑定按键。<br>
+设置位置：配置文件保存在 %LOCALAPPDATA%\WWZOverlay。删除该文件夹即可重置所有内容。</p>]]></description>
+</item>
+</channel>
+</rss>

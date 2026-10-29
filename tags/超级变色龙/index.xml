@@ -186,15 +186,52 @@ END = 卸载<br>
 <p><a href="https://drive.uc.cn/s/47e00ea6a5874" target="_blank" rel="noopener noreffer ">UC网盘-免费下载</a></p>]]></description>
 </item>
 <item>
-    <title>超级变色龙超级猎手内部透视自喵辅助v1.4.3</title>
-    <link>https://7772027.xyz/%E8%B6%85%E7%BA%A7%E5%8F%98%E8%89%B2%E9%BE%99%E8%B6%85%E7%BA%A7%E7%8C%8E%E6%89%8B%E5%86%85%E9%83%A8%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E8%BE%85%E5%8A%A9v1.4.3_1/</link>
-    <pubDate>Fri, 21 Aug 2026 00:00:00 &#43;0000</pubDate>
+    <title>超级变色龙超级猎手内部透视自喵辅助v1.4.2</title>
+    <link>https://7772027.xyz/%E8%B6%85%E7%BA%A7%E5%8F%98%E8%89%B2%E9%BE%99%E8%B6%85%E7%BA%A7%E7%8C%8E%E6%89%8B%E5%86%85%E9%83%A8%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E8%BE%85%E5%8A%A9v1.4.2/</link>
+    <pubDate>Tue, 18 Aug 2026 00:00:00 &#43;0000</pubDate>
     <author>7772027.xyz</author>
-    <guid>https://7772027.xyz/%E8%B6%85%E7%BA%A7%E5%8F%98%E8%89%B2%E9%BE%99%E8%B6%85%E7%BA%A7%E7%8C%8E%E6%89%8B%E5%86%85%E9%83%A8%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E8%BE%85%E5%8A%A9v1.4.3_1/</guid>
+    <guid>https://7772027.xyz/%E8%B6%85%E7%BA%A7%E5%8F%98%E8%89%B2%E9%BE%99%E8%B6%85%E7%BA%A7%E7%8C%8E%E6%89%8B%E5%86%85%E9%83%A8%E9%80%8F%E8%A7%86%E8%87%AA%E5%96%B5%E8%BE%85%E5%8A%A9v1.4.2/</guid>
     <description><![CDATA[<h3 id="更新日志">更新日志</h3>
-<p>超级变色龙超级猎手内部透视自喵辅助v1.4.3</p>
-<h3 id="下载地址">下载地址：</h3>
-<p><a href="https://drive.uc.cn/s/47e00ea6a5874" target="_blank" rel="noopener noreffer ">UC网盘-免费下载</a></p>]]></description>
+<p>超级变色龙超级猎手内部透视自喵辅助v1.4.2</p>
+<p>功能：<br>
+&lt;-玩家选项-&gt;<br>
+反检测（幸存者）<br>
+无枪械冷却（猎手）<br>
+防止被踢出<br>
+&lt;-透视选项-&gt;<br>
+只显示敌人<br>
+玩家方框<br>
+玩家射线<br>
+玩家骨骼<br>
+玩家名称<br>
+玩家血量<br>
+&lt;-自喵选项-&gt;<br>
+自瞄玩家<br>
+只自喵敌人<br>
+只自喵可见<br>
+自瞄类型 - 【默认/内存】<br>
+显示自瞄范围<br>
+自定义自瞄范围<br>
+自定义自瞄按键<br>
+自定义自瞄位置<br>
+自定义自瞄平滑<br>
+&lt;-其它选项-&gt;<br>
+显示准星<br>
+全局加速<br>
+吸星大法（猎手）<br>
+快捷键：<br>
+INS = 显示|隐藏<br>
+END = 卸载<br>
+使用方法：<br>
+1.右键Steam游戏 属性-&gt;启动选项 &ldquo;-dx11&rdquo; 【PS.不添加启动选项会没效果】<br>
+2.启动游戏<br>
+3.打开影子注入器【x64】，注入到游戏<br>
+常见错误解决方法：<br>
+【错误1】<br>
+“未找到 Present 函数地址”怎么办？<br>
+→ 把 Steam 卸载掉，然后去官网重新下载安装。<br>
+【错误2】<br>
+如果弹出“更新”提示：</p>]]></description>
 </item>
 </channel>
 </rss>

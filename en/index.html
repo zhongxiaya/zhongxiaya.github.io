@@ -101,14 +101,11 @@
     </div><main class="main">
                 <div class="container"><div class="page home game-resources-home"><div class="ad-carousel" id="homeAdCarousel">
             <div class="ad-carousel-track" id="homeAdCarouselTrack">
-                <a class="ad-carousel-slide" href="https://haokawx.lot-ml.com/ProductEn/Index/bb9f7d3d57fcac5f" target="_blank">
-                    <img src="https://pics7.baidu.com/feed/5fdf8db1cb134954998555d3b8df0848d0094a14.jpeg@f_auto?token=b96f1d09a9457884b9739dca68184109" alt="广告1" loading="lazy">
+                <a class="ad-carousel-slide ad-slide-fit" href="https://haokawx.lot-ml.com/ProductEn/Index/bb9f7d3d57fcac5f" target="_blank" rel="noopener nofollow" style="--ad-bg:url('https://pics7.baidu.com/feed/5fdf8db1cb134954998555d3b8df0848d0094a14.jpeg@f_auto?token=b96f1d09a9457884b9739dca68184109')">
+                    <img src="https://pics7.baidu.com/feed/5fdf8db1cb134954998555d3b8df0848d0094a14.jpeg@f_auto?token=b96f1d09a9457884b9739dca68184109" alt="广电流量卡" loading="lazy">
                 </a>
-                <a class="ad-carousel-slide" href="https://haokawx.lot-ml.com/ProductEn/Index/bb9f7d3d57fcac5f" target="_blank">
-                    <img src="https://pics7.baidu.com/feed/5fdf8db1cb134954998555d3b8df0848d0094a14.jpeg@f_auto?token=b96f1d09a9457884b9739dca68184109" alt="广告2" loading="lazy">
-                </a>
-                <a class="ad-carousel-slide" href="https://haokawx.lot-ml.com/ProductEn/Index/bb9f7d3d57fcac5f" target="_blank">
-                    <img src="https://pics7.baidu.com/feed/5fdf8db1cb134954998555d3b8df0848d0094a14.jpeg@f_auto?token=b96f1d09a9457884b9739dca68184109" alt="广告3" loading="lazy">
+                <a class="ad-carousel-slide ad-slide-fit" href="https://vi.dwx888.com/links/33861B90" target="_blank" rel="noopener nofollow" style="--ad-bg:url('https://image.uc.cn/s/wemedia/s/upload/2026/617666c4f9de61a395740b4e8d061c36.png?x-oss-process=image/resize,w_1240/format,webp')">
+                    <img src="https://image.uc.cn/s/wemedia/s/upload/2026/617666c4f9de61a395740b4e8d061c36.png?x-oss-process=image/resize,w_1240/format,webp" alt="和平精英游戏小号" loading="lazy">
                 </a>
             </div>
             <div class="ad-carousel-dots" id="homeAdCarouselDots"></div>
@@ -271,7 +268,8 @@
                     <button class="date-nav-btn next-btn" id="nextBtn" aria-label="下一页">
                         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="9 18 15 12 9 6"/></svg>
                     </button>
-                </div><ul class="update-list" id="updateList"><li class="update-item">
+                </div><div class="update-list-wrap is-lock-disabled" id="updateListWrap">
+                <ul class="update-list" id="updateList"><li class="update-item">
                             <img class="update-item-icon" src="" alt="" width="16" height="16" loading="lazy" decoding="async">
                             <a href="https://pan.baidu.com/s/1cN0IpudxsXsscR5kAvrHDQ?pwd=8888" class="update-link">游戏内核合集</a>
                             <div class="update-bottom">
@@ -283,6 +281,7 @@
                                 <span class="post-date">2026-01-01</span>
                             </div>
                         </li></ul>
+                </div>
             </div>
         </div><div class="game-resources-section">
             <div class="game-cards-container">
@@ -630,7 +629,10 @@
         if (!track || !dotsContainer) return;
 
         const slides = track.querySelectorAll('.ad-carousel-slide');
-        if (slides.length === 0) return;
+        if (slides.length === 0) return;if (slides.length === 1) {
+            dotsContainer.style.display = 'none';
+            return;
+        }
 
         let currentIndex = 0;
         let autoTimer = null;
@@ -640,7 +642,11 @@
             const dot = document.createElement('span');
             dot.className = 'ad-carousel-dot';
             if (i === 0) dot.classList.add('active');
-            dot.addEventListener('click', function() { goTo(i); });
+            dot.addEventListener('click', function() {
+                goTo(i);
+                
+                startAuto();
+            });
             dotsContainer.appendChild(dot);
         });
 

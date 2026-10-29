@@ -1,0 +1,39 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>日式拉面模拟器 - 标签 - 7772027.xyz</title>
+        <link>https://7772027.xyz/tags/%E6%97%A5%E5%BC%8F%E6%8B%89%E9%9D%A2%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
+        <description>日式拉面模拟器 - 标签 - 7772027.xyz</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 18 Oct 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/%E6%97%A5%E5%BC%8F%E6%8B%89%E9%9D%A2%E6%A8%A1%E6%8B%9F%E5%99%A8/" rel="self" type="application/rss+xml" /><item>
+    <title>日式拉面模拟器《Japanese Ramen Simulator》Cho_Han 骰子控制器 v1.6.1</title>
+    <link>https://7772027.xyz/%E6%97%A5%E5%BC%8F%E6%8B%89%E9%9D%A2%E6%A8%A1%E6%8B%9F%E5%99%A8japanese-ramen-simulatorcho_han-%E9%AA%B0%E5%AD%90%E6%8E%A7%E5%88%B6%E5%99%A8-v1.6.1/</link>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/%E6%97%A5%E5%BC%8F%E6%8B%89%E9%9D%A2%E6%A8%A1%E6%8B%9F%E5%99%A8japanese-ramen-simulatorcho_han-%E9%AA%B0%E5%AD%90%E6%8E%A7%E5%88%B6%E5%99%A8-v1.6.1/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>日式拉面模拟器《Japanese Ramen Simulator》Cho/Han 骰子控制器 v1.6.1<br>
+使用方法</p>
+<ol>
+<li>启动《Japanese Ramen Simulator》。</li>
+<li>打开 RamenDiceControl.exe。</li>
+<li>点击“Connect（连接）”。</li>
+<li>选择“EVEN（偶数）”或“ODD（奇数）”。</li>
+<li>在游戏中押注对应结果。</li>
+<li>切换到“Normal（普通）”以停用强制功能，或完成后断开连接。<br>
+注意事项</li>
+</ol>
+<ul>
+<li>适用于 64 位 Windows。</li>
+<li>默认以普通模式启动。</li>
+<li>控制器会检查受支持的游戏版本。游戏更新后可能会失去兼容性。</li>
+<li>骰子落定后，调整结果偶尔可能会短暂显示异常。</li>
+<li>运行期间会修改游戏内存。如果控制器意外关闭，请重启游戏。</li>
+<li>已在作者自己的游戏版本上测试，其他版本未经验证。</li>
+</ul>
+<h3 id="下载地址">下载地址：</h3>
+<p><a href="https://pan.quark.cn/s/4ff6da93472d" target="_blank" rel="noopener noreffer ">夸克网盘-免费下载</a><br>
+<a href="https://pan.baidu.com/s/1JsxjYfZI1BHllnguyohPag?pwd=8888" target="_blank" rel="noopener noreffer ">百度网盘-免费下载</a><br>
+<a href="https://drive.uc.cn/s/b4e6ec7a6fa24" target="_blank" rel="noopener noreffer ">UC网盘-免费下载</a><br>
+<a href="https://pan.xunlei.com/s/VP46ew6BR-faek7qjhFqHJigA1" target="_blank" rel="noopener noreffer ">迅雷网盘-免费下载</a></p>]]></description>
+</item>
+</channel>
+</rss>

@@ -7,90 +7,2043 @@
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://7772027.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>PUBG</title>
-      <link>https://7772027.xyz/tags/pubg/</link>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/pubg/</guid>
+      <title>CS2</title>
+      <link>https://7772027.xyz/tags/cs2/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/cs2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lol</title>
+      <link>https://7772027.xyz/tags/lol/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/lol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LV</title>
+      <link>https://7772027.xyz/tags/lv/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/lv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>QQ飞车</title>
+      <link>https://7772027.xyz/tags/qq%E9%A3%9E%E8%BD%A6/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/qq%E9%A3%9E%E8%BD%A6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>爱玩</title>
+      <link>https://7772027.xyz/tags/%E7%88%B1%E7%8E%A9/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%88%B1%E7%8E%A9/</guid>
       <description></description>
     </item>
     <item>
       <title>第五人格</title>
       <link>https://7772027.xyz/tags/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC/</link>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>斗阵序列</title>
+      <link>https://7772027.xyz/tags/%E6%96%97%E9%98%B5%E5%BA%8F%E5%88%97/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%96%97%E9%98%B5%E5%BA%8F%E5%88%97/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>端游</title>
+      <link>https://7772027.xyz/tags/%E7%AB%AF%E6%B8%B8/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%AB%AF%E6%B8%B8/</guid>
       <description></description>
     </item>
     <item>
       <title>辅助</title>
       <link>https://7772027.xyz/tags/%E8%BE%85%E5%8A%A9/</link>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E8%BE%85%E5%8A%A9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>高能英雄</title>
+      <link>https://7772027.xyz/tags/%E9%AB%98%E8%83%BD%E8%8B%B1%E9%9B%84/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E9%AB%98%E8%83%BD%E8%8B%B1%E9%9B%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>汉克旅店</title>
+      <link>https://7772027.xyz/tags/%E6%B1%89%E5%85%8B%E6%97%85%E5%BA%97/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%B1%89%E5%85%8B%E6%97%85%E5%BA%97/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>合集</title>
+      <link>https://7772027.xyz/tags/%E5%90%88%E9%9B%86/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%90%88%E9%9B%86/</guid>
       <description></description>
     </item>
     <item>
       <title>和平精英</title>
       <link>https://7772027.xyz/tags/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1/</link>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>绝地求生</title>
+      <link>https://7772027.xyz/tags/%E7%BB%9D%E5%9C%B0%E6%B1%82%E7%94%9F/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%BB%9D%E5%9C%B0%E6%B1%82%E7%94%9F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>六六英雄</title>
+      <link>https://7772027.xyz/tags/%E5%85%AD%E5%85%AD%E8%8B%B1%E9%9B%84/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%85%AD%E5%85%AD%E8%8B%B1%E9%9B%84/</guid>
       <description></description>
     </item>
     <item>
       <title>内核</title>
       <link>https://7772027.xyz/tags/%E5%86%85%E6%A0%B8/</link>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E5%86%85%E6%A0%B8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>你是我们带过最差的一届</title>
+      <link>https://7772027.xyz/tags/%E4%BD%A0%E6%98%AF%E6%88%91%E4%BB%AC%E5%B8%A6%E8%BF%87%E6%9C%80%E5%B7%AE%E7%9A%84%E4%B8%80%E5%B1%8A/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%BD%A0%E6%98%AF%E6%88%91%E4%BB%AC%E5%B8%A6%E8%BF%87%E6%9C%80%E5%B7%AE%E7%9A%84%E4%B8%80%E5%B1%8A/</guid>
       <description></description>
     </item>
     <item>
       <title>三角洲</title>
       <link>https://7772027.xyz/tags/%E4%B8%89%E8%A7%92%E6%B4%B2/</link>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E4%B8%89%E8%A7%92%E6%B4%B2/</guid>
       <description></description>
     </item>
     <item>
-      <title>直装</title>
-      <link>https://7772027.xyz/tags/%E7%9B%B4%E8%A3%85/</link>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E7%9B%B4%E8%A3%85/</guid>
+      <title>失控进化</title>
+      <link>https://7772027.xyz/tags/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96/</guid>
       <description></description>
     </item>
     <item>
-      <title>APEX</title>
-      <link>https://7772027.xyz/tags/apex/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/apex/</guid>
+      <title>手游</title>
+      <link>https://7772027.xyz/tags/%E6%89%8B%E6%B8%B8/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%89%8B%E6%B8%B8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>王者荣耀</title>
+      <link>https://7772027.xyz/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>无畏契约</title>
+      <link>https://7772027.xyz/tags/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>小游戏</title>
+      <link>https://7772027.xyz/tags/%E5%B0%8F%E6%B8%B8%E6%88%8F/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%B0%8F%E6%B8%B8%E6%88%8F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>英雄联盟</title>
+      <link>https://7772027.xyz/tags/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>造梦西游</title>
+      <link>https://7772027.xyz/tags/%E9%80%A0%E6%A2%A6%E8%A5%BF%E6%B8%B8/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E9%80%A0%E6%A2%A6%E8%A5%BF%E6%B8%B8/</guid>
       <description></description>
     </item>
     <item>
       <title>Cfm</title>
       <link>https://7772027.xyz/tags/cfm/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/cfm/</guid>
       <description></description>
     </item>
     <item>
-      <title>CS2</title>
-      <link>https://7772027.xyz/tags/cs2/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/cs2/</guid>
+      <title>DayZ</title>
+      <link>https://7772027.xyz/tags/dayz/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/dayz/</guid>
       <description></description>
     </item>
     <item>
-      <title>GM</title>
-      <link>https://7772027.xyz/tags/gm/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/gm/</guid>
+      <title>DMA</title>
+      <link>https://7772027.xyz/tags/dma/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/dma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ForeWarned</title>
+      <link>https://7772027.xyz/tags/forewarned/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/forewarned/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pubg</title>
+      <link>https://7772027.xyz/tags/pubg/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/pubg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Steam</title>
+      <link>https://7772027.xyz/tags/steam/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/steam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Valorant</title>
+      <link>https://7772027.xyz/tags/valorant/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/valorant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>堡垒之夜</title>
+      <link>https://7772027.xyz/tags/%E5%A0%A1%E5%9E%92%E4%B9%8B%E5%A4%9C/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%A0%A1%E5%9E%92%E4%B9%8B%E5%A4%9C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>超凡先锋</title>
+      <link>https://7772027.xyz/tags/%E8%B6%85%E5%87%A1%E5%85%88%E9%94%8B/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%B6%85%E5%87%A1%E5%85%88%E9%94%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>弹壳特攻队</title>
+      <link>https://7772027.xyz/tags/%E5%BC%B9%E5%A3%B3%E7%89%B9%E6%94%BB%E9%98%9F/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%BC%B9%E5%A3%B3%E7%89%B9%E6%94%BB%E9%98%9F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>恶魔学家</title>
+      <link>https://7772027.xyz/tags/%E6%81%B6%E9%AD%94%E5%AD%A6%E5%AE%B6/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%81%B6%E9%AD%94%E5%AD%A6%E5%AE%B6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>绯染天空</title>
+      <link>https://7772027.xyz/tags/%E7%BB%AF%E6%9F%93%E5%A4%A9%E7%A9%BA/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%BB%AF%E6%9F%93%E5%A4%A9%E7%A9%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>开放空间</title>
+      <link>https://7772027.xyz/tags/%E5%BC%80%E6%94%BE%E7%A9%BA%E9%97%B4/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%BC%80%E6%94%BE%E7%A9%BA%E9%97%B4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>浅红2</title>
+      <link>https://7772027.xyz/tags/%E6%B5%85%E7%BA%A22/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%B5%85%E7%BA%A22/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>贪吃蛇大作战</title>
+      <link>https://7772027.xyz/tags/%E8%B4%AA%E5%90%83%E8%9B%87%E5%A4%A7%E4%BD%9C%E6%88%98/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%B4%AA%E5%90%83%E8%9B%87%E5%A4%A7%E4%BD%9C%E6%88%98/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>王牌战争</title>
+      <link>https://7772027.xyz/tags/%E7%8E%8B%E7%89%8C%E6%88%98%E4%BA%89/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%8E%8B%E7%89%8C%E6%88%98%E4%BA%89/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>蔚蓝档案</title>
+      <link>https://7772027.xyz/tags/%E8%94%9A%E8%93%9D%E6%A1%A3%E6%A1%88/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%94%9A%E8%93%9D%E6%A1%A3%E6%A1%88/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>无人深空</title>
+      <link>https://7772027.xyz/tags/%E6%97%A0%E4%BA%BA%E6%B7%B1%E7%A9%BA/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%97%A0%E4%BA%BA%E6%B7%B1%E7%A9%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>武装突袭</title>
+      <link>https://7772027.xyz/tags/%E6%AD%A6%E8%A3%85%E7%AA%81%E8%A2%AD/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%AD%A6%E8%A3%85%E7%AA%81%E8%A2%AD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>香肠派对</title>
+      <link>https://7772027.xyz/tags/%E9%A6%99%E8%82%A0%E6%B4%BE%E5%AF%B9/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E9%A6%99%E8%82%A0%E6%B4%BE%E5%AF%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>易红2</title>
+      <link>https://7772027.xyz/tags/%E6%98%93%E7%BA%A22/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%98%93%E7%BA%A22/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>萤火突击</title>
+      <link>https://7772027.xyz/tags/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>永恒之塔2</title>
+      <link>https://7772027.xyz/tags/%E6%B0%B8%E6%81%92%E4%B9%8B%E5%A1%942/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%B0%B8%E6%81%92%E4%B9%8B%E5%A1%942/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>原始人开箱啦</title>
+      <link>https://7772027.xyz/tags/%E5%8E%9F%E5%A7%8B%E4%BA%BA%E5%BC%80%E7%AE%B1%E5%95%A6/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%8E%9F%E5%A7%8B%E4%BA%BA%E5%BC%80%E7%AE%B1%E5%95%A6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>直装</title>
+      <link>https://7772027.xyz/tags/%E7%9B%B4%E8%A3%85/</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%9B%B4%E8%A3%85/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brawlhalla</title>
+      <link>https://7772027.xyz/tags/brawlhalla/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/brawlhalla/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Duckoleon</title>
+      <link>https://7772027.xyz/tags/duckoleon/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/duckoleon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Touch</title>
+      <link>https://7772027.xyz/tags/touch/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/touch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>次神光之觉醒</title>
+      <link>https://7772027.xyz/tags/%E6%AC%A1%E7%A5%9E%E5%85%89%E4%B9%8B%E8%A7%89%E9%86%92/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%AC%A1%E7%A5%9E%E5%85%89%E4%B9%8B%E8%A7%89%E9%86%92/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>地牢守护者</title>
+      <link>https://7772027.xyz/tags/%E5%9C%B0%E7%89%A2%E5%AE%88%E6%8A%A4%E8%80%85/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%9C%B0%E7%89%A2%E5%AE%88%E6%8A%A4%E8%80%85/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>飞虫大冒险</title>
+      <link>https://7772027.xyz/tags/%E9%A3%9E%E8%99%AB%E5%A4%A7%E5%86%92%E9%99%A9/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E9%A3%9E%E8%99%AB%E5%A4%A7%E5%86%92%E9%99%A9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>核噩梦</title>
+      <link>https://7772027.xyz/tags/%E6%A0%B8%E5%99%A9%E6%A2%A6/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%A0%B8%E5%99%A9%E6%A2%A6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>胜利女神</title>
+      <link>https://7772027.xyz/tags/%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>使命召唤</title>
+      <link>https://7772027.xyz/tags/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>新弹壳战机</title>
+      <link>https://7772027.xyz/tags/%E6%96%B0%E5%BC%B9%E5%A3%B3%E6%88%98%E6%9C%BA/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%96%B0%E5%BC%B9%E5%A3%B3%E6%88%98%E6%9C%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>星际战甲</title>
+      <link>https://7772027.xyz/tags/%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>修仙大陆模拟器</title>
+      <link>https://7772027.xyz/tags/%E4%BF%AE%E4%BB%99%E5%A4%A7%E9%99%86%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%BF%AE%E4%BB%99%E5%A4%A7%E9%99%86%E6%A8%A1%E6%8B%9F%E5%99%A8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>血战突袭</title>
+      <link>https://7772027.xyz/tags/%E8%A1%80%E6%88%98%E7%AA%81%E8%A2%AD/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%A1%80%E6%88%98%E7%AA%81%E8%A2%AD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>一步两步</title>
+      <link>https://7772027.xyz/tags/%E4%B8%80%E6%AD%A5%E4%B8%A4%E6%AD%A5/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%B8%80%E6%AD%A5%E4%B8%A4%E6%AD%A5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>永劫无间</title>
+      <link>https://7772027.xyz/tags/%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>雨中冒险2</title>
+      <link>https://7772027.xyz/tags/%E9%9B%A8%E4%B8%AD%E5%86%92%E9%99%A92/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E9%9B%A8%E4%B8%AD%E5%86%92%E9%99%A92/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>战斗法则</title>
+      <link>https://7772027.xyz/tags/%E6%88%98%E6%96%97%E6%B3%95%E5%88%99/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%88%98%E6%96%97%E6%B3%95%E5%88%99/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LOLM</title>
+      <link>https://7772027.xyz/tags/lolm/</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/lolm/</guid>
       <description></description>
     </item>
     <item>
       <title>MOD</title>
       <link>https://7772027.xyz/tags/mod/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/mod/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>超维进化</title>
+      <link>https://7772027.xyz/tags/%E8%B6%85%E7%BB%B4%E8%BF%9B%E5%8C%96/</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%B6%85%E7%BB%B4%E8%BF%9B%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>代号血战</title>
+      <link>https://7772027.xyz/tags/%E4%BB%A3%E5%8F%B7%E8%A1%80%E6%88%98/</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%BB%A3%E5%8F%B7%E8%A1%80%E6%88%98/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>鹅鸭杀</title>
+      <link>https://7772027.xyz/tags/%E9%B9%85%E9%B8%AD%E6%9D%80/</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E9%B9%85%E9%B8%AD%E6%9D%80/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>放置修仙</title>
+      <link>https://7772027.xyz/tags/%E6%94%BE%E7%BD%AE%E4%BF%AE%E4%BB%99/</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%94%BE%E7%BD%AE%E4%BF%AE%E4%BB%99/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>工具</title>
+      <link>https://7772027.xyz/tags/%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>僵尸世界大战</title>
+      <link>https://7772027.xyz/tags/%E5%83%B5%E5%B0%B8%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98/</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%83%B5%E5%B0%B8%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>雷霆战机</title>
+      <link>https://7772027.xyz/tags/%E9%9B%B7%E9%9C%86%E6%88%98%E6%9C%BA/</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E9%9B%B7%E9%9C%86%E6%88%98%E6%9C%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>三国大英雄</title>
+      <link>https://7772027.xyz/tags/%E4%B8%89%E5%9B%BD%E5%A4%A7%E8%8B%B1%E9%9B%84/</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%B8%89%E5%9B%BD%E5%A4%A7%E8%8B%B1%E9%9B%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>杀戮尖塔2</title>
+      <link>https://7772027.xyz/tags/%E6%9D%80%E6%88%AE%E5%B0%96%E5%A1%942/</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%9D%80%E6%88%AE%E5%B0%96%E5%A1%942/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wind</title>
+      <link>https://7772027.xyz/tags/wind/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/wind/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WorldWarZ</title>
+      <link>https://7772027.xyz/tags/worldwarz/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/worldwarz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>荒野行动</title>
+      <link>https://7772027.xyz/tags/%E8%8D%92%E9%87%8E%E8%A1%8C%E5%8A%A8/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%8D%92%E9%87%8E%E8%A1%8C%E5%8A%A8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>火影忍者</title>
+      <link>https://7772027.xyz/tags/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>乐浮岛</title>
+      <link>https://7772027.xyz/tags/%E4%B9%90%E6%B5%AE%E5%B2%9B/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%B9%90%E6%B5%AE%E5%B2%9B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>逆战</title>
+      <link>https://7772027.xyz/tags/%E9%80%86%E6%88%98/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E9%80%86%E6%88%98/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>人生巅峰</title>
+      <link>https://7772027.xyz/tags/%E4%BA%BA%E7%94%9F%E5%B7%85%E5%B3%B0/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%BA%BA%E7%94%9F%E5%B7%85%E5%B3%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>森林大冒险</title>
+      <link>https://7772027.xyz/tags/%E6%A3%AE%E6%9E%97%E5%A4%A7%E5%86%92%E9%99%A9/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%A3%AE%E6%9E%97%E5%A4%A7%E5%86%92%E9%99%A9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>神之浩劫2</title>
+      <link>https://7772027.xyz/tags/%E7%A5%9E%E4%B9%8B%E6%B5%A9%E5%8A%AB2/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%A5%9E%E4%B9%8B%E6%B5%A9%E5%8A%AB2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>贪吃蛇无尽大作战</title>
+      <link>https://7772027.xyz/tags/%E8%B4%AA%E5%90%83%E8%9B%87%E6%97%A0%E5%B0%BD%E5%A4%A7%E4%BD%9C%E6%88%98/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%B4%AA%E5%90%83%E8%9B%87%E6%97%A0%E5%B0%BD%E5%A4%A7%E4%BD%9C%E6%88%98/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>伊莫</title>
+      <link>https://7772027.xyz/tags/%E4%BC%8A%E8%8E%AB/</link>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%BC%8A%E8%8E%AB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AmongUs</title>
+      <link>https://7772027.xyz/tags/amongus/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/amongus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arcraiders</title>
+      <link>https://7772027.xyz/tags/arcraiders/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/arcraiders/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BlueArchive</title>
+      <link>https://7772027.xyz/tags/bluearchive/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/bluearchive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DeadPoly</title>
+      <link>https://7772027.xyz/tags/deadpoly/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/deadpoly/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Evitania</title>
+      <link>https://7772027.xyz/tags/evitania/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/evitania/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Silica</title>
+      <link>https://7772027.xyz/tags/silica/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/silica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>奥特曼</title>
+      <link>https://7772027.xyz/tags/%E5%A5%A5%E7%89%B9%E6%9B%BC/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%A5%A5%E7%89%B9%E6%9B%BC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>超级动物大逃杀</title>
+      <link>https://7772027.xyz/tags/%E8%B6%85%E7%BA%A7%E5%8A%A8%E7%89%A9%E5%A4%A7%E9%80%83%E6%9D%80/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%B6%85%E7%BA%A7%E5%8A%A8%E7%89%A9%E5%A4%A7%E9%80%83%E6%9D%80/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>换肤</title>
+      <link>https://7772027.xyz/tags/%E6%8D%A2%E8%82%A4/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%8D%A2%E8%82%A4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>软泥星球</title>
+      <link>https://7772027.xyz/tags/%E8%BD%AF%E6%B3%A5%E6%98%9F%E7%90%83/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%BD%AF%E6%B3%A5%E6%98%9F%E7%90%83/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>赛博朋克2077</title>
+      <link>https://7772027.xyz/tags/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>守望先锋</title>
+      <link>https://7772027.xyz/tags/%E5%AE%88%E6%9C%9B%E5%85%88%E9%94%8B/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%AE%88%E6%9C%9B%E5%85%88%E9%94%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>坦克世界闪电战</title>
+      <link>https://7772027.xyz/tags/%E5%9D%A6%E5%85%8B%E4%B8%96%E7%95%8C%E9%97%AA%E7%94%B5%E6%88%98/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%9D%A6%E5%85%8B%E4%B8%96%E7%95%8C%E9%97%AA%E7%94%B5%E6%88%98/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>天使</title>
+      <link>https://7772027.xyz/tags/%E5%A4%A9%E4%BD%BF/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%A4%A9%E4%BD%BF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>心动小镇</title>
+      <link>https://7772027.xyz/tags/%E5%BF%83%E5%8A%A8%E5%B0%8F%E9%95%87/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%BF%83%E5%8A%A8%E5%B0%8F%E9%95%87/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>战狗</title>
+      <link>https://7772027.xyz/tags/%E6%88%98%E7%8B%97/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%88%98%E7%8B%97/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>镇邪人</title>
+      <link>https://7772027.xyz/tags/%E9%95%87%E9%82%AA%E4%BA%BA/</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E9%95%87%E9%82%AA%E4%BA%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meccha</title>
+      <link>https://7772027.xyz/tags/meccha/</link>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/meccha/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pokemon</title>
+      <link>https://7772027.xyz/tags/pokemon/</link>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/pokemon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>次神光之</title>
+      <link>https://7772027.xyz/tags/%E6%AC%A1%E7%A5%9E%E5%85%89%E4%B9%8B/</link>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%AC%A1%E7%A5%9E%E5%85%89%E4%B9%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>魔法</title>
+      <link>https://7772027.xyz/tags/%E9%AD%94%E6%B3%95/</link>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E9%AD%94%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>泰拉瑞亚</title>
+      <link>https://7772027.xyz/tags/%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A/</link>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ayu</title>
+      <link>https://7772027.xyz/tags/ayu/</link>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/ayu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>归零者</title>
+      <link>https://7772027.xyz/tags/%E5%BD%92%E9%9B%B6%E8%80%85/</link>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%BD%92%E9%9B%B6%E8%80%85/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>疾风战纪</title>
+      <link>https://7772027.xyz/tags/%E7%96%BE%E9%A3%8E%E6%88%98%E7%BA%AA/</link>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%96%BE%E9%A3%8E%E6%88%98%E7%BA%AA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>绝区零</title>
+      <link>https://7772027.xyz/tags/%E7%BB%9D%E5%8C%BA%E9%9B%B6/</link>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%BB%9D%E5%8C%BA%E9%9B%B6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>零口径</title>
+      <link>https://7772027.xyz/tags/%E9%9B%B6%E5%8F%A3%E5%BE%84/</link>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E9%9B%B6%E5%8F%A3%E5%BE%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>迷你枪战</title>
+      <link>https://7772027.xyz/tags/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98/</link>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>血c合集</title>
+      <link>https://7772027.xyz/tags/%E8%A1%80c%E5%90%88%E9%9B%86/</link>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%A1%80c%E5%90%88%E9%9B%86/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>异环</title>
+      <link>https://7772027.xyz/tags/%E5%BC%82%E7%8E%AF/</link>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%BC%82%E7%8E%AF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>战争雷霆</title>
+      <link>https://7772027.xyz/tags/%E6%88%98%E4%BA%89%E9%9B%B7%E9%9C%86/</link>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%88%98%E4%BA%89%E9%9B%B7%E9%9C%86/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>何为仙</title>
+      <link>https://7772027.xyz/tags/%E4%BD%95%E4%B8%BA%E4%BB%99/</link>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%BD%95%E4%B8%BA%E4%BB%99/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>凌云记</title>
+      <link>https://7772027.xyz/tags/%E5%87%8C%E4%BA%91%E8%AE%B0/</link>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%87%8C%E4%BA%91%E8%AE%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>喵星联盟</title>
+      <link>https://7772027.xyz/tags/%E5%96%B5%E6%98%9F%E8%81%94%E7%9B%9F/</link>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%96%B5%E6%98%9F%E8%81%94%E7%9B%9F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>死锁</title>
+      <link>https://7772027.xyz/tags/%E6%AD%BB%E9%94%81/</link>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%AD%BB%E9%94%81/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>台球</title>
+      <link>https://7772027.xyz/tags/%E5%8F%B0%E7%90%83/</link>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%8F%B0%E7%90%83/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>桌球</title>
+      <link>https://7772027.xyz/tags/%E6%A1%8C%E7%90%83/</link>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%A1%8C%E7%90%83/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ai自瞄</title>
+      <link>https://7772027.xyz/tags/ai%E8%87%AA%E7%9E%84/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/ai%E8%87%AA%E7%9E%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eterspire</title>
+      <link>https://7772027.xyz/tags/eterspire/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/eterspire/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Farever</title>
+      <link>https://7772027.xyz/tags/farever/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/farever/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>安卓</title>
+      <link>https://7772027.xyz/tags/%E5%AE%89%E5%8D%93/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%AE%89%E5%8D%93/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>迷雾大陆</title>
+      <link>https://7772027.xyz/tags/%E8%BF%B7%E9%9B%BE%E5%A4%A7%E9%99%86/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%BF%B7%E9%9B%BE%E5%A4%A7%E9%99%86/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>赛博朋克</title>
+      <link>https://7772027.xyz/tags/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>散兵坑</title>
+      <link>https://7772027.xyz/tags/%E6%95%A3%E5%85%B5%E5%9D%91/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%95%A3%E5%85%B5%E5%9D%91/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>山海记</title>
+      <link>https://7772027.xyz/tags/%E5%B1%B1%E6%B5%B7%E8%AE%B0/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%B1%B1%E6%B5%B7%E8%AE%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>使命召唤现代战争3</title>
+      <link>https://7772027.xyz/tags/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4%E7%8E%B0%E4%BB%A3%E6%88%98%E4%BA%893/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4%E7%8E%B0%E4%BB%A3%E6%88%98%E4%BA%893/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>我比武特牛</title>
+      <link>https://7772027.xyz/tags/%E6%88%91%E6%AF%94%E6%AD%A6%E7%89%B9%E7%89%9B/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%88%91%E6%AF%94%E6%AD%A6%E7%89%B9%E7%89%9B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>小程序</title>
+      <link>https://7772027.xyz/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>血战突装</title>
+      <link>https://7772027.xyz/tags/%E8%A1%80%E6%88%98%E7%AA%81%E8%A3%85/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%A1%80%E6%88%98%E7%AA%81%E8%A3%85/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>致命公司</title>
+      <link>https://7772027.xyz/tags/%E8%87%B4%E5%91%BD%E5%85%AC%E5%8F%B8/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%87%B4%E5%91%BD%E5%85%AC%E5%8F%B8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deadlock</title>
+      <link>https://7772027.xyz/tags/deadlock/</link>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/deadlock/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>弹壳战机</title>
+      <link>https://7772027.xyz/tags/%E5%BC%B9%E5%A3%B3%E6%88%98%E6%9C%BA/</link>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%BC%B9%E5%A3%B3%E6%88%98%E6%9C%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>地铁</title>
+      <link>https://7772027.xyz/tags/%E5%9C%B0%E9%93%81/</link>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%9C%B0%E9%93%81/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>对峙2</title>
+      <link>https://7772027.xyz/tags/%E5%AF%B9%E5%B3%992/</link>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%AF%B9%E5%B3%992/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>孤岛惊魂3</title>
+      <link>https://7772027.xyz/tags/%E5%AD%A4%E5%B2%9B%E6%83%8A%E9%AD%823/</link>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%AD%A4%E5%B2%9B%E6%83%8A%E9%AD%823/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>猛鬼追魂复苏</title>
+      <link>https://7772027.xyz/tags/%E7%8C%9B%E9%AC%BC%E8%BF%BD%E9%AD%82%E5%A4%8D%E8%8B%8F/</link>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%8C%9B%E9%AC%BC%E8%BF%BD%E9%AD%82%E5%A4%8D%E8%8B%8F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>免root</title>
+      <link>https://7772027.xyz/tags/%E5%85%8Droot/</link>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%85%8Droot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>全面战争战锤3</title>
+      <link>https://7772027.xyz/tags/%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89%E6%88%98%E9%94%A43/</link>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89%E6%88%98%E9%94%A43/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>小小勇者</title>
+      <link>https://7772027.xyz/tags/%E5%B0%8F%E5%B0%8F%E5%8B%87%E8%80%85/</link>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%B0%8F%E5%B0%8F%E5%8B%87%E8%80%85/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>星穹铁道</title>
+      <link>https://7772027.xyz/tags/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93/</link>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>严阵以待</title>
+      <link>https://7772027.xyz/tags/%E4%B8%A5%E9%98%B5%E4%BB%A5%E5%BE%85/</link>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%B8%A5%E9%98%B5%E4%BB%A5%E5%BE%85/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>英灵神殿</title>
+      <link>https://7772027.xyz/tags/%E8%8B%B1%E7%81%B5%E7%A5%9E%E6%AE%BF/</link>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%8B%B1%E7%81%B5%E7%A5%9E%E6%AE%BF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>德州电锯杀人狂</title>
+      <link>https://7772027.xyz/tags/%E5%BE%B7%E5%B7%9E%E7%94%B5%E9%94%AF%E6%9D%80%E4%BA%BA%E7%8B%82/</link>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%BE%B7%E5%B7%9E%E7%94%B5%E9%94%AF%E6%9D%80%E4%BA%BA%E7%8B%82/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>街区战争2</title>
+      <link>https://7772027.xyz/tags/%E8%A1%97%E5%8C%BA%E6%88%98%E4%BA%892/</link>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%A1%97%E5%8C%BA%E6%88%98%E4%BA%892/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>恐鬼症</title>
+      <link>https://7772027.xyz/tags/%E6%81%90%E9%AC%BC%E7%97%87/</link>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%81%90%E9%AC%BC%E7%97%87/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>秘密实验室</title>
+      <link>https://7772027.xyz/tags/%E7%A7%98%E5%AF%86%E5%AE%9E%E9%AA%8C%E5%AE%A4/</link>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%A7%98%E5%AF%86%E5%AE%9E%E9%AA%8C%E5%AE%A4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>免广告</title>
+      <link>https://7772027.xyz/tags/%E5%85%8D%E5%B9%BF%E5%91%8A/</link>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%85%8D%E5%B9%BF%E5%91%8A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>七日杀</title>
+      <link>https://7772027.xyz/tags/%E4%B8%83%E6%97%A5%E6%9D%80/</link>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%B8%83%E6%97%A5%E6%9D%80/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>日式拉面模拟器</title>
+      <link>https://7772027.xyz/tags/%E6%97%A5%E5%BC%8F%E6%8B%89%E9%9D%A2%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%97%A5%E5%BC%8F%E6%8B%89%E9%9D%A2%E6%A8%A1%E6%8B%9F%E5%99%A8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>我的世界</title>
+      <link>https://7772027.xyz/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/</link>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>无主之地4</title>
+      <link>https://7772027.xyz/tags/%E6%97%A0%E4%B8%BB%E4%B9%8B%E5%9C%B04/</link>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%97%A0%E4%B8%BB%E4%B9%8B%E5%9C%B04/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>下方了</title>
+      <link>https://7772027.xyz/tags/%E4%B8%8B%E6%96%B9%E4%BA%86/</link>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%B8%8B%E6%96%B9%E4%BA%86/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>月光光心慌慌</title>
+      <link>https://7772027.xyz/tags/%E6%9C%88%E5%85%89%E5%85%89%E5%BF%83%E6%85%8C%E6%85%8C/</link>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%9C%88%E5%85%89%E5%85%89%E5%BF%83%E6%85%8C%E6%85%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>桌面破坏神</title>
+      <link>https://7772027.xyz/tags/%E6%A1%8C%E9%9D%A2%E7%A0%B4%E5%9D%8F%E7%A5%9E/</link>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%A1%8C%E9%9D%A2%E7%A0%B4%E5%9D%8F%E7%A5%9E/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WARDOGS</title>
+      <link>https://7772027.xyz/tags/wardogs/</link>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/wardogs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>改文件</title>
+      <link>https://7772027.xyz/tags/%E6%94%B9%E6%96%87%E4%BB%B6/</link>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%94%B9%E6%96%87%E4%BB%B6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>光遇</title>
+      <link>https://7772027.xyz/tags/%E5%85%89%E9%81%87/</link>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%85%89%E9%81%87/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>国际服</title>
+      <link>https://7772027.xyz/tags/%E5%9B%BD%E9%99%85%E6%9C%8D/</link>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%9B%BD%E9%99%85%E6%9C%8D/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>机械战争3</title>
+      <link>https://7772027.xyz/tags/%E6%9C%BA%E6%A2%B0%E6%88%98%E4%BA%893/</link>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%9C%BA%E6%A2%B0%E6%88%98%E4%BA%893/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>卡拉彼丘</title>
+      <link>https://7772027.xyz/tags/%E5%8D%A1%E6%8B%89%E5%BD%BC%E4%B8%98/</link>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%8D%A1%E6%8B%89%E5%BD%BC%E4%B8%98/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>漫威争锋</title>
+      <link>https://7772027.xyz/tags/%E6%BC%AB%E5%A8%81%E4%BA%89%E9%94%8B/</link>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%BC%AB%E5%A8%81%E4%BA%89%E9%94%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>生存33天</title>
+      <link>https://7772027.xyz/tags/%E7%94%9F%E5%AD%9833%E5%A4%A9/</link>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%94%9F%E5%AD%9833%E5%A4%A9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>于嫣</title>
+      <link>https://7772027.xyz/tags/%E4%BA%8E%E5%AB%A3/</link>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%BA%8E%E5%AB%A3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>单机版</title>
+      <link>https://7772027.xyz/tags/%E5%8D%95%E6%9C%BA%E7%89%88/</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%8D%95%E6%9C%BA%E7%89%88/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>烽火将魂</title>
+      <link>https://7772027.xyz/tags/%E7%83%BD%E7%81%AB%E5%B0%86%E9%AD%82/</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%83%BD%E7%81%AB%E5%B0%86%E9%AD%82/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>海绵</title>
+      <link>https://7772027.xyz/tags/%E6%B5%B7%E7%BB%B5/</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%B5%B7%E7%BB%B5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>荒野的召唤</title>
+      <link>https://7772027.xyz/tags/%E8%8D%92%E9%87%8E%E7%9A%84%E5%8F%AC%E5%94%A4/</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%8D%92%E9%87%8E%E7%9A%84%E5%8F%AC%E5%94%A4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>江山霸主</title>
+      <link>https://7772027.xyz/tags/%E6%B1%9F%E5%B1%B1%E9%9C%B8%E4%B8%BB/</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%B1%9F%E5%B1%B1%E9%9C%B8%E4%B8%BB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>九州异兽记</title>
+      <link>https://7772027.xyz/tags/%E4%B9%9D%E5%B7%9E%E5%BC%82%E5%85%BD%E8%AE%B0/</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%B9%9D%E5%B7%9E%E5%BC%82%E5%85%BD%E8%AE%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>美化</title>
+      <link>https://7772027.xyz/tags/%E7%BE%8E%E5%8C%96/</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%BE%8E%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>赛尔号</title>
+      <link>https://7772027.xyz/tags/%E8%B5%9B%E5%B0%94%E5%8F%B7/</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%B5%9B%E5%B0%94%E5%8F%B7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>上古卷轴5</title>
+      <link>https://7772027.xyz/tags/%E4%B8%8A%E5%8F%A4%E5%8D%B7%E8%BD%B45/</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%B8%8A%E5%8F%A4%E5%8D%B7%E8%BD%B45/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>血c</title>
+      <link>https://7772027.xyz/tags/%E8%A1%80c/</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%A1%80c/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>寻道大千</title>
+      <link>https://7772027.xyz/tags/%E5%AF%BB%E9%81%93%E5%A4%A7%E5%8D%83/</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%AF%BB%E9%81%93%E5%A4%A7%E5%8D%83/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>原神</title>
+      <link>https://7772027.xyz/tags/%E5%8E%9F%E7%A5%9E/</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%8E%9F%E7%A5%9E/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>战双帕弥什</title>
+      <link>https://7772027.xyz/tags/%E6%88%98%E5%8F%8C%E5%B8%95%E5%BC%A5%E4%BB%80/</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%88%98%E5%8F%8C%E5%B8%95%E5%BC%A5%E4%BB%80/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>助手</title>
+      <link>https://7772027.xyz/tags/%E5%8A%A9%E6%89%8B/</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%8A%A9%E6%89%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>H1Z1</title>
+      <link>https://7772027.xyz/tags/h1z1/</link>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/h1z1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HoodWarfare2</title>
+      <link>https://7772027.xyz/tags/hoodwarfare2/</link>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/hoodwarfare2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hytale</title>
+      <link>https://7772027.xyz/tags/hytale/</link>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/hytale/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OVO</title>
+      <link>https://7772027.xyz/tags/ovo/</link>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/ovo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>暗区突围</title>
+      <link>https://7772027.xyz/tags/%E6%9A%97%E5%8C%BA%E7%AA%81%E5%9B%B4/</link>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%9A%97%E5%8C%BA%E7%AA%81%E5%9B%B4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>池鸳</title>
+      <link>https://7772027.xyz/tags/%E6%B1%A0%E9%B8%B3/</link>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%B1%A0%E9%B8%B3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>吞噬</title>
+      <link>https://7772027.xyz/tags/%E5%90%9E%E5%99%AC/</link>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%90%9E%E5%99%AC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>终末地</title>
+      <link>https://7772027.xyz/tags/%E7%BB%88%E6%9C%AB%E5%9C%B0/</link>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%BB%88%E6%9C%AB%E5%9C%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PC</title>
+      <link>https://7772027.xyz/tags/pc/</link>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/pc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>背包乱斗</title>
+      <link>https://7772027.xyz/tags/%E8%83%8C%E5%8C%85%E4%B9%B1%E6%96%97/</link>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%83%8C%E5%8C%85%E4%B9%B1%E6%96%97/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>地精捣蛋团</title>
+      <link>https://7772027.xyz/tags/%E5%9C%B0%E7%B2%BE%E6%8D%A3%E8%9B%8B%E5%9B%A2/</link>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%9C%B0%E7%B2%BE%E6%8D%A3%E8%9B%8B%E5%9B%A2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>钓鱼世界</title>
+      <link>https://7772027.xyz/tags/%E9%92%93%E9%B1%BC%E4%B8%96%E7%95%8C/</link>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E9%92%93%E9%B1%BC%E4%B8%96%E7%95%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>绝地潜兵2</title>
+      <link>https://7772027.xyz/tags/%E7%BB%9D%E5%9C%B0%E6%BD%9C%E5%85%B52/</link>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%BB%9D%E5%9C%B0%E6%BD%9C%E5%85%B52/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>迷宫探险</title>
+      <link>https://7772027.xyz/tags/%E8%BF%B7%E5%AE%AB%E6%8E%A2%E9%99%A9/</link>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%BF%B7%E5%AE%AB%E6%8E%A2%E9%99%A9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>明日方舟</title>
+      <link>https://7772027.xyz/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/</link>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>全面战争</title>
+      <link>https://7772027.xyz/tags/%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89/</link>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>幸福工厂</title>
+      <link>https://7772027.xyz/tags/%E5%B9%B8%E7%A6%8F%E5%B7%A5%E5%8E%82/</link>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%B9%B8%E7%A6%8F%E5%B7%A5%E5%8E%82/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CSGO2</title>
+      <link>https://7772027.xyz/tags/csgo2/</link>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/csgo2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>狩猎之道2</title>
+      <link>https://7772027.xyz/tags/%E7%8B%A9%E7%8C%8E%E4%B9%8B%E9%81%932/</link>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%8B%A9%E7%8C%8E%E4%B9%8B%E9%81%932/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>侠盗公司</title>
+      <link>https://7772027.xyz/tags/%E4%BE%A0%E7%9B%97%E5%85%AC%E5%8F%B8/</link>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%BE%A0%E7%9B%97%E5%85%AC%E5%8F%B8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>越来越黑暗</title>
+      <link>https://7772027.xyz/tags/%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%BB%91%E6%9A%97/</link>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%BB%91%E6%9A%97/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>保镖</title>
+      <link>https://7772027.xyz/tags/%E4%BF%9D%E9%95%96/</link>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%BF%9D%E9%95%96/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>僵尸毁灭工程</title>
+      <link>https://7772027.xyz/tags/%E5%83%B5%E5%B0%B8%E6%AF%81%E7%81%AD%E5%B7%A5%E7%A8%8B/</link>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%83%B5%E5%B0%B8%E6%AF%81%E7%81%AD%E5%B7%A5%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>超自然行动</title>
+      <link>https://7772027.xyz/tags/%E8%B6%85%E8%87%AA%E7%84%B6%E8%A1%8C%E5%8A%A8/</link>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%B6%85%E8%87%AA%E7%84%B6%E8%A1%8C%E5%8A%A8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>穿越火线手游</title>
+      <link>https://7772027.xyz/tags/%E7%A9%BF%E8%B6%8A%E7%81%AB%E7%BA%BF%E6%89%8B%E6%B8%B8/</link>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%A9%BF%E8%B6%8A%E7%81%AB%E7%BA%BF%E6%89%8B%E6%B8%B8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>萌宠猎宝</title>
+      <link>https://7772027.xyz/tags/%E8%90%8C%E5%AE%A0%E7%8C%8E%E5%AE%9D/</link>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%90%8C%E5%AE%A0%E7%8C%8E%E5%AE%9D/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>远光84</title>
+      <link>https://7772027.xyz/tags/%E8%BF%9C%E5%85%8984/</link>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%BF%9C%E5%85%8984/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>追迹迷城</title>
+      <link>https://7772027.xyz/tags/%E8%BF%BD%E8%BF%B9%E8%BF%B7%E5%9F%8E/</link>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%BF%BD%E8%BF%B9%E8%BF%B7%E5%9F%8E/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>地面部队</title>
+      <link>https://7772027.xyz/tags/%E5%9C%B0%E9%9D%A2%E9%83%A8%E9%98%9F/</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%9C%B0%E9%9D%A2%E9%83%A8%E9%98%9F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>火炬之光2</title>
+      <link>https://7772027.xyz/tags/%E7%81%AB%E7%82%AC%E4%B9%8B%E5%85%892/</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%81%AB%E7%82%AC%E4%B9%8B%E5%85%892/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>加里波利</title>
+      <link>https://7772027.xyz/tags/%E5%8A%A0%E9%87%8C%E6%B3%A2%E5%88%A9/</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%8A%A0%E9%87%8C%E6%B3%A2%E5%88%A9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>减CD</title>
+      <link>https://7772027.xyz/tags/%E5%87%8Fcd/</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%87%8Fcd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>猛鬼追魂</title>
+      <link>https://7772027.xyz/tags/%E7%8C%9B%E9%AC%BC%E8%BF%BD%E9%AD%82/</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%8C%9B%E9%AC%BC%E8%BF%BD%E9%AD%82/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>迷你世界枪战</title>
+      <link>https://7772027.xyz/tags/%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C%E6%9E%AA%E6%88%98/</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C%E6%9E%AA%E6%88%98/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>潜行者2</title>
+      <link>https://7772027.xyz/tags/%E6%BD%9C%E8%A1%8C%E8%80%852/</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%BD%9C%E8%A1%8C%E8%80%852/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>逃跑吧少年</title>
+      <link>https://7772027.xyz/tags/%E9%80%83%E8%B7%91%E5%90%A7%E5%B0%91%E5%B9%B4/</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E9%80%83%E8%B7%91%E5%90%A7%E5%B0%91%E5%B9%B4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AION2</title>
+      <link>https://7772027.xyz/tags/aion2/</link>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/aion2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>APEWAR</title>
+      <link>https://7772027.xyz/tags/apewar/</link>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/apewar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>创造与魔法</title>
+      <link>https://7772027.xyz/tags/%E5%88%9B%E9%80%A0%E4%B8%8E%E9%AD%94%E6%B3%95/</link>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%88%9B%E9%80%A0%E4%B8%8E%E9%AD%94%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>帝国时代2</title>
+      <link>https://7772027.xyz/tags/%E5%B8%9D%E5%9B%BD%E6%97%B6%E4%BB%A32/</link>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%B8%9D%E5%9B%BD%E6%97%B6%E4%BB%A32/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>机械狂欢</title>
+      <link>https://7772027.xyz/tags/%E6%9C%BA%E6%A2%B0%E7%8B%82%E6%AC%A2/</link>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%9C%BA%E6%A2%B0%E7%8B%82%E6%AC%A2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>军团要塞2</title>
+      <link>https://7772027.xyz/tags/%E5%86%9B%E5%9B%A2%E8%A6%81%E5%A1%9E2/</link>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%86%9B%E5%9B%A2%E8%A6%81%E5%A1%9E2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>猎人</title>
+      <link>https://7772027.xyz/tags/%E7%8C%8E%E4%BA%BA/</link>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%8C%8E%E4%BA%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>毛豆</title>
+      <link>https://7772027.xyz/tags/%E6%AF%9B%E8%B1%86/</link>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%AF%9B%E8%B1%86/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>逃离塔科夫</title>
+      <link>https://7772027.xyz/tags/%E9%80%83%E7%A6%BB%E5%A1%94%E7%A7%91%E5%A4%AB/</link>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E9%80%83%E7%A6%BB%E5%A1%94%E7%A7%91%E5%A4%AB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>棕色尘埃2</title>
+      <link>https://7772027.xyz/tags/%E6%A3%95%E8%89%B2%E5%B0%98%E5%9F%832/</link>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%A3%95%E8%89%B2%E5%B0%98%E5%9F%832/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eo</title>
+      <link>https://7772027.xyz/tags/eo/</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/eo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>单机</title>
+      <link>https://7772027.xyz/tags/%E5%8D%95%E6%9C%BA/</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%8D%95%E6%9C%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>鬼魂</title>
+      <link>https://7772027.xyz/tags/%E9%AC%BC%E9%AD%82/</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E9%AC%BC%E9%AD%82/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>黑神话悟空</title>
+      <link>https://7772027.xyz/tags/%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA/</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>绝地鸭卫</title>
+      <link>https://7772027.xyz/tags/%E7%BB%9D%E5%9C%B0%E9%B8%AD%E5%8D%AB/</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%BB%9D%E5%9C%B0%E9%B8%AD%E5%8D%AB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>迷你世界</title>
+      <link>https://7772027.xyz/tags/%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C/</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>气球塔防6</title>
+      <link>https://7772027.xyz/tags/%E6%B0%94%E7%90%83%E5%A1%94%E9%98%B26/</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%B0%94%E7%90%83%E5%A1%94%E9%98%B26/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>曙光之城</title>
+      <link>https://7772027.xyz/tags/%E6%9B%99%E5%85%89%E4%B9%8B%E5%9F%8E/</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%9B%99%E5%85%89%E4%B9%8B%E5%9F%8E/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>索尼克赛车</title>
+      <link>https://7772027.xyz/tags/%E7%B4%A2%E5%B0%BC%E5%85%8B%E8%B5%9B%E8%BD%A6/</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%B4%A2%E5%B0%BC%E5%85%8B%E8%B5%9B%E8%BD%A6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>太空沙</title>
+      <link>https://7772027.xyz/tags/%E5%A4%AA%E7%A9%BA%E6%B2%99/</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%A4%AA%E7%A9%BA%E6%B2%99/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>无尽探险队</title>
+      <link>https://7772027.xyz/tags/%E6%97%A0%E5%B0%BD%E6%8E%A2%E9%99%A9%E9%98%9F/</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%97%A0%E5%B0%BD%E6%8E%A2%E9%99%A9%E9%98%9F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>猩球保卫战</title>
+      <link>https://7772027.xyz/tags/%E7%8C%A9%E7%90%83%E4%BF%9D%E5%8D%AB%E6%88%98/</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%8C%A9%E7%90%83%E4%BF%9D%E5%8D%AB%E6%88%98/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>修改器</title>
+      <link>https://7772027.xyz/tags/%E4%BF%AE%E6%94%B9%E5%99%A8/</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%BF%AE%E6%94%B9%E5%99%A8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>在我们当中</title>
+      <link>https://7772027.xyz/tags/%E5%9C%A8%E6%88%91%E4%BB%AC%E5%BD%93%E4%B8%AD/</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%9C%A8%E6%88%91%E4%BB%AC%E5%BD%93%E4%B8%AD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>战地4</title>
+      <link>https://7772027.xyz/tags/%E6%88%98%E5%9C%B04/</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%88%98%E5%9C%B04/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GM</title>
+      <link>https://7772027.xyz/tags/gm/</link>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/gm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>创世战争</title>
+      <link>https://7772027.xyz/tags/%E5%88%9B%E4%B8%96%E6%88%98%E4%BA%89/</link>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%88%9B%E4%B8%96%E6%88%98%E4%BA%89/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>生死狙击</title>
+      <link>https://7772027.xyz/tags/%E7%94%9F%E6%AD%BB%E7%8B%99%E5%87%BB/</link>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%94%9F%E6%AD%BB%E7%8B%99%E5%87%BB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>天启者</title>
+      <link>https://7772027.xyz/tags/%E5%A4%A9%E5%90%AF%E8%80%85/</link>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%A4%A9%E5%90%AF%E8%80%85/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>以撒的结合</title>
+      <link>https://7772027.xyz/tags/%E4%BB%A5%E6%92%92%E7%9A%84%E7%BB%93%E5%90%88/</link>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%BB%A5%E6%92%92%E7%9A%84%E7%BB%93%E5%90%88/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NV</title>
+      <link>https://7772027.xyz/tags/nv/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/nv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>捕鱼</title>
+      <link>https://7772027.xyz/tags/%E6%8D%95%E9%B1%BC/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%8D%95%E9%B1%BC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>彩虹六号</title>
+      <link>https://7772027.xyz/tags/%E5%BD%A9%E8%99%B9%E5%85%AD%E5%8F%B7/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%BD%A9%E8%99%B9%E5%85%AD%E5%8F%B7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>辐射4</title>
+      <link>https://7772027.xyz/tags/%E8%BE%90%E5%B0%844/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%BE%90%E5%B0%844/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>横扫天下</title>
+      <link>https://7772027.xyz/tags/%E6%A8%AA%E6%89%AB%E5%A4%A9%E4%B8%8B/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%A8%AA%E6%89%AB%E5%A4%A9%E4%B8%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>修仙</title>
+      <link>https://7772027.xyz/tags/%E4%BF%AE%E4%BB%99/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E4%BF%AE%E4%BB%99/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BO2</title>
+      <link>https://7772027.xyz/tags/bo2/</link>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/bo2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Peak</title>
+      <link>https://7772027.xyz/tags/peak/</link>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/peak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>劫盗惊魂夜</title>
+      <link>https://7772027.xyz/tags/%E5%8A%AB%E7%9B%97%E6%83%8A%E9%AD%82%E5%A4%9C/</link>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%8A%AB%E7%9B%97%E6%83%8A%E9%AD%82%E5%A4%9C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>我的世界地下城2</title>
+      <link>https://7772027.xyz/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%9C%B0%E4%B8%8B%E5%9F%8E2/</link>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%9C%B0%E4%B8%8B%E5%9F%8E2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>像素射击3D</title>
+      <link>https://7772027.xyz/tags/%E5%83%8F%E7%B4%A0%E5%B0%84%E5%87%BB3d/</link>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%83%8F%E7%B4%A0%E5%B0%84%E5%87%BB3d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bodycam</title>
+      <link>https://7772027.xyz/tags/bodycam/</link>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/bodycam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Root</title>
+      <link>https://7772027.xyz/tags/root/</link>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/root/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KRAKEN</title>
+      <link>https://7772027.xyz/tags/kraken/</link>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/kraken/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Valheim</title>
+      <link>https://7772027.xyz/tags/valheim/</link>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/valheim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>神狄</title>
+      <link>https://7772027.xyz/tags/%E7%A5%9E%E7%8B%84/</link>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%A5%9E%E7%8B%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>异锁</title>
+      <link>https://7772027.xyz/tags/%E5%BC%82%E9%94%81/</link>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%BC%82%E9%94%81/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>植物大战僵尸</title>
+      <link>https://7772027.xyz/tags/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8/</link>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>当归</title>
+      <link>https://7772027.xyz/tags/%E5%BD%93%E5%BD%92/</link>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%BD%93%E5%BD%92/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>魂斗罗</title>
+      <link>https://7772027.xyz/tags/%E9%AD%82%E6%96%97%E7%BD%97/</link>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E9%AD%82%E6%96%97%E7%BD%97/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>火箭联盟</title>
+      <link>https://7772027.xyz/tags/%E7%81%AB%E7%AE%AD%E8%81%94%E7%9B%9F/</link>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%81%AB%E7%AE%AD%E8%81%94%E7%9B%9F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>蓝猫</title>
+      <link>https://7772027.xyz/tags/%E8%93%9D%E7%8C%AB/</link>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E8%93%9D%E7%8C%AB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>枪林弹雨</title>
+      <link>https://7772027.xyz/tags/%E6%9E%AA%E6%9E%97%E5%BC%B9%E9%9B%A8/</link>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%9E%AA%E6%9E%97%E5%BC%B9%E9%9B%A8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>生化危机3</title>
+      <link>https://7772027.xyz/tags/%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA3/</link>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>生死狙击1</title>
+      <link>https://7772027.xyz/tags/%E7%94%9F%E6%AD%BB%E7%8B%99%E5%87%BB1/</link>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%94%9F%E6%AD%BB%E7%8B%99%E5%87%BB1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>巫师3</title>
+      <link>https://7772027.xyz/tags/%E5%B7%AB%E5%B8%883/</link>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%B7%AB%E5%B8%883/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FM</title>
+      <link>https://7772027.xyz/tags/fm/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/fm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>复刻版</title>
+      <link>https://7772027.xyz/tags/%E5%A4%8D%E5%88%BB%E7%89%88/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%A4%8D%E5%88%BB%E7%89%88/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>寂静岭</title>
+      <link>https://7772027.xyz/tags/%E5%AF%82%E9%9D%99%E5%B2%AD/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%AF%82%E9%9D%99%E5%B2%AD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>金铲铲之战</title>
+      <link>https://7772027.xyz/tags/%E9%87%91%E9%93%B2%E9%93%B2%E4%B9%8B%E6%88%98/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E9%87%91%E9%93%B2%E9%93%B2%E4%B9%8B%E6%88%98/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>狂神国度</title>
+      <link>https://7772027.xyz/tags/%E7%8B%82%E7%A5%9E%E5%9B%BD%E5%BA%A6/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%8B%82%E7%A5%9E%E5%9B%BD%E5%BA%A6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>妮姬胜利女神</title>
+      <link>https://7772027.xyz/tags/%E5%A6%AE%E5%A7%AC%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%A6%AE%E5%A7%AC%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>女神异闻录</title>
+      <link>https://7772027.xyz/tags/%E5%A5%B3%E7%A5%9E%E5%BC%82%E9%97%BB%E5%BD%95/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%A5%B3%E7%A5%9E%E5%BC%82%E9%97%BB%E5%BD%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>晴天</title>
+      <link>https://7772027.xyz/tags/%E6%99%B4%E5%A4%A9/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%99%B4%E5%A4%A9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>收获日2</title>
+      <link>https://7772027.xyz/tags/%E6%94%B6%E8%8E%B7%E6%97%A52/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%94%B6%E8%8E%B7%E6%97%A52/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>武装突袭3</title>
+      <link>https://7772027.xyz/tags/%E6%AD%A6%E8%A3%85%E7%AA%81%E8%A2%AD3/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E6%AD%A6%E8%A3%85%E7%AA%81%E8%A2%AD3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>在我们之中</title>
+      <link>https://7772027.xyz/tags/%E5%9C%A8%E6%88%91%E4%BB%AC%E4%B9%8B%E4%B8%AD/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E5%9C%A8%E6%88%91%E4%BB%AC%E4%B9%8B%E4%B8%AD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>真三国无双2猛将版</title>
+      <link>https://7772027.xyz/tags/%E7%9C%9F%E4%B8%89%E5%9B%BD%E6%97%A0%E5%8F%8C2%E7%8C%9B%E5%B0%86%E7%89%88/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E7%9C%9F%E4%B8%89%E5%9B%BD%E6%97%A0%E5%8F%8C2%E7%8C%9B%E5%B0%86%E7%89%88/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apex</title>
+      <link>https://7772027.xyz/tags/apex/</link>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/apex/</guid>
       <description></description>
     </item>
     <item>
@@ -108,45 +2061,10 @@
       <description></description>
     </item>
     <item>
-      <title>Valheim</title>
-      <link>https://7772027.xyz/tags/valheim/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/valheim/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>暗区突围</title>
-      <link>https://7772027.xyz/tags/%E6%9A%97%E5%8C%BA%E7%AA%81%E5%9B%B4/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%9A%97%E5%8C%BA%E7%AA%81%E5%9B%B4/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>超自然行动</title>
-      <link>https://7772027.xyz/tags/%E8%B6%85%E8%87%AA%E7%84%B6%E8%A1%8C%E5%8A%A8/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E8%B6%85%E8%87%AA%E7%84%B6%E8%A1%8C%E5%8A%A8/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>池鸳</title>
-      <link>https://7772027.xyz/tags/%E6%B1%A0%E9%B8%B3/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%B1%A0%E9%B8%B3/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>楚新钓</title>
       <link>https://7772027.xyz/tags/%E6%A5%9A%E6%96%B0%E9%92%93/</link>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E6%A5%9A%E6%96%B0%E9%92%93/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>端游</title>
-      <link>https://7772027.xyz/tags/%E7%AB%AF%E6%B8%B8/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E7%AB%AF%E6%B8%B8/</guid>
       <description></description>
     </item>
     <item>
@@ -157,94 +2075,10 @@
       <description></description>
     </item>
     <item>
-      <title>绝地求生</title>
-      <link>https://7772027.xyz/tags/%E7%BB%9D%E5%9C%B0%E6%B1%82%E7%94%9F/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E7%BB%9D%E5%9C%B0%E6%B1%82%E7%94%9F/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>漫威争锋</title>
-      <link>https://7772027.xyz/tags/%E6%BC%AB%E5%A8%81%E4%BA%89%E9%94%8B/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%BC%AB%E5%A8%81%E4%BA%89%E9%94%8B/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>迷你枪战</title>
-      <link>https://7772027.xyz/tags/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E8%BF%B7%E4%BD%A0%E6%9E%AA%E6%88%98/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>杀戮空间2</title>
       <link>https://7772027.xyz/tags/%E6%9D%80%E6%88%AE%E7%A9%BA%E9%97%B42/</link>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E6%9D%80%E6%88%AE%E7%A9%BA%E9%97%B42/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>神之浩劫2</title>
-      <link>https://7772027.xyz/tags/%E7%A5%9E%E4%B9%8B%E6%B5%A9%E5%8A%AB2/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E7%A5%9E%E4%B9%8B%E6%B5%A9%E5%8A%AB2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>收获日2</title>
-      <link>https://7772027.xyz/tags/%E6%94%B6%E8%8E%B7%E6%97%A52/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%94%B6%E8%8E%B7%E6%97%A52/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>守望先锋</title>
-      <link>https://7772027.xyz/tags/%E5%AE%88%E6%9C%9B%E5%85%88%E9%94%8B/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%AE%88%E6%9C%9B%E5%85%88%E9%94%8B/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>逃离塔科夫</title>
-      <link>https://7772027.xyz/tags/%E9%80%83%E7%A6%BB%E5%A1%94%E7%A7%91%E5%A4%AB/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E9%80%83%E7%A6%BB%E5%A1%94%E7%A7%91%E5%A4%AB/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>王者荣耀</title>
-      <link>https://7772027.xyz/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>小游戏</title>
-      <link>https://7772027.xyz/tags/%E5%B0%8F%E6%B8%B8%E6%88%8F/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%B0%8F%E6%B8%B8%E6%88%8F/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>血C</title>
-      <link>https://7772027.xyz/tags/%E8%A1%80c/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E8%A1%80c/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>于嫣</title>
-      <link>https://7772027.xyz/tags/%E4%BA%8E%E5%AB%A3/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E4%BA%8E%E5%AB%A3/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>终末地</title>
-      <link>https://7772027.xyz/tags/%E7%BB%88%E6%9C%AB%E5%9C%B0/</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E7%BB%88%E6%9C%AB%E5%9C%B0/</guid>
       <description></description>
     </item>
     <item>
@@ -255,45 +2089,10 @@
       <description></description>
     </item>
     <item>
-      <title>LOLM</title>
-      <link>https://7772027.xyz/tags/lolm/</link>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/lolm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>OVO</title>
-      <link>https://7772027.xyz/tags/ovo/</link>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/ovo/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>PUBG国体</title>
       <link>https://7772027.xyz/tags/pubg%E5%9B%BD%E4%BD%93/</link>
       <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/pubg%E5%9B%BD%E4%BD%93/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>QQ飞车</title>
-      <link>https://7772027.xyz/tags/qq%E9%A3%9E%E8%BD%A6/</link>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/qq%E9%A3%9E%E8%BD%A6/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>安卓</title>
-      <link>https://7772027.xyz/tags/%E5%AE%89%E5%8D%93/</link>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%AE%89%E5%8D%93/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>当归</title>
-      <link>https://7772027.xyz/tags/%E5%BD%93%E5%BD%92/</link>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%BD%93%E5%BD%92/</guid>
       <description></description>
     </item>
     <item>
@@ -304,45 +2103,10 @@
       <description></description>
     </item>
     <item>
-      <title>恶魔学家</title>
-      <link>https://7772027.xyz/tags/%E6%81%B6%E9%AD%94%E5%AD%A6%E5%AE%B6/</link>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%81%B6%E9%AD%94%E5%AD%A6%E5%AE%B6/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>高能英雄</title>
-      <link>https://7772027.xyz/tags/%E9%AB%98%E8%83%BD%E8%8B%B1%E9%9B%84/</link>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E9%AB%98%E8%83%BD%E8%8B%B1%E9%9B%84/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>荒野大镖客2</title>
       <link>https://7772027.xyz/tags/%E8%8D%92%E9%87%8E%E5%A4%A7%E9%95%96%E5%AE%A22/</link>
       <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E8%8D%92%E9%87%8E%E5%A4%A7%E9%95%96%E5%AE%A22/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>迷你世界</title>
-      <link>https://7772027.xyz/tags/%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C/</link>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>失控进化</title>
-      <link>https://7772027.xyz/tags/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96/</link>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%A4%B1%E6%8E%A7%E8%BF%9B%E5%8C%96/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>手游</title>
-      <link>https://7772027.xyz/tags/%E6%89%8B%E6%B8%B8/</link>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%89%8B%E6%B8%B8/</guid>
       <description></description>
     </item>
     <item>
@@ -353,38 +2117,10 @@
       <description></description>
     </item>
     <item>
-      <title>香肠派对</title>
-      <link>https://7772027.xyz/tags/%E9%A6%99%E8%82%A0%E6%B4%BE%E5%AF%B9/</link>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E9%A6%99%E8%82%A0%E6%B4%BE%E5%AF%B9/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>隐形者</title>
       <link>https://7772027.xyz/tags/%E9%9A%90%E5%BD%A2%E8%80%85/</link>
       <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E9%9A%90%E5%BD%A2%E8%80%85/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>英灵神殿</title>
-      <link>https://7772027.xyz/tags/%E8%8B%B1%E7%81%B5%E7%A5%9E%E6%AE%BF/</link>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E8%8B%B1%E7%81%B5%E7%A5%9E%E6%AE%BF/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>英雄联盟</title>
-      <link>https://7772027.xyz/tags/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F/</link>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>原神</title>
-      <link>https://7772027.xyz/tags/%E5%8E%9F%E7%A5%9E/</link>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%8E%9F%E7%A5%9E/</guid>
       <description></description>
     </item>
     <item>
@@ -395,38 +2131,10 @@
       <description></description>
     </item>
     <item>
-      <title>Bodycam</title>
-      <link>https://7772027.xyz/tags/bodycam/</link>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/bodycam/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Steam</title>
-      <link>https://7772027.xyz/tags/steam/</link>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/steam/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>暗影任务</title>
       <link>https://7772027.xyz/tags/%E6%9A%97%E5%BD%B1%E4%BB%BB%E5%8A%A1/</link>
       <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E6%9A%97%E5%BD%B1%E4%BB%BB%E5%8A%A1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>彩虹六号</title>
-      <link>https://7772027.xyz/tags/%E5%BD%A9%E8%99%B9%E5%85%AD%E5%8F%B7/</link>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%BD%A9%E8%99%B9%E5%85%AD%E5%8F%B7/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>弹壳战机</title>
-      <link>https://7772027.xyz/tags/%E5%BC%B9%E5%A3%B3%E6%88%98%E6%9C%BA/</link>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%BC%B9%E5%A3%B3%E6%88%98%E6%9C%BA/</guid>
       <description></description>
     </item>
     <item>
@@ -441,13 +2149,6 @@
       <link>https://7772027.xyz/tags/%E5%85%AC%E7%9B%8A/</link>
       <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E5%85%AC%E7%9B%8A/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>迷雾大陆</title>
-      <link>https://7772027.xyz/tags/%E8%BF%B7%E9%9B%BE%E5%A4%A7%E9%99%86/</link>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E8%BF%B7%E9%9B%BE%E5%A4%A7%E9%99%86/</guid>
       <description></description>
     </item>
     <item>
@@ -493,27 +2194,6 @@
       <description></description>
     </item>
     <item>
-      <title>无畏契约</title>
-      <link>https://7772027.xyz/tags/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6/</link>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>下方了</title>
-      <link>https://7772027.xyz/tags/%E4%B8%8B%E6%96%B9%E4%BA%86/</link>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E4%B8%8B%E6%96%B9%E4%BA%86/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>伊莫</title>
-      <link>https://7772027.xyz/tags/%E4%BC%8A%E8%8E%AB/</link>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E4%BC%8A%E8%8E%AB/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>EvitaniaOnline</title>
       <link>https://7772027.xyz/tags/evitaniaonline/</link>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
@@ -535,41 +2215,6 @@
       <description></description>
     </item>
     <item>
-      <title>次神光之觉醒</title>
-      <link>https://7772027.xyz/tags/%E6%AC%A1%E7%A5%9E%E5%85%89%E4%B9%8B%E8%A7%89%E9%86%92/</link>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%AC%A1%E7%A5%9E%E5%85%89%E4%B9%8B%E8%A7%89%E9%86%92/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>光遇</title>
-      <link>https://7772027.xyz/tags/%E5%85%89%E9%81%87/</link>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%85%89%E9%81%87/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>荒野行动</title>
-      <link>https://7772027.xyz/tags/%E8%8D%92%E9%87%8E%E8%A1%8C%E5%8A%A8/</link>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E8%8D%92%E9%87%8E%E8%A1%8C%E5%8A%A8/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>火影忍者</title>
-      <link>https://7772027.xyz/tags/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85/</link>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>卡拉彼丘</title>
-      <link>https://7772027.xyz/tags/%E5%8D%A1%E6%8B%89%E5%BD%BC%E4%B8%98/</link>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%8D%A1%E6%8B%89%E5%BD%BC%E4%B8%98/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>狸猫突击队</title>
       <link>https://7772027.xyz/tags/%E7%8B%B8%E7%8C%AB%E7%AA%81%E5%87%BB%E9%98%9F/</link>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
@@ -588,55 +2233,6 @@
       <link>https://7772027.xyz/tags/%E5%8D%81%E4%B8%89%E5%8F%B7%E6%98%9F%E6%9C%9F%E4%BA%94/</link>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E5%8D%81%E4%B8%89%E5%8F%B7%E6%98%9F%E6%9C%9F%E4%BA%94/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>心动小镇</title>
-      <link>https://7772027.xyz/tags/%E5%BF%83%E5%8A%A8%E5%B0%8F%E9%95%87/</link>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%BF%83%E5%8A%A8%E5%B0%8F%E9%95%87/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>修改器</title>
-      <link>https://7772027.xyz/tags/%E4%BF%AE%E6%94%B9%E5%99%A8/</link>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E4%BF%AE%E6%94%B9%E5%99%A8/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>严阵以待</title>
-      <link>https://7772027.xyz/tags/%E4%B8%A5%E9%98%B5%E4%BB%A5%E5%BE%85/</link>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E4%B8%A5%E9%98%B5%E4%BB%A5%E5%BE%85/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>易红2</title>
-      <link>https://7772027.xyz/tags/%E6%98%93%E7%BA%A22/</link>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%98%93%E7%BA%A22/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>永劫无间</title>
-      <link>https://7772027.xyz/tags/%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4/</link>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>造梦西游</title>
-      <link>https://7772027.xyz/tags/%E9%80%A0%E6%A2%A6%E8%A5%BF%E6%B8%B8/</link>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E9%80%A0%E6%A2%A6%E8%A5%BF%E6%B8%B8/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>战狗</title>
-      <link>https://7772027.xyz/tags/%E6%88%98%E7%8B%97/</link>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%88%98%E7%8B%97/</guid>
       <description></description>
     </item>
     <item>
@@ -668,13 +2264,6 @@
       <description></description>
     </item>
     <item>
-      <title>PEAK</title>
-      <link>https://7772027.xyz/tags/peak/</link>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/peak/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>PVZ2</title>
       <link>https://7772027.xyz/tags/pvz2/</link>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
@@ -682,7 +2271,7 @@
       <description></description>
     </item>
     <item>
-      <title>Sk</title>
+      <title>SK</title>
       <link>https://7772027.xyz/tags/sk/</link>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/sk/</guid>
@@ -700,13 +2289,6 @@
       <link>https://7772027.xyz/tags/tp/</link>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/tp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wardogs</title>
-      <link>https://7772027.xyz/tags/wardogs/</link>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/wardogs/</guid>
       <description></description>
     </item>
     <item>
@@ -766,38 +2348,10 @@
       <description></description>
     </item>
     <item>
-      <title>生存33天</title>
-      <link>https://7772027.xyz/tags/%E7%94%9F%E5%AD%9833%E5%A4%A9/</link>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E7%94%9F%E5%AD%9833%E5%A4%A9/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>生死狙击</title>
-      <link>https://7772027.xyz/tags/%E7%94%9F%E6%AD%BB%E7%8B%99%E5%87%BB/</link>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E7%94%9F%E6%AD%BB%E7%8B%99%E5%87%BB/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>胜利女神</title>
-      <link>https://7772027.xyz/tags/%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E/</link>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E8%83%9C%E5%88%A9%E5%A5%B3%E7%A5%9E/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>星辰</title>
       <link>https://7772027.xyz/tags/%E6%98%9F%E8%BE%B0/</link>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E6%98%9F%E8%BE%B0/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>星际战甲</title>
-      <link>https://7772027.xyz/tags/%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2/</link>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2/</guid>
       <description></description>
     </item>
     <item>
@@ -808,13 +2362,6 @@
       <description></description>
     </item>
     <item>
-      <title>异环</title>
-      <link>https://7772027.xyz/tags/%E5%BC%82%E7%8E%AF/</link>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%BC%82%E7%8E%AF/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>于焉</title>
       <link>https://7772027.xyz/tags/%E4%BA%8E%E7%84%89/</link>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
@@ -822,24 +2369,10 @@
       <description></description>
     </item>
     <item>
-      <title>在我们之中</title>
-      <link>https://7772027.xyz/tags/%E5%9C%A8%E6%88%91%E4%BB%AC%E4%B9%8B%E4%B8%AD/</link>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%9C%A8%E6%88%91%E4%BB%AC%E4%B9%8B%E4%B8%AD/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>脏弹</title>
       <link>https://7772027.xyz/tags/%E8%84%8F%E5%BC%B9/</link>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E8%84%8F%E5%BC%B9/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>镇邪人</title>
-      <link>https://7772027.xyz/tags/%E9%95%87%E9%82%AA%E4%BA%BA/</link>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E9%95%87%E9%82%AA%E4%BA%BA/</guid>
       <description></description>
     </item>
     <item>
@@ -871,7 +2404,7 @@
       <description></description>
     </item>
     <item>
-      <title>SCp</title>
+      <title>SCP</title>
       <link>https://7772027.xyz/tags/scp/</link>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/scp/</guid>
@@ -889,20 +2422,6 @@
       <link>https://7772027.xyz/tags/yu/</link>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/yu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>钓鱼世界</title>
-      <link>https://7772027.xyz/tags/%E9%92%93%E9%B1%BC%E4%B8%96%E7%95%8C/</link>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E9%92%93%E9%B1%BC%E4%B8%96%E7%95%8C/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>寂静岭</title>
-      <link>https://7772027.xyz/tags/%E5%AF%82%E9%9D%99%E5%B2%AD/</link>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%AF%82%E9%9D%99%E5%B2%AD/</guid>
       <description></description>
     </item>
     <item>
@@ -990,13 +2509,6 @@
       <description></description>
     </item>
     <item>
-      <title>堡垒之夜</title>
-      <link>https://7772027.xyz/tags/%E5%A0%A1%E5%9E%92%E4%B9%8B%E5%A4%9C/</link>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%A0%A1%E5%9E%92%E4%B9%8B%E5%A4%9C/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>超级变色龙</title>
       <link>https://7772027.xyz/tags/%E8%B6%85%E7%BA%A7%E5%8F%98%E8%89%B2%E9%BE%99/</link>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
@@ -1004,24 +2516,10 @@
       <description></description>
     </item>
     <item>
-      <title>鹅鸭杀</title>
-      <link>https://7772027.xyz/tags/%E9%B9%85%E9%B8%AD%E6%9D%80/</link>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E9%B9%85%E9%B8%AD%E6%9D%80/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>幻兽帕鲁</title>
       <link>https://7772027.xyz/tags/%E5%B9%BB%E5%85%BD%E5%B8%95%E9%B2%81/</link>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E5%B9%BB%E5%85%BD%E5%B8%95%E9%B2%81/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>恐鬼症</title>
-      <link>https://7772027.xyz/tags/%E6%81%90%E9%AC%BC%E7%97%87/</link>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%81%90%E9%AC%BC%E7%97%87/</guid>
       <description></description>
     </item>
     <item>
@@ -1039,13 +2537,6 @@
       <description></description>
     </item>
     <item>
-      <title>使命召唤</title>
-      <link>https://7772027.xyz/tags/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4/</link>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>逃离后室</title>
       <link>https://7772027.xyz/tags/%E9%80%83%E7%A6%BB%E5%90%8E%E5%AE%A4/</link>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
@@ -1060,24 +2551,10 @@
       <description></description>
     </item>
     <item>
-      <title>天启者</title>
-      <link>https://7772027.xyz/tags/%E5%A4%A9%E5%90%AF%E8%80%85/</link>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%A4%A9%E5%90%AF%E8%80%85/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>渔力全开</title>
       <link>https://7772027.xyz/tags/%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80/</link>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E6%B8%94%E5%8A%9B%E5%85%A8%E5%BC%80/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>远光84</title>
-      <link>https://7772027.xyz/tags/%E8%BF%9C%E5%85%8984/</link>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E8%BF%9C%E5%85%8984/</guid>
       <description></description>
     </item>
     <item>
@@ -1102,13 +2579,6 @@
       <description></description>
     </item>
     <item>
-      <title>H1Z1</title>
-      <link>https://7772027.xyz/tags/h1z1/</link>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/h1z1/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>阿尔米娅赞歌</title>
       <link>https://7772027.xyz/tags/%E9%98%BF%E5%B0%94%E7%B1%B3%E5%A8%85%E8%B5%9E%E6%AD%8C/</link>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
@@ -1120,13 +2590,6 @@
       <link>https://7772027.xyz/tags/%E4%BA%8C%E9%87%8D%E8%9E%BA%E6%97%8B/</link>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E4%BA%8C%E9%87%8D%E8%9E%BA%E6%97%8B/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>工具</title>
-      <link>https://7772027.xyz/tags/%E5%B7%A5%E5%85%B7/</link>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%B7%A5%E5%85%B7/</guid>
       <description></description>
     </item>
     <item>
@@ -1165,13 +2628,6 @@
       <description></description>
     </item>
     <item>
-      <title>武装突袭3</title>
-      <link>https://7772027.xyz/tags/%E6%AD%A6%E8%A3%85%E7%AA%81%E8%A2%AD3/</link>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%AD%A6%E8%A3%85%E7%AA%81%E8%A2%AD3/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>STRAFTAT</title>
       <link>https://7772027.xyz/tags/straftat/</link>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
@@ -1186,13 +2642,6 @@
       <description></description>
     </item>
     <item>
-      <title>加里波利</title>
-      <link>https://7772027.xyz/tags/%E5%8A%A0%E9%87%8C%E6%B3%A2%E5%88%A9/</link>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%8A%A0%E9%87%8C%E6%B3%A2%E5%88%A9/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>洛克王国</title>
       <link>https://7772027.xyz/tags/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD/</link>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
@@ -1200,38 +2649,10 @@
       <description></description>
     </item>
     <item>
-      <title>毛豆</title>
-      <link>https://7772027.xyz/tags/%E6%AF%9B%E8%B1%86/</link>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%AF%9B%E8%B1%86/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>七日杀</title>
-      <link>https://7772027.xyz/tags/%E4%B8%83%E6%97%A5%E6%9D%80/</link>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E4%B8%83%E6%97%A5%E6%9D%80/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>全境封锁2</title>
       <link>https://7772027.xyz/tags/%E5%85%A8%E5%A2%83%E5%B0%81%E9%94%812/</link>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E5%85%A8%E5%A2%83%E5%B0%81%E9%94%812/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>散兵坑</title>
-      <link>https://7772027.xyz/tags/%E6%95%A3%E5%85%B5%E5%9D%91/</link>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%95%A3%E5%85%B5%E5%9D%91/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>吞噬</title>
-      <link>https://7772027.xyz/tags/%E5%90%9E%E5%99%AC/</link>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%90%9E%E5%99%AC/</guid>
       <description></description>
     </item>
     <item>
@@ -1270,13 +2691,6 @@
       <description></description>
     </item>
     <item>
-      <title>绝区零</title>
-      <link>https://7772027.xyz/tags/%E7%BB%9D%E5%8C%BA%E9%9B%B6/</link>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E7%BB%9D%E5%8C%BA%E9%9B%B6/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>猫羽雫</title>
       <link>https://7772027.xyz/tags/%E7%8C%AB%E7%BE%BD%E9%9B%AB/</link>
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
@@ -1291,13 +2705,6 @@
       <description></description>
     </item>
     <item>
-      <title>王牌战争</title>
-      <link>https://7772027.xyz/tags/%E7%8E%8B%E7%89%8C%E6%88%98%E4%BA%89/</link>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E7%8E%8B%E7%89%8C%E6%88%98%E4%BA%89/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>小狸</title>
       <link>https://7772027.xyz/tags/%E5%B0%8F%E7%8B%B8/</link>
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
@@ -1309,20 +2716,6 @@
       <link>https://7772027.xyz/tags/arlo/</link>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/arlo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>PC</title>
-      <link>https://7772027.xyz/tags/pc/</link>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/pc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>僵尸毁灭工程</title>
-      <link>https://7772027.xyz/tags/%E5%83%B5%E5%B0%B8%E6%AF%81%E7%81%AD%E5%B7%A5%E7%A8%8B/</link>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%83%B5%E5%B0%B8%E6%AF%81%E7%81%AD%E5%B7%A5%E7%A8%8B/</guid>
       <description></description>
     </item>
     <item>
@@ -1347,38 +2740,10 @@
       <description></description>
     </item>
     <item>
-      <title>月光光心慌慌</title>
-      <link>https://7772027.xyz/tags/%E6%9C%88%E5%85%89%E5%85%89%E5%BF%83%E6%85%8C%E6%85%8C/</link>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%9C%88%E5%85%89%E5%85%89%E5%BF%83%E6%85%8C%E6%85%8C/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Release</title>
       <link>https://7772027.xyz/tags/release/</link>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/release/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wind</title>
-      <link>https://7772027.xyz/tags/wind/</link>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/wind/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>对峙2</title>
-      <link>https://7772027.xyz/tags/%E5%AF%B9%E5%B3%992/</link>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%AF%B9%E5%B3%992/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>国际服</title>
-      <link>https://7772027.xyz/tags/%E5%9B%BD%E9%99%85%E6%9C%8D/</link>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%9B%BD%E9%99%85%E6%9C%8D/</guid>
       <description></description>
     </item>
     <item>
@@ -1393,20 +2758,6 @@
       <link>https://7772027.xyz/tags/%E5%BC%80%E5%BF%83/</link>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E5%BC%80%E5%BF%83/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>蓝猫</title>
-      <link>https://7772027.xyz/tags/%E8%93%9D%E7%8C%AB/</link>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E8%93%9D%E7%8C%AB/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>晴天</title>
-      <link>https://7772027.xyz/tags/%E6%99%B4%E5%A4%A9/</link>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%99%B4%E5%A4%A9/</guid>
       <description></description>
     </item>
     <item>
@@ -1428,13 +2779,6 @@
       <link>https://7772027.xyz/tags/%E7%BB%9F%E8%AE%A1%E5%AD%A6/</link>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E7%BB%9F%E8%AE%A1%E5%AD%A6/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>DMA</title>
-      <link>https://7772027.xyz/tags/dma/</link>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/dma/</guid>
       <description></description>
     </item>
     <item>
@@ -1463,13 +2807,6 @@
       <link>https://7772027.xyz/tags/%E5%A4%9A%E6%B8%B8%E6%88%8F/</link>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E5%A4%9A%E6%B8%B8%E6%88%8F/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>金铲铲之战</title>
-      <link>https://7772027.xyz/tags/%E9%87%91%E9%93%B2%E9%93%B2%E4%B9%8B%E6%88%98/</link>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E9%87%91%E9%93%B2%E9%93%B2%E4%B9%8B%E6%88%98/</guid>
       <description></description>
     </item>
     <item>
@@ -1515,13 +2852,6 @@
       <description></description>
     </item>
     <item>
-      <title>星穹铁道</title>
-      <link>https://7772027.xyz/tags/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93/</link>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>战斗大师</title>
       <link>https://7772027.xyz/tags/%E6%88%98%E6%96%97%E5%A4%A7%E5%B8%88/</link>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
@@ -1547,13 +2877,6 @@
       <link>https://7772027.xyz/tags/qq%E7%82%AB%E8%88%9E/</link>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/qq%E7%82%AB%E8%88%9E/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>弹壳特攻队</title>
-      <link>https://7772027.xyz/tags/%E5%BC%B9%E5%A3%B3%E7%89%B9%E6%94%BB%E9%98%9F/</link>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%BC%B9%E5%A3%B3%E7%89%B9%E6%94%BB%E9%98%9F/</guid>
       <description></description>
     </item>
     <item>
@@ -1648,20 +2971,6 @@
       <description></description>
     </item>
     <item>
-      <title>美化</title>
-      <link>https://7772027.xyz/tags/%E7%BE%8E%E5%8C%96/</link>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E7%BE%8E%E5%8C%96/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>明日方舟</title>
-      <link>https://7772027.xyz/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/</link>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>螃蟹冠军</title>
       <link>https://7772027.xyz/tags/%E8%9E%83%E8%9F%B9%E5%86%A0%E5%86%9B/</link>
       <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
@@ -1711,13 +3020,6 @@
       <description></description>
     </item>
     <item>
-      <title>换肤</title>
-      <link>https://7772027.xyz/tags/%E6%8D%A2%E8%82%A4/</link>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%8D%A2%E8%82%A4/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>绿色地狱</title>
       <link>https://7772027.xyz/tags/%E7%BB%BF%E8%89%B2%E5%9C%B0%E7%8B%B1/</link>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
@@ -1753,13 +3055,6 @@
       <description></description>
     </item>
     <item>
-      <title>EO</title>
-      <link>https://7772027.xyz/tags/eo/</link>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/eo/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Ikun</title>
       <link>https://7772027.xyz/tags/ikun/</link>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
@@ -1771,13 +3066,6 @@
       <link>https://7772027.xyz/tags/king/</link>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/king/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>开放空间</title>
-      <link>https://7772027.xyz/tags/%E5%BC%80%E6%94%BE%E7%A9%BA%E9%97%B4/</link>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%BC%80%E6%94%BE%E7%A9%BA%E9%97%B4/</guid>
       <description></description>
     </item>
     <item>
@@ -1809,7 +3097,7 @@
       <description></description>
     </item>
     <item>
-      <title>As</title>
+      <title>AS</title>
       <link>https://7772027.xyz/tags/as/</link>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/as/</guid>
@@ -1827,13 +3115,6 @@
       <link>https://7772027.xyz/tags/%E7%87%95%E4%BA%91%E5%8D%81%E5%85%AD%E5%A3%B0/</link>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E7%87%95%E4%BA%91%E5%8D%81%E5%85%AD%E5%A3%B0/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>一步两步</title>
-      <link>https://7772027.xyz/tags/%E4%B8%80%E6%AD%A5%E4%B8%A4%E6%AD%A5/</link>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E4%B8%80%E6%AD%A5%E4%B8%A4%E6%AD%A5/</guid>
       <description></description>
     </item>
     <item>
@@ -1932,13 +3213,6 @@
       <link>https://7772027.xyz/tags/vt/</link>
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/vt/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>超凡先锋</title>
-      <link>https://7772027.xyz/tags/%E8%B6%85%E5%87%A1%E5%85%88%E9%94%8B/</link>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E8%B6%85%E5%87%A1%E5%85%88%E9%94%8B/</guid>
       <description></description>
     </item>
     <item>
@@ -2103,13 +3377,6 @@
       <description></description>
     </item>
     <item>
-      <title>保镖</title>
-      <link>https://7772027.xyz/tags/%E4%BF%9D%E9%95%96/</link>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E4%BF%9D%E9%95%96/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>贫民窟</title>
       <link>https://7772027.xyz/tags/%E8%B4%AB%E6%B0%91%E7%AA%9F/</link>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
@@ -2142,13 +3409,6 @@
       <link>https://7772027.xyz/tags/%E8%BF%BD%E8%B8%AA/</link>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E8%BF%BD%E8%B8%AA/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ai自瞄</title>
-      <link>https://7772027.xyz/tags/ai%E8%87%AA%E7%9E%84/</link>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/ai%E8%87%AA%E7%9E%84/</guid>
       <description></description>
     </item>
     <item>
@@ -2222,13 +3482,6 @@
       <description></description>
     </item>
     <item>
-      <title>AmongUs</title>
-      <link>https://7772027.xyz/tags/amongus/</link>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/amongus/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>BBQ</title>
       <link>https://7772027.xyz/tags/bbq/</link>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
@@ -2240,20 +3493,6 @@
       <link>https://7772027.xyz/tags/hook/</link>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/hook/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Root</title>
-      <link>https://7772027.xyz/tags/root/</link>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/root/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>不良人</title>
-      <link>https://7772027.xyz/tags/%E4%B8%8D%E8%89%AF%E4%BA%BA/</link>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E4%B8%8D%E8%89%AF%E4%BA%BA/</guid>
       <description></description>
     </item>
     <item>
@@ -2299,24 +3538,10 @@
       <description></description>
     </item>
     <item>
-      <title>萤火突击</title>
-      <link>https://7772027.xyz/tags/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB/</link>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E8%90%A4%E7%81%AB%E7%AA%81%E5%87%BB/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>猪头肉</title>
       <link>https://7772027.xyz/tags/%E7%8C%AA%E5%A4%B4%E8%82%89/</link>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E7%8C%AA%E5%A4%B4%E8%82%89/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>NV</title>
-      <link>https://7772027.xyz/tags/nv/</link>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/nv/</guid>
       <description></description>
     </item>
     <item>
@@ -2338,27 +3563,6 @@
       <link>https://7772027.xyz/tags/%E6%B0%AE%E5%8C%96%E7%89%A9%E7%94%9F%E5%AD%98%E5%B2%9B/</link>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E6%B0%AE%E5%8C%96%E7%89%A9%E7%94%9F%E5%AD%98%E5%B2%9B/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>辐射4</title>
-      <link>https://7772027.xyz/tags/%E8%BE%90%E5%B0%844/</link>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E8%BE%90%E5%B0%844/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>改文件</title>
-      <link>https://7772027.xyz/tags/%E6%94%B9%E6%96%87%E4%BB%B6/</link>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%94%B9%E6%96%87%E4%BB%B6/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>机械狂欢</title>
-      <link>https://7772027.xyz/tags/%E6%9C%BA%E6%A2%B0%E7%8B%82%E6%AC%A2/</link>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%9C%BA%E6%A2%B0%E7%8B%82%E6%AC%A2/</guid>
       <description></description>
     </item>
     <item>
@@ -2390,7 +3594,7 @@
       <description></description>
     </item>
     <item>
-      <title>CSGO</title>
+      <title>Csgo</title>
       <link>https://7772027.xyz/tags/csgo/</link>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/csgo/</guid>
@@ -2439,13 +3643,6 @@
       <description></description>
     </item>
     <item>
-      <title>绝地潜兵2</title>
-      <link>https://7772027.xyz/tags/%E7%BB%9D%E5%9C%B0%E6%BD%9C%E5%85%B52/</link>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E7%BB%9D%E5%9C%B0%E6%BD%9C%E5%85%B52/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>临时root</title>
       <link>https://7772027.xyz/tags/%E4%B8%B4%E6%97%B6root/</link>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
@@ -2464,13 +3661,6 @@
       <link>https://7772027.xyz/tags/%E8%B0%81%E5%9C%A8%E5%8F%AB/</link>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E8%B0%81%E5%9C%A8%E5%8F%AB/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>泰拉瑞亚</title>
-      <link>https://7772027.xyz/tags/%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A/</link>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A/</guid>
       <description></description>
     </item>
     <item>
@@ -2523,20 +3713,6 @@
       <description></description>
     </item>
     <item>
-      <title>代号血战</title>
-      <link>https://7772027.xyz/tags/%E4%BB%A3%E5%8F%B7%E8%A1%80%E6%88%98/</link>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E4%BB%A3%E5%8F%B7%E8%A1%80%E6%88%98/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>单机版</title>
-      <link>https://7772027.xyz/tags/%E5%8D%95%E6%9C%BA%E7%89%88/</link>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%8D%95%E6%9C%BA%E7%89%88/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>房东模拟器</title>
       <link>https://7772027.xyz/tags/%E6%88%BF%E4%B8%9C%E6%A8%A1%E6%8B%9F%E5%99%A8/</link>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
@@ -2555,13 +3731,6 @@
       <link>https://7772027.xyz/tags/%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E4%B8%96%E7%95%8C/</link>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E4%B8%96%E7%95%8C/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>减CD</title>
-      <link>https://7772027.xyz/tags/%E5%87%8Fcd/</link>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%87%8Fcd/</guid>
       <description></description>
     </item>
     <item>
@@ -2684,20 +3853,6 @@
       <description></description>
     </item>
     <item>
-      <title>蔚蓝档案</title>
-      <link>https://7772027.xyz/tags/%E8%94%9A%E8%93%9D%E6%A1%A3%E6%A1%88/</link>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E8%94%9A%E8%93%9D%E6%A1%A3%E6%A1%88/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>我的世界</title>
-      <link>https://7772027.xyz/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/</link>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>小说</title>
       <link>https://7772027.xyz/tags/%E5%B0%8F%E8%AF%B4/</link>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
@@ -2810,24 +3965,10 @@
       <description></description>
     </item>
     <item>
-      <title>小小勇者</title>
-      <link>https://7772027.xyz/tags/%E5%B0%8F%E5%B0%8F%E5%8B%87%E8%80%85/</link>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%B0%8F%E5%B0%8F%E5%8B%87%E8%80%85/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>雪花</title>
       <link>https://7772027.xyz/tags/%E9%9B%AA%E8%8A%B1/</link>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E9%9B%AA%E8%8A%B1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>战双帕弥什</title>
-      <link>https://7772027.xyz/tags/%E6%88%98%E5%8F%8C%E5%B8%95%E5%BC%A5%E4%BB%80/</link>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%88%98%E5%8F%8C%E5%B8%95%E5%BC%A5%E4%BB%80/</guid>
       <description></description>
     </item>
     <item>
@@ -2964,24 +4105,10 @@
       <description></description>
     </item>
     <item>
-      <title>雷霆战机</title>
-      <link>https://7772027.xyz/tags/%E9%9B%B7%E9%9C%86%E6%88%98%E6%9C%BA/</link>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E9%9B%B7%E9%9C%86%E6%88%98%E6%9C%BA/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>洛琪希</title>
       <link>https://7772027.xyz/tags/%E6%B4%9B%E7%90%AA%E5%B8%8C/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E6%B4%9B%E7%90%AA%E5%B8%8C/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>上古卷轴5</title>
-      <link>https://7772027.xyz/tags/%E4%B8%8A%E5%8F%A4%E5%8D%B7%E8%BD%B45/</link>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E4%B8%8A%E5%8F%A4%E5%8D%B7%E8%BD%B45/</guid>
       <description></description>
     </item>
     <item>
@@ -3003,13 +4130,6 @@
       <link>https://7772027.xyz/tags/%E6%98%9F%E9%87%8E/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E6%98%9F%E9%87%8E/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>植物大战僵尸</title>
-      <link>https://7772027.xyz/tags/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8/</link>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8/</guid>
       <description></description>
     </item>
     <item>
@@ -3038,13 +4158,6 @@
       <link>https://7772027.xyz/tags/%E9%BE%99%E4%B9%8B%E5%89%91%E8%A7%89%E9%86%92/</link>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E9%BE%99%E4%B9%8B%E5%89%91%E8%A7%89%E9%86%92/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>神狄</title>
-      <link>https://7772027.xyz/tags/%E7%A5%9E%E7%8B%84/</link>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E7%A5%9E%E7%8B%84/</guid>
       <description></description>
     </item>
     <item>
@@ -3111,13 +4224,6 @@
       <description></description>
     </item>
     <item>
-      <title>修仙</title>
-      <link>https://7772027.xyz/tags/%E4%BF%AE%E4%BB%99/</link>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E4%BF%AE%E4%BB%99/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>知秋</title>
       <link>https://7772027.xyz/tags/%E7%9F%A5%E7%A7%8B/</link>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
@@ -3181,13 +4287,6 @@
       <description></description>
     </item>
     <item>
-      <title>黑神话悟空</title>
-      <link>https://7772027.xyz/tags/%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA/</link>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>教学</title>
       <link>https://7772027.xyz/tags/%E6%95%99%E5%AD%A6/</link>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
@@ -3202,24 +4301,10 @@
       <description></description>
     </item>
     <item>
-      <title>免广告</title>
-      <link>https://7772027.xyz/tags/%E5%85%8D%E5%B9%BF%E5%91%8A/</link>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%85%8D%E5%B9%BF%E5%91%8A/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>皮肤代码</title>
       <link>https://7772027.xyz/tags/%E7%9A%AE%E8%82%A4%E4%BB%A3%E7%A0%81/</link>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E7%9A%AE%E8%82%A4%E4%BB%A3%E7%A0%81/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>枪林弹雨</title>
-      <link>https://7772027.xyz/tags/%E6%9E%AA%E6%9E%97%E5%BC%B9%E9%9B%A8/</link>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%9E%AA%E6%9E%97%E5%BC%B9%E9%9B%A8/</guid>
       <description></description>
     </item>
     <item>
@@ -3314,13 +4399,6 @@
       <description></description>
     </item>
     <item>
-      <title>棕色尘埃2</title>
-      <link>https://7772027.xyz/tags/%E6%A3%95%E8%89%B2%E5%B0%98%E5%9F%832/</link>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E6%A3%95%E8%89%B2%E5%B0%98%E5%9F%832/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Hero</title>
       <link>https://7772027.xyz/tags/hero/</link>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
@@ -3370,13 +4448,6 @@
       <description></description>
     </item>
     <item>
-      <title>山海记</title>
-      <link>https://7772027.xyz/tags/%E5%B1%B1%E6%B5%B7%E8%AE%B0/</link>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%B1%B1%E6%B5%B7%E8%AE%B0/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>水仙</title>
       <link>https://7772027.xyz/tags/%E6%B0%B4%E4%BB%99/</link>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
@@ -3398,20 +4469,6 @@
       <description></description>
     </item>
     <item>
-      <title>免root</title>
-      <link>https://7772027.xyz/tags/%E5%85%8Droot/</link>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%85%8Droot/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>逆战</title>
-      <link>https://7772027.xyz/tags/%E9%80%86%E6%88%98/</link>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E9%80%86%E6%88%98/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>王者荣耀内核</title>
       <link>https://7772027.xyz/tags/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%86%85%E6%A0%B8/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
@@ -3430,6 +4487,13 @@
       <link>https://7772027.xyz/tags/%E9%9C%80%E8%A6%81root/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://7772027.xyz/tags/%E9%9C%80%E8%A6%81root/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>高能英雄内核</title>
+      <link>https://7772027.xyz/tags/%E9%AB%98%E8%83%BD%E8%8B%B1%E9%9B%84%E5%86%85%E6%A0%B8/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://7772027.xyz/tags/%E9%AB%98%E8%83%BD%E8%8B%B1%E9%9B%84%E5%86%85%E6%A0%B8/</guid>
       <description></description>
     </item>
     <item>
@@ -3566,13 +4630,6 @@
       <description></description>
     </item>
     <item>
-      <title>高能英雄内核</title>
-      <link>https://7772027.xyz/tags/%E9%AB%98%E8%83%BD%E8%8B%B1%E9%9B%84%E5%86%85%E6%A0%B8/</link>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E9%AB%98%E8%83%BD%E8%8B%B1%E9%9B%84%E5%86%85%E6%A0%B8/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>PC洛克王国世界</title>
       <link>https://7772027.xyz/tags/pc%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E4%B8%96%E7%95%8C/</link>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
@@ -3647,13 +4704,6 @@
       <link>https://7772027.xyz/tags/%E8%9E%8D%E5%90%88%E7%89%88/</link>
       <pubDate>Fri, 03 Apr 2026 19:00:00 +0800</pubDate>
       <guid>https://7772027.xyz/tags/%E8%9E%8D%E5%90%88%E7%89%88/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>合集</title>
-      <link>https://7772027.xyz/tags/%E5%90%88%E9%9B%86/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://7772027.xyz/tags/%E5%90%88%E9%9B%86/</guid>
       <description></description>
     </item>
     <item>

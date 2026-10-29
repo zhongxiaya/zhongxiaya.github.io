@@ -3,7 +3,32 @@
         <title>PC - 标签 - 7772027.xyz</title>
         <link>https://7772027.xyz/tags/pc/</link>
         <description>PC - 标签 - 7772027.xyz</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 18 Sep 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/pc/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 14 Oct 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://7772027.xyz/tags/pc/" rel="self" type="application/rss+xml" /><item>
+    <title>Vulkan渲染类游戏人物上色透视（仅支持Vulkan渲染的游戏）</title>
+    <link>https://7772027.xyz/vulkan%E6%B8%B2%E6%9F%93%E7%B1%BB%E6%B8%B8%E6%88%8F%E4%BA%BA%E7%89%A9%E4%B8%8A%E8%89%B2%E9%80%8F%E8%A7%86%E4%BB%85%E6%94%AF%E6%8C%81vulkan%E6%B8%B2%E6%9F%93%E7%9A%84%E6%B8%B8%E6%88%8F/</link>
+    <pubDate>Wed, 14 Oct 2026 00:00:00 &#43;0000</pubDate>
+    <author>7772027.xyz</author>
+    <guid>https://7772027.xyz/vulkan%E6%B8%B2%E6%9F%93%E7%B1%BB%E6%B8%B8%E6%88%8F%E4%BA%BA%E7%89%A9%E4%B8%8A%E8%89%B2%E9%80%8F%E8%A7%86%E4%BB%85%E6%94%AF%E6%8C%81vulkan%E6%B8%B2%E6%9F%93%E7%9A%84%E6%B8%B8%E6%88%8F/</guid>
+    <description><![CDATA[<h3 id="更新日志">更新日志</h3>
+<p>Vulkan渲染类游戏人物上色透视（仅支持Vulkan渲染的游戏）<br>
+使用说明：<br>
+1.启动游戏<br>
+2.大厅界面打开 注入器 注入即可。<br>
+注意：你需要尽早注入，在你的注入器一检测到游戏可执行文件时就立刻注入，这样它才能拦截 CreateGraphicsPipelines。<br>
+功能按键：<br>
+F3 开关透视（默认开启）<br>
+F4 开关颜色（默认开启）<br>
+F6 把当前值记录到 log.txt<br>
+常见支持 Vulkan 的游戏（举例）：<br>
+《英灵神殿》Valheim<br>
+《毁灭战士：永恒》DOOM Eternal<br>
+《荒野大镖客 2》Red Dead Redemption 2<br>
+《彩虹六号：围攻》Rainbow Six Siege<br>
+《堡垒之夜》Fortnite（早期曾支持，后移除）<br>
+《赛博朋克 2077》Cyberpunk 2077（部分模式）<br>
+大量 Unity / Unreal 引擎游戏通过 Vulkan 后端运行</p>]]></description>
+</item>
+<item>
     <title>漫威争锋外部透视自瞄辅助9.18</title>
     <link>https://7772027.xyz/%E6%BC%AB%E5%A8%81%E4%BA%89%E9%94%8B%E5%A4%96%E9%83%A8%E9%80%8F%E8%A7%86%E8%87%AA%E7%9E%84%E8%BE%85%E5%8A%A99.18/</link>
     <pubDate>Fri, 18 Sep 2026 00:00:00 &#43;0000</pubDate>
