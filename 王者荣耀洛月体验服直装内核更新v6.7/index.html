@@ -355,6 +355,207 @@ UC网盘-免费下载
         else summary.appendChild(hint);
     }
 })();
+
+
+
+(function markPanGrid() {
+    var SEL = 'a[href*="pan."],a[href*="drive.uc.cn"],a[href*="123pan"],'
+            + 'a[href*="123684"],a[href*="123865"],a[href*="feijipan"],'
+            + 'a[href*="guangyapan"],a[href*="alipan"]';
+    var content = document.getElementById('content');
+    if (!content) return;
+
+    function isPanLink(n) {
+        return !!n && n.nodeType === 1 && n.nodeName === 'A' && n.matches(SEL);
+    }
+    function isBr(n) {
+        return !!n && n.nodeType === 1 && n.nodeName === 'BR';
+    }
+    function txt(n) {
+        return (n.nodeValue || n.textContent || '').replace(/\s+/g, ' ').trim();
+    }
+
+    
+    function isPureLinkBox(el) {
+        var clone = el.cloneNode(true);
+        var drop = clone.querySelectorAll('a, br');
+        for (var i = 0; i < drop.length; i++) {
+            if (drop[i].parentNode) drop[i].parentNode.removeChild(drop[i]);
+        }
+        return clone.textContent.replace(/\s+/g, '') === '';
+    }
+
+     
+    var ps = content.querySelectorAll('p');
+    for (var i = 0; i < ps.length; i++) {
+        if (ps[i].querySelector(SEL) && isPureLinkBox(ps[i])) {
+            ps[i].classList.add('pan-grid');
+        }
+    }
+
+    var uls = content.querySelectorAll('ul');
+    for (var k = 0; k < uls.length; k++) {
+        var ul = uls[k];
+        if (!ul.querySelector(SEL)) continue;
+        var lis = ul.children;
+        var ok = lis.length > 0;
+        for (var m = 0; m < lis.length; m++) {
+            if (!lis[m].querySelector(SEL) || !isPureLinkBox(lis[m])) { ok = false; break; }
+        }
+        if (ok) ul.classList.add('pan-grid');
+    }
+
+     
+    var LABEL_RE = /^【[^】]{1,14}】$/;
+
+    function parseLabeled(p) {
+        if (p.classList.contains('pan-grid')) return null;
+        if (!p.querySelector(SEL)) return null;
+
+        var nodes = Array.prototype.slice.call(p.childNodes);
+        var prefix = [], groups = [], cur = null, started = false;
+
+        for (var i = 0; i < nodes.length; i++) {
+            var n = nodes[i];
+            if (!started) {
+                if (n.nodeType === 3 && LABEL_RE.test(txt(n))) {
+                    started = true;
+                    cur = { label: txt(n), link: null };
+                } else {
+                    prefix.push(n);
+                }
+                continue;
+            }
+            if (isBr(n)) continue;                    
+            if (isPanLink(n)) {
+                if (!cur || cur.link) return null;    
+                cur.link = n;
+                groups.push(cur);
+                cur = null;
+                continue;
+            }
+            if (n.nodeType === 3 && LABEL_RE.test(txt(n))) {
+                cur = { label: txt(n), link: null };
+                continue;
+            }
+            if (txt(n)) return null;                  
+        }
+
+        if (cur || !groups.length) return null;        
+        return { prefix: prefix, groups: groups };
+    }
+
+    function applyLabeled(p, data) {
+        
+        var prefix = data.prefix.slice();
+        while (prefix.length) {
+            var last = prefix[prefix.length - 1];
+            if (isBr(last) || (last.nodeType === 3 && !txt(last))) prefix.pop();
+            else break;
+        }
+        var hasText = false;
+        for (var i = 0; i < prefix.length; i++) {
+            if (prefix[i].nodeType === 3 && txt(prefix[i])) { hasText = true; break; }
+            if (prefix[i].nodeType === 1) { hasText = true; break; }
+        }
+
+        var grid = document.createElement('div');
+        grid.className = 'pan-grid pan-grid--labeled';
+        for (var g = 0; g < data.groups.length; g++) {
+            var item = document.createElement('div');
+            item.className = 'pan-item';
+            var lab = document.createElement('span');
+            lab.className = 'pan-item-label';
+            lab.textContent = data.groups[g].label;
+            item.appendChild(lab);
+            item.appendChild(data.groups[g].link);
+            grid.appendChild(item);
+        }
+
+        var frag = document.createDocumentFragment();
+        if (hasText) {
+            var desc = document.createElement('p');
+            desc.className = 'pan-desc';
+            for (var j = 0; j < prefix.length; j++) desc.appendChild(prefix[j]);
+            frag.appendChild(desc);
+        }
+        frag.appendChild(grid);
+        p.parentNode.replaceChild(frag, p);
+    }
+
+    var all = content.querySelectorAll('p');
+    for (var n2 = 0; n2 < all.length; n2++) {
+        var data = parseLabeled(all[n2]);
+        if (data) applyLabeled(all[n2], data);
+    }
+
+     
+    var links = content.querySelectorAll(SEL);
+    for (var q = 0; q < links.length; q++) {
+        var a = links[q];
+        if (a.children.length === 0 && a.firstChild && a.firstChild.nodeType === 3) {
+            var sp = document.createElement('span');
+            sp.className = 'pan-txt';
+            sp.textContent = a.textContent.trim();
+            a.textContent = '';
+            a.appendChild(sp);
+        }
+    }
+})();
+
+ 
+(function panDateTip() {
+    var DATE = "9月20日";
+    if (!DATE) return;
+
+    var content = document.getElementById('content');
+    if (!content) return;
+
+    var SEL = 'a[href*="pan."],a[href*="drive.uc.cn"],a[href*="123pan"],'
+            + 'a[href*="123684"],a[href*="123865"],a[href*="feijipan"],'
+            + 'a[href*="guangyapan"],a[href*="alipan"]';
+    if (!content.querySelector(SEL)) return;
+
+    
+    var heading = null;
+    var hs = content.querySelectorAll('h2, h3, h4');
+    for (var i = 0; i < hs.length; i++) {
+        var t = (hs[i].textContent || '').replace(/\s+/g, '').replace(/[：:]+$/, '');
+        if (/^(下载地址|下载|获取地址|网盘地址|网盘下载)/.test(t)) { heading = hs[i]; break; }
+    }
+
+    
+    var block = content.querySelector('.pan-grid');
+
+    
+    var ref = null;
+    var after = false;
+    if (heading) {
+        if (!block || (heading.compareDocumentPosition(block) & 4)) {
+            
+            ref = heading;
+            after = true;
+        } else {
+            
+            ref = block;
+        }
+    } else if (block) {
+        ref = block;
+    } else {
+        return;
+    }
+
+    var tip = document.createElement('div');
+    tip.className = 'pan-date-tip';
+    tip.innerHTML =
+        '<svg viewBox="0 0 24 24" aria-hidden="true">'
+        + '<path d="M3 7.5A1.5 1.5 0 0 1 4.5 6h4.2l1.8 2h9A1.5 1.5 0 0 1 21 9.5v8A1.5 1.5 0 0 1 19.5 19h-15A1.5 1.5 0 0 1 3 17.5z"'
+        + ' fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></svg>'
+        + '<span>网盘内按日期分文件夹，请进入后查找 <strong>' + DATE + '</strong> 的文件夹</span>';
+
+    if (after) ref.parentNode.insertBefore(tip, ref.nextSibling);
+    else ref.parentNode.insertBefore(tip, ref);
+})();
 </script>
 </article></div>
             </main><footer class="footer">
